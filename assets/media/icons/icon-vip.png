@@ -1,0 +1,5463 @@
+<!doctype html>
+<html lang="en" translate="no" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"
+    />
+    <meta http-equiv="Cross-Origin-Opener-Policy" content="same-origin-allow-popups" />
+
+    <title>TOPBONO</title>
+    <!-- SEO: Meta Description -->
+    <meta name="description" content="Bienvenido a TOPBONO, el casino en línea VIP líder en México. Retiros rápidos, beneficios exclusivos, tragamonedas premium y privacidad total. Diseñado para jugadores de alto nivel." />
+    <!-- SEO: Meta Keywords -->
+    <meta name="keywords" content="casino VIP, casino en línea México, tragamonedas premium, casino en vivo, retiros rápidos, privacidad blockchain, TOPBONO, crupieres en vivo, apuestas para VIP" />
+    <!-- Author -->
+    <meta name="author" content="Equipo TOPBONO" />
+    <link rel="canonical" href="https://topbono.com/" />
+    <!-- Open Graph tags: share title, description, and image -->
+    <meta property="og:site_name" content="TOPBONO" />
+    <meta property="og:title" content="TopBono ha sido reconocido como la plataforma de casino en línea más confiable de México en 2025!" />
+    <meta property="og:description" content="¡Regístrate en WinMxco hoy y recibe 20 bonos gratis de inmediato, con recompensas de hasta $28,888 !" />
+    <meta property="og:image" content="https://res.topbono.com/meta-og-iamge.png" />
+    <meta property="og:image:url" content="https://res.topbono.com/meta-og-iamge.png" />
+    <meta property="og:image:width" content="1260" />
+    <meta property="og:image:height" content="660" />
+    <meta property="og:image:alt" content="TOPBONO" />
+    <meta property="og:url" content="https://topbono.com" />
+    <meta property="og:type" content="website" />
+
+    <!-- Set Twitter Cards meta tags to specify the title, description, and image to share -->
+    <meta name="twitter:site" content="TOPBONO" />
+    <meta name="twitter:title" content="TopBono ha sido reconocido como la plataforma de casino en línea más confiable de México en 2025!" />
+    <meta name="twitter:description" content="¡Regístrate en WinMxco hoy y recibe 20 bonos gratis de inmediato, con recompensas de hasta $28,888 !" />
+    <meta name="twitter:image" content="https://res.topbono.com/meta-og-iamge.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link rel="manifest" href="/manifest.json" />
+    <!-- iOS web app display mode when added to home screen -->
+    <meta name="mobile-web-app-capable" content="yes" />
+    <!-- iOS web app status bar style on home screen -->
+    <meta name="apple-mobile-web-app-status-style" content="black" />
+    <!-- iOS bookmark mode in the app title-->
+    <meta name="apple-mobile-web-app-title" content="TOPBONO" />
+    <!-- Apple Touch Icon for iOS devices -->
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png" />
+    <meta rel="apple-touch-statup-icon" href="/apple-touch-icon.png" />
+
+    <!-- start Google Tag Manager -->
+
+    <!-- Inline site CSS variables to avoid render-blocking -->
+    <style id="site-vars">
+      :root {
+  --header-height: 72px;
+  
+  
+  --color-primary: #ce9c36;
+  
+  --color-primary-opacity-2: #3a78ff33;
+
+  
+  --color-secondary: #fdd303;
+  
+  --color-tertiary: #f3b72d;
+  
+  --color-quaternary: #009b3a;
+  
+  --color-transparent: #ffffff99;
+  
+  --color-background: #100f0d;
+  
+  --color-success: #21dc70;
+  
+  --color-error: #d85555;
+
+  
+  
+  --color-text-primary: #ffffff;
+  
+  --color-text-secondary: #8e8479;
+  
+  --color-text-tertiary: #584e46;
+
+  
+  
+  --color-text-error: #c33c3c;
+  
+  --color-background-error: #3a222e;
+  
+  --color-text-success: #1ce447;
+  
+  --color-background-success: #223a2b;
+
+  
+  
+  --color-input-background: #171514;
+  
+  --color-input-border: #2d2b27;
+
+  
+  
+  --color-dropdown-background: #3d3a34;
+  
+  --color-dropdown-homepage-promo-gradient: linear-gradient(180deg, #704d06 0%, #d4a341 100%);
+
+  
+  
+  --color-modal-background: #24221e;
+  
+  --color-modal-gradient: linear-gradient(180deg, #8d7c58 0%, #483f2b 100%);
+  
+  --color-background-agent: #ffffff26;
+
+  
+  
+  --color-tabbar-background: #22201e;
+  
+  --color-tabbar-inactive: #5f5446;
+
+  
+  --color-faq: #1c68e2;
+
+  
+  --color-topbar: #1e1d1a;
+
+  
+  --color-head-adv-v2: #2b2c90;
+
+  
+  /* --color-head-adv-v2: #90352b; */
+
+  
+  /* --color-game-like: #6b420a; */
+
+  
+  /* --color-game-like-active: #f9d001; */
+
+  
+  /* --color-game-like-bg: linear-gradient(158.79deg, #ffd35a 13.98%, #e38900 53.73%, #ac6128 95.03%); */
+
+  
+  --color-btn-text: #ffffff;
+
+  
+  --color-recharge-btn: #22201d;
+
+  
+  --color-recharge-btn-border: #2d2b27;
+
+  
+  --color-recharge-btn-disabled: #534948;
+
+  
+  --color-recharge-btn-active: #e62f2e;
+
+  
+  
+  --color-home-banner1: linear-gradient(90deg, #cf1d15 0%, #f16549 100%);
+
+  
+  --color-home-banner: linear-gradient(90deg, #cb4c10 0%, #e0906c 100%);
+
+  
+  --color-side-bar-vip: linear-gradient(90deg, #444037 0%, #d1b269 100%);
+  
+  --color-side-bar-agent: linear-gradient(90deg, #474538 0%, #d1b069 100%);
+  
+  
+  --color-background-agent-gradient: linear-gradient(180deg, #c12817 0%, #a11c13 100%);
+
+  --font-family: Geogrotesque Wide;
+
+  
+  
+  --vip-light-line: #dcb057;
+
+  
+  --vip-background: linear-gradient(180deg, #605a47 0%, #524625 100%);
+
+  
+  --color-btn-gradient: linear-gradient(180deg, #f8e088 -2.44%, #a35f00 71.93%, #a35f00 74.96%, #c17e20 100%);
+  --color-btn-gradient-border: linear-gradient(180deg, #f8e3c9 0%, #b77a09 100%);
+
+  
+  --color-download-bg: #f0f2f5;
+  --color-download-name: #000000;
+
+  
+  --color-order-background: linear-gradient(92.15deg, #cb9c2e 0.31%, #843d12 100%);
+  --color-order-countdown-bg: #ef1212;
+
+  
+  --color-big-win-dialog-top-bg: linear-gradient(180deg, #948055 0%, #42321c 96.02%);
+  --color-big-win-dialog-top-content-bg: #44351e;
+  --color-big-win-dialog-bottom-bg: linear-gradient(
+    180deg,
+    #f0e9e5 3.85%,
+    #fef9f5 17.05%,
+    #fef9f5 79.62%,
+    #d3c4b1 100%
+  );
+  --color-big-win-dialog-bottom-content-bg: #e7e0d6;
+
+  
+  --color-wallet-withdraw-bg: linear-gradient(180deg, #67e295 -2.44%, #038a36 71.93%, #038a36 74.96%, #20b257 100%);
+  --color-wallet-withdraw-border: linear-gradient(180deg, #a0ecbc 0%, #168e43 100%);
+  --color-wallet-deposit-bg: linear-gradient(180deg, #f8e088 -2.44%, #a35f00 71.93%, #a35f00 74.96%, #c17e20 100%);
+  --color-wallet-deposit-border: linear-gradient(180deg, #f8e3c9 0%, #b77a09 100%);
+
+  
+  --color-userinfo-deposit-bg: linear-gradient(180deg, #f8e088 -2.44%, #a35f00 71.93%, #a35f00 74.96%, #c17e20 100%);
+  --color-userinfo-withdraw-bg: linear-gradient(180deg, #67e295 -2.44%, #038a36 71.93%, #038a36 74.96%, #20b257 100%);
+
+  
+  --color-input-error: #d60f0f;
+
+  --color-country-area: var(--color-text-secondary);
+  --color-btn-disabled-text: var(--color-text-tertiary);
+
+  
+  --color-reward-dialog-btn-bg: linear-gradient(180deg, #f8e088 -2.44%, #e04808 100%);
+  --color-reward-dialog-btn-border: linear-gradient(180deg, #f8e3c9 0%, #e08625 100%);
+
+  --color-recharge-amount-bg: #a06e18;
+
+  
+  --color-unlock-limited-btn-radius: 41px;
+  --color-unlock-limited-btn-bg: var(--color-btn-gradient) padding-box, var(--color-btn-gradient-border) border-box;
+  --color-unlock-limited-btn-border: 2px solid transparent;
+  --color-unlock-limited-btn-top-bg: linear-gradient(180deg, #ffffff 0%, rgba(252, 83, 81, 0) 100%);
+
+  
+  --color-head-adv-bg: linear-gradient(90deg, #7d200b 0%, #a8a007 100%);
+
+  
+  --color-multi-site-guide-bg: var(--color-btn-text);
+}
+
+    </style>
+
+    <!-- Runtime config: must load before app entry (external script, not bundled) -->
+    <!-- <script src="/runtime-config.js"></script> -->
+
+    <script>
+      try {
+        // Page start loading
+        performance.mark("page_start");
+        window.webSuccess = function () {
+          return "success";
+        };
+      } catch (error) {}
+    </script>
+
+    <script src="/telegram-web-app.js" defer></script>
+    <style>
+      #splash {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: var(--color-splash-background, #000000);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        z-index: 9999;
+        transition: opacity 0.3s;
+      }
+      .loading-process {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: var(--color-splash-track-background, #1f1e20);
+        height: 10px;
+      }
+      .process-element {
+        width: 0;
+        height: 10px;
+        border-radius: 0 10px 10px 0;
+        background-color: var(--color-splash-slider-color, var(--color-primary));
+        animation: moveRight 100s linear infinite;
+      }
+      #logo-loading {
+        width: 260px;
+      }
+      .line-container {
+        width: 260px;
+        height: 10px;
+        background-color: var(--color-splash-track-background, #1f1e20);
+        position: relative;
+        margin: 20px auto;
+        overflow: hidden;
+        border-radius: 50px;
+      }
+      .moving-element {
+        width: 30px;
+        height: 100%;
+        background-color: var(--color-splash-slider-color, #eddb9c);
+        position: absolute;
+        left: 0;
+        top: 0;
+        border-radius: 50px;
+        animation: moveLeftRight 2s linear infinite;
+      }
+      @keyframes moveLeftRight {
+        0% {
+          left: 0;
+        }
+        50% {
+          left: calc(100% - 30px);
+        }
+        100% {
+          left: 0;
+        }
+      }
+      @keyframes moveRight {
+        0% {
+          width: 0;
+        }
+        6% {
+          width: 70%;
+        }
+        100% {
+          width: 100%;
+        }
+      }
+    </style>
+
+    
+
+    <!-- Splash moved to App.vue; visibility and performance marks are controlled by the app -->
+    <!-- End Google Tag Manager -->
+
+    <script>
+      // Optimize: load js-base64 only when needed to avoid blocking first paint
+      (function () {
+        // Check if URL contains encryption parameter
+        const needsBase64 = window.location.search.includes("hoyto");
+
+        if (needsBase64) {
+          // If decryption is needed, load Base64 lib immediately
+          var script = document.createElement("script");
+          script.src = "https://cdn.jsdelivr.net/npm/js-base64@3.7.7/base64.min.js";
+          // script.async = true;
+          script.defer = true;
+          document.head.appendChild(script);
+        }
+      })();
+
+      // Ensure execution after DOMContentLoaded
+      document.addEventListener("DOMContentLoaded", function () {
+        /**
+         * Get all query parameters from current URL
+         * @returns
+         */
+        function getQueryParams() {
+          let identify = "hoyto"; // Key identifier
+          const queryString = window.location.search.substring(1);
+          const queryParams = {};
+          const pairs = queryString.split("&");
+
+          pairs.forEach((pair) => {
+            const [key, value] = pair.split("=");
+            if (key) {
+              queryParams[key] = decodeURIComponent(value);
+            }
+          });
+
+          // Compatible with new encapsulated encrypted content
+          let encrypt = queryParams[identify];
+          if (encrypt) {
+            let moveLen = 10; // Shift length
+            let queryEncrypt = caesarCipherDecrypt(encrypt, moveLen);
+            const pairsEncrypt = queryEncrypt.split("&");
+            pairsEncrypt.forEach((pair) => {
+              const [key, value] = pair.split("=");
+              if (key) {
+                queryParams[key] = decodeURIComponent(value);
+              }
+            });
+          }
+
+          return queryParams;
+        }
+
+        function caesarCipherDecrypt(source, shift) {
+          if (source.length < 1) {
+            return source;
+          }
+
+          // Restrict shift between 1 and 25
+          if (shift < 1) {
+            shift = 1;
+          } else if (shift > 25) {
+            shift = 25;
+          }
+
+          let result = "";
+
+          for (let i = 0; i < source.length; i++) {
+            let char = source[i].charCodeAt(0);
+
+            if (char >= "a".charCodeAt(0) && char <= "z".charCodeAt(0)) {
+              char = ((char - shift - "a".charCodeAt(0) + 26) % 26) + "a".charCodeAt(0);
+            } else if (char >= "A".charCodeAt(0) && char <= "Z".charCodeAt(0)) {
+              char = ((char - shift - "A".charCodeAt(0) + 26) % 26) + "A".charCodeAt(0);
+            }
+
+            result += String.fromCharCode(char);
+          }
+          try {
+            result = Base64.decode(result);
+            return result;
+          } catch {
+            return result;
+          }
+        }
+
+        const queryParams = getQueryParams();
+
+        if (queryParams.apksource && queryParams.apksource == "wgapk") {
+          localStorage.setItem("apksource", queryParams.apksource);
+        }
+
+        if (queryParams.channel && queryParams.channel_id) {
+          localStorage.setItem("channel_name", queryParams.channel);
+          localStorage.setItem("channel_id", queryParams.channel_id);
+        }
+
+        if (localStorage.getItem("channel_name") && localStorage.getItem("channel_id")) {
+          initConfig(localStorage.getItem("channel_name"), localStorage.getItem("channel_id"));
+        }
+
+        function initConfig(channel, id) {
+          // from roibest return
+          if (queryParams.is_from_roibest && queryParams.is_from_roibest == 1) {
+            return;
+          }
+
+          switch (channel) {
+            case "OKSpinPixel":
+              initOKSpinPixel(id);
+              break;
+            case "tiktok":
+              initTiktokPixel(id);
+              break;
+            case "kwai":
+              initKwaiPixel(id);
+              break;
+            case "MiniTrax":
+              initMiniTrax(id);
+              break;
+          }
+        }
+        // Generic script injection: supports onload (with args), onerror callback, and custom attributes
+        function appendScript(
+          src,
+          { async = false, defer = false, attrs = {}, onload = null, onloadArgs = [], onerror = null } = {}
+        ) {
+          const s = document.createElement("script");
+          s.type = "text/javascript";
+          if (async) s.async = true;
+          if (defer) s.defer = true;
+          for (const k in attrs) {
+            try {
+              s.setAttribute(k, attrs[k]);
+            } catch (e) {}
+          }
+          s.src = src;
+          s.onload = function () {
+            try {
+              if (typeof onload === "function") {
+                // Pass argument array to onload callback
+                onload.apply(this, onloadArgs || []);
+              }
+            } catch (e) {
+              console.error("script onload handler error:", e);
+            }
+          };
+          if (typeof onerror === "function") {
+            s.onerror = onerror;
+          }
+          document.head.appendChild(s);
+          return s;
+        }
+
+        function initMiniTrax(pixel) {
+          if (!pixel) {
+            return;
+          }
+          // Prefer CDN; fallback to local static file on load failure
+          const remoteSrc = "https://res.minitrax.org/sdk/minitrax-tma.js";
+          const localSrc = "/minitrax-tma.js"; // Ensure this file exists in public/minitrax-tma.js
+
+          // onload callback receives pixel as first argument
+          const initCallback = function (token) {
+            try {
+              if (window.minitrax && typeof window.minitrax.init === "function") {
+                window.minitrax.init({ token: token });
+                if (typeof window.minitrax.track === "function") {
+                  window.minitrax.track("opentma");
+                }
+              }
+            } catch (e) {
+              console.error("minitrax init error:", e);
+            }
+          };
+
+          // Load remote script first, fallback to local on failure
+          appendScript(remoteSrc, {
+            onload: initCallback,
+            defer: true,
+            onloadArgs: [pixel],
+            onerror: function () {
+              console.warn("minitrax: remote load failed, fallback to local script:", localSrc);
+              appendScript(localSrc, { onload: initCallback, defer: true, onloadArgs: [pixel] });
+            },
+          });
+        }
+
+        function initOKSpinPixel(pixel) {
+          if (!pixel) {
+            return;
+          }
+          let script = document.createElement("script");
+          script.type = "text/javascript";
+          // This resource does not block document loading
+          script.src = "https://s.oksp.in/js/tag.js?aa=" + pixel;
+          script.onload = () => {
+            console.log("initOKSpinPixel-success");
+          };
+          document.head.appendChild(script);
+        }
+
+        function initKwaiPixel(kwaiId) {
+          if (!kwaiId) {
+            return;
+          }
+          !(function (e, t) {
+            "object" == typeof exports && "object" == typeof module
+              ? (module.exports = t())
+              : "function" == typeof define && define.amd
+                ? define([], t)
+                : "object" == typeof exports
+                  ? (exports.install = t())
+                  : (e.install = t());
+          })("undefined" != typeof window ? window : self, function () {
+            return (function (e) {
+              var t = {};
+              function n(o) {
+                if (t[o]) return t[o].exports;
+                var r = (t[o] = { i: o, l: !1, exports: {} });
+                return (e[o].call(r.exports, r, r.exports, n), (r.l = !0), r.exports);
+              }
+              return (
+                (n.m = e),
+                (n.c = t),
+                (n.d = function (e, t, o) {
+                  n.o(e, t) || Object.defineProperty(e, t, { enumerable: !0, get: o });
+                }),
+                (n.r = function (e) {
+                  ("undefined" != typeof Symbol &&
+                    Symbol.toStringTag &&
+                    Object.defineProperty(e, Symbol.toStringTag, { value: "Module" }),
+                    Object.defineProperty(e, "__esModule", { value: !0 }));
+                }),
+                (n.t = function (e, t) {
+                  if ((1 & t && (e = n(e)), 8 & t)) return e;
+                  if (4 & t && "object" == typeof e && e && e.__esModule) return e;
+                  var o = Object.create(null);
+                  if (
+                    (n.r(o),
+                    Object.defineProperty(o, "default", { enumerable: !0, value: e }),
+                    2 & t && "string" != typeof e)
+                  )
+                    for (var r in e)
+                      n.d(
+                        o,
+                        r,
+                        function (t) {
+                          return e[t];
+                        }.bind(null, r)
+                      );
+                  return o;
+                }),
+                (n.n = function (e) {
+                  var t =
+                    e && e.__esModule
+                      ? function () {
+                          return e.default;
+                        }
+                      : function () {
+                          return e;
+                        };
+                  return (n.d(t, "a", t), t);
+                }),
+                (n.o = function (e, t) {
+                  return Object.prototype.hasOwnProperty.call(e, t);
+                }),
+                (n.p = ""),
+                n((n.s = 72))
+              );
+            })({
+              72: function (e, t, n) {
+                "use strict";
+                var o =
+                  (this && this.__spreadArray) ||
+                  function (e, t, n) {
+                    if (n || 2 === arguments.length)
+                      for (var o, r = 0, i = t.length; r < i; r++)
+                        (!o && r in t) || (o || (o = Array.prototype.slice.call(t, 0, r)), (o[r] = t[r]));
+                    return e.concat(o || Array.prototype.slice.call(t));
+                  };
+                Object.defineProperty(t, "__esModule", { value: !0 });
+                var r = function (e, t, n) {
+                  var o,
+                    i = e.createElement("script");
+                  ((i.type = "text/javascript"),
+                    (i.async = !0),
+                    (i.src = t),
+                    n &&
+                      (i.onerror = function () {
+                        r(e, n);
+                      }));
+                  var a = e.getElementsByTagName("script")[0];
+                  null === (o = a.parentNode) || void 0 === o || o.insertBefore(i, a);
+                };
+                !(function (e, t, n) {
+                  e.KwaiAnalyticsObject = n;
+                  var i = (e[n] = e[n] || []);
+                  i.methods = [
+                    "page",
+                    "track",
+                    "identify",
+                    "instances",
+                    "debug",
+                    "on",
+                    "off",
+                    "once",
+                    "ready",
+                    "alias",
+                    "group",
+                    "enableCookie",
+                    "disableCookie",
+                  ];
+                  var a = function (e, t) {
+                    e[t] = function () {
+                      for (var n = [], r = 0; r < arguments.length; r++) n[r] = arguments[r];
+                      var i = o([t], n, !0);
+                      e.push(i);
+                    };
+                  };
+                  (i.methods.forEach(function (e) {
+                    a(i, e);
+                  }),
+                    (i.instance = function (e) {
+                      var t,
+                        n = (null === (t = i._i) || void 0 === t ? void 0 : t[e]) || [];
+                      return (
+                        i.methods.forEach(function (e) {
+                          a(n, e);
+                        }),
+                        n
+                      );
+                    }),
+                    (i.load = function (e, o) {
+                      var a = "https://s21-def.ap4r.com/kos/s101/nlav112572/pixel/events.js";
+                      ((i._i = i._i || {}),
+                        (i._i[e] = []),
+                        (i._i[e]._u = a),
+                        (i._t = i._t || {}),
+                        (i._t[e] = +new Date()),
+                        (i._o = i._o || {}),
+                        (i._o[e] = o || {}));
+                      var c = "?sdkid=".concat(e, "&lib=").concat(n);
+                      r(t, a + c, "https://s21-def.ks-la.net/kos/s101/nlav112572/pixel/events.js" + c);
+                    }));
+                })(window, document, "kwaiq");
+              },
+            });
+          });
+          kwaiq.load(kwaiId);
+          kwaiq.page();
+          kwaiq.instance(kwaiId).track("contentView");
+        }
+
+        function initTiktokPixel(pixel) {
+          if (!pixel) {
+            return;
+          }
+          (function (w, d, t) {
+            w.TiktokAnalyticsObject = t;
+            var ttq = (w[t] = w[t] || []);
+            ttq.methods = [
+              "page",
+              "track",
+              "identify",
+              "instances",
+              "debug",
+              "on",
+              "off",
+              "once",
+              "ready",
+              "alias",
+              "group",
+              "enableCookie",
+              "disableCookie",
+              "holdConsent",
+              "revokeConsent",
+              "grantConsent",
+            ];
+            ttq.setAndDefer = function (t, e) {
+              t[e] = function () {
+                t.push([e].concat(Array.prototype.slice.call(arguments, 0)));
+              };
+            };
+            for (var i = 0; i < ttq.methods.length; i++) {
+              ttq.setAndDefer(ttq, ttq.methods[i]);
+            }
+            ttq.instance = function (t) {
+              var e = ttq._i[t] || [];
+              for (var n = 0; n < ttq.methods.length; n++) {
+                ttq.setAndDefer(e, ttq.methods[n]);
+              }
+              return e;
+            };
+            ttq.load = function (e, n) {
+              var r = "https://analytics.tiktok.com/i18n/pixel/events.js";
+              var o = n && n.partner;
+              ttq._i = ttq._i || {};
+              ttq._i[e] = [];
+              ttq._i[e]._u = r;
+              ttq._t = ttq._t || {};
+              ttq._t[e] = +new Date();
+              ttq._o = ttq._o || {};
+              ttq._o[e] = n || {};
+              var scriptEl = d.createElement("script");
+              scriptEl.type = "text/javascript";
+              // scriptEl.async = true;
+              scriptEl.defer = true;
+              scriptEl.src = r + "?sdkid=" + e + "&lib=" + t;
+              var firstScript = d.getElementsByTagName("script")[0];
+              firstScript.parentNode.insertBefore(scriptEl, firstScript);
+            };
+            ttq.load(pixel);
+            ttq.page();
+          })(window, document, "ttq");
+        }
+      });
+    </script>
+
+    <style>
+      #app-skeleton {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-color: #15161c;
+        z-index: 10000;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+      .skeleton-item {
+        background: linear-gradient(90deg, #383941, #2d2f38, #2e2f36);
+        background-size: 400% 100%;
+        animation: skeleton-loading 1.4s ease infinite;
+        display: block;
+      }
+      @keyframes skeleton-loading {
+        0% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: -100% 50%;
+        }
+      }
+
+      /* Mobile Skeleton */
+      .skeleton-mobile {
+        display: block;
+      }
+      .skeleton-mobile .skeleton-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        height: calc((64 / 375) * 100vw);
+        border-bottom: 1px solid rgb(55, 59, 69);
+      }
+      .skeleton-mobile .skeleton-head-right {
+        display: flex;
+        align-items: center;
+      }
+      .skeleton-mobile .skeleton-padding {
+        padding: calc((14 / 375) * 100vw);
+        box-sizing: border-box;
+      }
+      .skeleton-mobile .menu {
+        margin: calc((20 / 375) * 100vw) 0;
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 10px;
+      }
+      .skeleton-mobile .game-list {
+        margin-top: calc((14 / 375) * 100vw);
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-column-gap: calc((12 / 375) * 100vw);
+        grid-row-gap: calc((12 / 375) * 100vw);
+      }
+
+      /* PC Skeleton */
+      .skeleton-pc {
+        display: none;
+        padding-top: 80px;
+        box-sizing: border-box;
+      }
+      .skeleton-pc .navigation {
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        width: 100%;
+        background-color: #15161c;
+        height: 72px;
+        box-sizing: border-box;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-left: 10px;
+        z-index: 1;
+      }
+      .skeleton-pc .navigation-content {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        max-width: 1025px;
+        margin: 0 auto;
+        padding: 0 20px;
+      }
+      .skeleton-pc .navigation-contetn-right {
+        display: flex;
+      }
+      .skeleton-pc .sidebar {
+        width: 280px;
+        height: 100vh;
+        background-color: #15161c;
+        z-index: 0;
+        padding: 0 10px;
+        box-sizing: border-box;
+      }
+      .skeleton-pc .main-content {
+        display: flex;
+      }
+      .skeleton-pc .main-body {
+        max-width: 1025px;
+        flex: 1;
+        padding: 0 20px 20px;
+        box-sizing: border-box;
+        margin: 0 auto;
+      }
+      .skeleton-pc .game-tabs {
+        display: grid;
+        grid-template-columns: repeat(7, 1fr);
+        gap: 12px;
+      }
+      .skeleton-pc .game-content {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        gap: 12px;
+      }
+
+      @media (min-width: 768px) {
+        .skeleton-mobile {
+          display: none;
+        }
+        .skeleton-pc {
+          display: block;
+        }
+      }
+    </style>
+    <script type="module" crossorigin src="/assets/home-CoD7JDR8.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-date-CmRX5Sol.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-utils-B_3M4Z_o.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-common-Bmf_p1iV.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-media-CZVE5Uz-.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-vue-DvrM_xBj.js">
+    <link rel="modulepreload" crossorigin href="/assets/svg-icons-bundle-Cnvy6dLF.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-element-DcsVhFFn.js">
+    
+    
+    
+    
+    <script type="module">import.meta.url;import("_").catch(()=>1);(async function*(){})().next();if(location.protocol!="file:"){window.__vite_is_modern_browser=true}</script>
+    <script type="module">!function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
+  
+<script>
+  window.RUNTIME_CONFIG = {"apk_content":"This is the official Android application provided by TopBono.Since the app is not distributed through Google Play, a system security warning may appear during installation.This is normal.","locale":"es-MX","apk_title":"Android System Security Notice","country":"US","download_popup":"upload\/download_popup\/20260424_d69824802b41db92b160714eb55ccf98_1777046988593.webp","country_list":["MX"],"ios_download":" ","currecy":"MXN","telegram_url":"https:\/\/t.me\/TopBono","whatsapp_url":"https:\/\/whatsapp.com\/channel\/0029VbCL4ii23n3itrFSIO1u","whatsapp_private_url":"https:\/\/tinyurl.com\/ganamx7","whatsapp_agent_url":"https:\/\/tinyurl.com\/TopBono7","serve_time":1778753908,"ex_rate_list":[{"currency":"MXN","rate":"1"},{"currency":"DEFAULT","rate":"1"}],"survey_enable":false,"lang_country":[{"country":"MX","image_pc":"upload\/logo\/20260424_21736d95542809042b4143941b68ab8e_1777044849325.webp","code":"52","type":0,"lang":"es","image_h5":"upload\/logo\/20260424_00b32bf2de6b3da3b7c97393b35e8ae3_1777056193577.webp","icon":"upload\/icon_country\/20250718_93f116249f560744428789f7aa299ffa_1752853611351.svg","key":"MXN","symbol":"$","name":"Mexico","lang_list":[{"web_status":1,"platform_status":1,"name":"西班牙语","key":"es","id":45},{"web_status":1,"platform_status":1,"name":"英语","key":"en","id":46}]}],"resource_address":"","website_name":"TopBono","company_name":"Pistis Trade N.V.","platform_url":"TopBono.com","website_url":"TopBono.com","is_show_first_charge":true,"first_recharge_data":{"award":"2000","benefit_type":0,"item_name":"","type":0,"rate":"0"},"cf_captcha_switch":true,"barcode_resource_address":"https:\/\/1pic.top","bottom_pay_product_img":"upload\/payment_product_image\/20260424_4a1fcad762b86f4e61c8d7722edfc045_1777046150819.webp","share_title":"Your Reward Is Ready","apk_comment":[{"content":"plicación oficial para Android,proporcionada por TopBono .Dado que no se distribuye a través de Google Play, durante la instalación puede aparecer un aviso de seguridad del sistema. Esto es normal.","download_popup":"upload\/download_popup\/20260424_d69824802b41db92b160714eb55ccf98_1777046977692.webp","key":"es","title":"Explicación del aviso de seguridad de Android"},{"content":"This is the official Android application provided by TopBono.Since the app is not distributed through Google Play, a system security warning may appear during installation.This is normal.","download_popup":"upload\/download_popup\/20260424_d69824802b41db92b160714eb55ccf98_1777046988593.webp","key":"en","title":"Android System Security Notice"}],"share_content":"Enter now to view the details","share_image":"upload\/icon_image\/20250815_3d95c30303aba03135bb03817a3316c5_1755263517479.png","share_image_large":"upload\/share_image\/20260427_f2cff9168f6e57f090a1bfe4a78d5357_1777285391175.webp","qualificat_url":"https:\/\/cert.gcb.cw\/certificate?id=ZXlKcGRpSTZJbUowWlZBeU5GWnVNbTV4VEdWc1FVbFNRekJPVTBFOVBTSXNJblpoYkhWbElqb2labVZyWmxad2JYWlJkbk5EVHpCVVUwcEJiRWhRZHowOUlpd2liV0ZqSWpvaU1EVTFOREkwTWpsaVlqQm1ZMlUxWXpnMU56RTVOekZqWVdGbU4yVTFObUV5WlRVeE5XVmpaR1JoTkdFNFlUazNZekU1TVdGaE5qUmhOVE15WXpsa055SXNJblJoWnlJNklpSjk=","qualificat_image":"upload\/icon_image\/20250815_192880d0a819c358cd595080de9bddd1_1755263536257.png","qualificat_lang":"<p><span style=\"font-size: 12px;\">This is to certify that TopBono is operated by Pistis Trade N.V., a company incorporated under the laws of Curaçao with Company Number 162576 and licensed by the Curaçao Gaming Authority to offer games of chance under license number OGL\/2024\/1670\/1153 in accordance with the National Ordinance on Games of Chance (Landsverordening op de kansspelen, P.B. 2024, no. 157).<\/span><\/p><p><span style=\"font-size: 12px;\">Gambling can be addictive. Please play responsibly. TopBono.com only accepts customers over 18 years of age.<\/span><\/p>","ios_guide_image":"upload\/icon_image\/20260424_9b4a7c40461846840345b490a9d2fe17_1777056121335.webp","forget_password_robot_switch":true,"feedback_url":"","login_banner":"upload\/icon_image\/20260311_ecab022f805cfc19d3930924db288bb6_1773211719587.webp","register_banner":"upload\/icon_image\/20260311_ecab022f805cfc19d3930924db288bb6_1773211724134.webp","google_client_id":"907673362309-31fe7qdh1l84026vpd13451b77s6o6hc.apps.googleusercontent.com","facebook_app_id":"429364029579471","live_chat":"17287626","cf_site_key":"0x4AAAAAADBAUbdGG1mFdofz","fingerprint_public_key":"F2FGYiUPWrRUc2mVnpnR","telegram_bot_name":"","betby_game_id":"9998","register_badge":"","brand_id":"2390557617987653632","other_logo":{"logo2148":"logo\/browser2148.png?t=1777046369170","logo192":"logo\/browser192.png?t=1777046355827","logo645":"logo\/browser645.png?t=1777046362151","logo48":"logo\/browser48.ico?t=1777046935928"},"bottom_image":"upload\/vendor_image\/20260424_69a8393aab4845c554145a307b17078f_1777046141853.webp","pixel_id":"429364029579471","salesmartly_url":"https:\/\/plugin-code.salesmartly.com\/js\/project_679454_700742_1775905980.js","color_content":[{"name":"主色","color_group":["#E5AF17"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"basics_color","key":"--color-primary","id":255},{"name":"主色 20%透明","color_group":["#E5AF17"],"type":1,"gradient_angle":0,"opacity":20,"element_type":"basics_color","key":"--color-primary-opacity-2","id":256},{"name":"辅助色1","color_group":["#FDD303"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"basics_color","key":"--color-secondary","id":257},{"name":"辅助色2","color_group":["#EF8B00"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"basics_color","key":"--color-tertiary","id":258},{"name":"辅助色3","color_group":["#009B3A"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"basics_color","key":"--color-quaternary","id":259},{"name":"透明色","color_group":["#ffffff"],"type":1,"gradient_angle":0,"opacity":60,"element_type":"basics_color","key":"--color-transparent","id":260},{"name":"背景色","color_group":["#1F1F1F"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"basics_color","key":"--color-background","id":261},{"name":"成功提示颜色","color_group":["#21dc70"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"basics_color","key":"--color-success","id":262},{"name":"错误提示颜色","color_group":["#d85555"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"basics_color","key":"--color-error","id":263},{"name":"代理浅背景","color_group":["#ffffff"],"type":1,"gradient_angle":0,"opacity":15,"element_type":"basics_color","key":"--color-background-agent","id":264},{"name":"VIP光边","color_group":["#E5AF17"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"basics_color","key":"--vip-light-line","id":265},{"name":"下载背景","color_group":["#f0f2f5"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"basics_color","key":"--color-download-bg","id":266},{"name":"下载文字","color_group":["#000000"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"basics_color","key":"--color-download-name","id":267},{"name":"倒计时背景","color_group":["#ef1212"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"basics_color","key":"--color-order-countdown-bg","id":268},{"name":"首页banner1","color_group":["#cf1d15 0%","#f16549 100%"],"type":2,"gradient_angle":90,"opacity":100,"element_type":"frame_style","key":"--color-home-banner1","id":269},{"name":"首页banner2","color_group":["#cb4c10 0%","#e0906c 100%"],"type":2,"gradient_angle":90,"opacity":100,"element_type":"frame_style","key":"--color-home-banner","id":270},{"name":"侧边栏VIP","color_group":["#A8893F 0%","#8C8888 100%"],"type":2,"gradient_angle":90,"opacity":100,"element_type":"frame_style","key":"--color-side-bar-vip","id":271},{"name":"侧边栏代理","color_group":["#9C9C9C 0%","#B28644 100%"],"type":2,"gradient_angle":90,"opacity":100,"element_type":"frame_style","key":"--color-side-bar-agent","id":272},{"name":"代理背景渐变","color_group":["#4A4641 0%","#363636 100%"],"type":2,"gradient_angle":180,"opacity":100,"element_type":"frame_style","key":"--color-background-agent-gradient","id":273},{"name":"VIP背景","color_group":["#605a47 0%","#524625 100%"],"type":2,"gradient_angle":180,"opacity":100,"element_type":"frame_style","key":"--vip-background","id":274},{"name":"排行榜按钮","color_group":["#F8DB73 0%","#B78115 73%","#B78115 76%","#E19F1C 100%"],"type":2,"gradient_angle":180,"opacity":100,"element_type":"frame_style","key":"--color-btn-gradient","id":275},{"name":"排行榜边框","color_group":["#EAD48A 0%","#DAA81F 100%"],"type":2,"gradient_angle":180,"opacity":100,"element_type":"frame_style","key":"--color-btn-gradient-border","id":276},{"name":"订单背景","color_group":["#787474 0%","#ACA076 100%"],"type":2,"gradient_angle":92,"opacity":100,"element_type":"frame_style","key":"--color-order-background","id":277},{"name":"爆奖顶部","color_group":["#928A79 0%","#5A5145 96.02%"],"type":2,"gradient_angle":180,"opacity":100,"element_type":"frame_style","key":"--color-big-win-dialog-top-bg","id":278},{"name":"爆奖底部","color_group":["#F0E9E5 4%","#FEFAF5 17%","#FEFAF5 80%","#D3CBB1 100%"],"type":2,"gradient_angle":180,"opacity":100,"element_type":"frame_style","key":"--color-big-win-dialog-bottom-bg","id":279},{"name":"钱包提现背景","color_group":["#5CEF88 0%","#019E42 73%","#019E42 76%","#17C188 100%"],"type":2,"gradient_angle":180,"opacity":100,"element_type":"frame_style","key":"--color-wallet-withdraw-bg","id":280},{"name":"钱包提现边框","color_group":["#C6F2CD 0%","#168E40 100%"],"type":2,"gradient_angle":180,"opacity":100,"element_type":"frame_style","key":"--color-wallet-withdraw-border","id":281},{"name":"钱包充值背景","color_group":["#F8DB73 0%","#B78115 73%","#B78115 76%","#E19F1C 100%"],"type":2,"gradient_angle":180,"opacity":100,"element_type":"frame_style","key":"--color-wallet-deposit-bg","id":282},{"name":"钱包充值边框","color_group":["#EAD48A 0%","#DAA81F 100%"],"type":2,"gradient_angle":180,"opacity":100,"element_type":"frame_style","key":"--color-wallet-deposit-border","id":283},{"name":"用户充值背景","color_group":["#F8DB73 0%","#B78115 73%","#B78115 76%","#E19F1C 100%"],"type":2,"gradient_angle":180,"opacity":100,"element_type":"frame_style","key":"--color-userinfo-deposit-bg","id":284},{"name":"用户提现背景","color_group":["#5CEF88 0%","#019E42 73%","#019E42 76%","#17C188 100%"],"type":2,"gradient_angle":180,"opacity":100,"element_type":"frame_style","key":"--color-userinfo-withdraw-bg","id":285},{"name":"一级文字颜色","color_group":["#ffffff"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"word_color","key":"--color-text-primary","id":286},{"name":"二级文字颜色","color_group":["#A6A6A6"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"word_color","key":"--color-text-secondary","id":287},{"name":"三级文字颜色","color_group":["#4E5051"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"word_color","key":"--color-text-tertiary","id":288},{"name":"按钮文字","color_group":["#ffffff"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"word_color","key":"--color-btn-text","id":289},{"name":"错误提示","color_group":["#d85555"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"state_hint","key":"--color-text-error","id":290},{"name":"错误提示背景","color_group":["#3a222e"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"state_hint","key":"--color-background-error","id":291},{"name":"正确提示","color_group":["#21dc70"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"state_hint","key":"--color-text-success","id":292},{"name":"正确提示背景","color_group":["#223a2b"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"state_hint","key":"--color-background-success","id":293},{"name":"输入框颜色","color_group":["#2A2928"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"frame_style","key":"--color-input-background","id":294},{"name":"输入框描边","color_group":["#3B3B3B"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"frame_style","key":"--color-input-border","id":295},{"name":"下拉框","color_group":["#393939"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"frame_style","key":"--color-dropdown-background","id":296},{"name":"首页推广下拉框","color_group":["#E3B901 0%","#C67700 100%"],"type":2,"gradient_angle":180,"opacity":100,"element_type":"frame_style","key":"--color-dropdown-homepage-promo-gradient","id":297},{"name":"弹窗背景色","color_group":["#3D3D3D"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"frame_style","key":"--color-modal-background","id":298},{"name":"弹窗渐变色","color_group":["#DEA505 0%","#625F56 100%"],"type":2,"gradient_angle":180,"opacity":100,"element_type":"frame_style","key":"--color-modal-gradient","id":299},{"name":"问号规则","color_group":["#1c68e2"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"frame_style","key":"--color-faq","id":300},{"name":"爆奖顶部内容","color_group":["#4F4434"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"frame_style","key":"--color-big-win-dialog-top-content-bg","id":301},{"name":"爆奖底内容","color_group":["#E1DCD8"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"frame_style","key":"--color-big-win-dialog-bottom-content-bg","id":302},{"name":"底部Tab栏","color_group":["#262626"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"page_element","key":"--color-tabbar-background","id":303},{"name":"底部tab栏未激活","color_group":["#535353"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"page_element","key":"--color-tabbar-inactive","id":304},{"name":"导航栏","color_group":["#383735"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"page_element","key":"--color-topbar","id":305},{"name":"首页代理顶部栏","color_group":["#C0750C"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"page_element","key":"--color-head-adv-v2","id":306},{"name":"充值按钮可用","color_group":["#2C2B2A"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"page_element","key":"--color-recharge-btn","id":307},{"name":"充值按钮可用边框","color_group":["#565554"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"page_element","key":"--color-recharge-btn-border","id":308},{"name":"充值按钮禁用","color_group":["#464441"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"page_element","key":"--color-recharge-btn-disabled","id":309},{"name":"充值按钮选择状态","color_group":["#F0BA07"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"page_element","key":"--color-recharge-btn-active","id":310},{"name":"充值按钮金额","color_group":["#CA1B1B"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"page_element","key":"--color-recharge-amount-bg","id":311},{"name":"代理成就进度条颜色","color_group":["#F9C404"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"page_element","key":"--color-agent-progress","id":312},{"name":"主页悬浮阴影颜色","color_group":["#8A2C2C"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"page_element","key":"--color-floating-window-border","id":313},{"name":"进度条的颜色","color_group":["#F9C404"],"type":1,"gradient_angle":0,"opacity":100,"element_type":"page_element","key":"--task-progress-color","id":314}],"google_register":false,"google_login":false,"facebook_register":false,"facebook_login":false,"telegram_register":false,"telegram_login":false,"sms_register_switch":true,"sms_login_switch":true,"register_model":3,"android_version":"1.0","deposit_withdraw_image_data":[{"withdraw_image":"upload\/deposit_diagram\/20260424_c3628d54c6e29e42561d10bc9ce272bc_1777046028401.webp","lang":"es","deposit_image":"upload\/deposit_diagram\/20260424_6e4c39ec76b27bee96bf2a6cbc73d1b4_1777046024127.webp"},{"withdraw_image":"upload\/deposit_diagram\/20260424_c3628d54c6e29e42561d10bc9ce272bc_1777046037228.webp","lang":"en","deposit_image":"upload\/deposit_diagram\/20260424_6e4c39ec76b27bee96bf2a6cbc73d1b4_1777046033049.webp"}],"ios_version":"1.0","web_version":"1.66","common_resource_version":"20260409064654","platform_version":"","android_download":"https:\/\/app.adjust.com\/1z6inggd?redirect=https%3A%2F%2Fhoybag.000hoy.com%2FTopBono-Plus.apk","switch_list":[{"feat_key":"inviteRoulette","value_type":1,"feat_value":"false"},{"feat_key":"headAdvShowAgentOrApk","value_type":1,"feat_value":"true"},{"feat_key":"codingTaskRules","value_type":1,"feat_value":"true"},{"feat_key":"downApkDialogUseNewDown","value_type":1,"feat_value":"true"},{"feat_key":"gameListShowNumber","value_type":1,"feat_value":"true"},{"feat_key":"iosDesktopUsePic","value_type":1,"feat_value":"true"},{"feat_key":"applyVipXin","value_type":1,"feat_value":"true"},{"feat_key":"lossRebate","value_type":1,"feat_value":"true"},{"feat_key":"applyRewardsV2","value_type":1,"feat_value":"true"},{"feat_key":"kycAuth","value_type":1,"feat_value":"false"},{"feat_key":"gcbCheck","value_type":1,"feat_value":"false"},{"feat_key":"transactionArgs","value_type":1,"feat_value":"true"},{"feat_key":"isHihhenWithdrawTips","value_type":1,"feat_value":"true"},{"feat_key":"mailV2","value_type":1,"feat_value":"true"},{"feat_key":"wscustomtime","value_type":1,"feat_value":"true"},{"feat_key":"newdownload","value_type":1,"feat_value":"true"},{"feat_key":"pddroulette","value_type":1,"feat_value":"true"},{"feat_key":"newInviteFriendDialog","value_type":1,"feat_value":"true"},{"feat_key":"user_guide","value_type":1,"feat_value":"false"},{"feat_key":"gameRefactor","value_type":1,"feat_value":"true"},{"feat_key":"userTrustLeaks","value_type":1,"feat_value":"true"},{"feat_key":"rankActivity","value_type":1,"feat_value":"true"},{"feat_key":"unlockLimited","value_type":1,"feat_value":"true"},{"feat_key":"showToolSystem","value_type":1,"feat_value":"true"},{"feat_key":"homepage_displays_sports","value_type":1,"feat_value":"false"},{"feat_key":"useNewPageTheme","value_type":1,"feat_value":"true"},{"feat_key":"shareLinkSSR","value_type":1,"feat_value":"true"},{"feat_key":"apiTransferToPlatform","value_type":1,"feat_value":"true"},{"feat_key":"highMultiplier","value_type":1,"feat_value":"false"}],"download_bonus_id":"","download_bonus_amount":"0","apk_risk_warning":true,"apk_package_name":"com.hp.winmxco","resource_version":"20260428052834","apk_scheme":"openwinmxco","bt_libray":"https:\/\/marsbingo.sptpub.com\/bt-renderer.min.js"};
+  window.RUNTIME_BANNER_LIST = [{"action":"","params":"","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":1,"content":"","image_path":"upload\/banner_image\/20260424_4fa99d9a63bcd8588430519a9472af01_1777060592073.webp","id":49,"icon_path":"","click_feedback":0,"group":0},{"action":"activity_detail","params":"23","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":4,"content":"23","image_path":"upload\/banner_image\/20260424_91376c5c4cbbf2b2b78f1d0296d7a566_1777060728505.webp","id":55,"icon_path":"","click_feedback":9,"group":1},{"action":"open_crv2","params":"","advertise_type":1,"activity_id":70,"activity_data":{"deposit_id":"","details_url":"","lr_type":5,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":70,"item_name":"","activity_type":12,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":5,"content":"","image_path":"upload\/banner_image\/20260427_bf3055e564486fb7f47eb2da1cad95ea_1777285888197.webp","id":132,"icon_path":"","click_feedback":0,"group":1},{"action":"activity_detail","params":"49","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":7,"content":"24","image_path":"upload\/banner_image\/20260424_91376c5c4cbbf2b2b78f1d0296d7a566_1777060783274.webp","id":56,"icon_path":"","click_feedback":9,"group":1},{"action":"invite","params":"","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":8,"content":"invite","image_path":"upload\/banner_image\/20260424_91376c5c4cbbf2b2b78f1d0296d7a566_1777060758535.webp","id":58,"icon_path":"","click_feedback":5,"group":1},{"action":"vip","params":"","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":10,"content":"vip","image_path":"upload\/banner_image\/20260424_91376c5c4cbbf2b2b78f1d0296d7a566_1777060811598.webp","id":57,"icon_path":"","click_feedback":5,"group":1},{"action":"activity_detail","params":"45","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":15,"content":"","image_path":"upload\/banner_image\/20260424_91376c5c4cbbf2b2b78f1d0296d7a566_1777060836921.webp","id":79,"icon_path":"","click_feedback":6,"group":1},{"action":"open_multisite","params":"JNSlOF3I","advertise_type":1,"activity_id":63,"activity_data":{"deposit_id":"","details_url":"JoMZv1cP","lr_type":1,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":63,"item_name":"","activity_type":8,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":16,"content":"","image_path":"upload\/banner_image\/20260428_91376c5c4cbbf2b2b78f1d0296d7a566_1777391954829.webp","id":102,"icon_path":"","click_feedback":0,"group":1},{"action":"open_activity_rank","params":"65","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":17,"content":"","image_path":"upload\/banner_image\/20260424_91376c5c4cbbf2b2b78f1d0296d7a566_1777060866901.webp","id":104,"icon_path":"","click_feedback":0,"group":1},{"action":"activity","params":"","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":40,"content":"","image_path":"upload\/banner_image\/20260424_953ec34ec2ef5d33948cae5d7bebb718_1777061309826.webp","id":87,"icon_path":"","click_feedback":0,"group":98},{"action":"reward","params":"","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":41,"content":"","image_path":"upload\/banner_image\/20260424_fba0463fbd0b884ac07f199327c7873f_1777061342067.webp","id":116,"icon_path":"","click_feedback":0,"group":99},{"action":"activity_detail","params":"23","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":52,"content":"","image_path":"upload\/banner_image\/20260424_9b1a99e2329184adc318d5df57cc898a_1777061437802.webp","id":111,"icon_path":"","click_feedback":9,"group":10},{"action":"open_multisite","params":"JNSlOF3I","advertise_type":1,"activity_id":63,"activity_data":{"deposit_id":"","details_url":"JoMZv1cP","lr_type":1,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":63,"item_name":"","activity_type":8,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":53,"content":"","image_path":"upload\/banner_image\/20260428_9b1a99e2329184adc318d5df57cc898a_1777392294687.webp","id":112,"icon_path":"","click_feedback":0,"group":10},{"action":"open_crv2","params":"","advertise_type":1,"activity_id":70,"activity_data":{"deposit_id":"","details_url":"","lr_type":5,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":70,"item_name":"","activity_type":12,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":53,"content":"","image_path":"upload\/banner_image\/20260427_5952bda881e5d3162d22e18ca73bfe5a_1777286194351.webp","id":140,"icon_path":"","click_feedback":0,"group":10},{"action":"activity_detail","params":"49","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":54,"content":"","image_path":"upload\/banner_image\/20260428_bd8dfd744151baace7552a52e85435ca_1777392701112.webp","id":113,"icon_path":"","click_feedback":9,"group":10},{"action":"invite","params":"","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":55,"content":"","image_path":"upload\/banner_image\/20260428_78b14bcc2442663f8543d359b78809cb_1777392735894.webp","id":114,"icon_path":"","click_feedback":5,"group":10},{"action":"vip","params":"","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":56,"content":"","image_path":"upload\/banner_image\/20260424_9b1a99e2329184adc318d5df57cc898a_1777061585062.webp","id":115,"icon_path":"","click_feedback":5,"group":10},{"action":"open_activity_rank","params":"65","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":59,"content":"","image_path":"upload\/banner_image\/20260424_9b1a99e2329184adc318d5df57cc898a_1777061661087.webp","id":119,"icon_path":"","click_feedback":0,"group":10},{"action":"","params":"","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":151,"content":"","image_path":"upload\/banner_image\/20260428_d75e972714b49fabbe5a8152b7e44517_1777391692726.webp","id":96,"icon_path":"","click_feedback":0,"group":101},{"action":"","params":"","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":152,"content":"","image_path":"upload\/banner_image\/20260428_f636cce1ee09ee84dc9b2b459a3df55c_1777391737601.webp","id":98,"icon_path":"","click_feedback":0,"group":101},{"action":"open_crv2","params":"","advertise_type":1,"activity_id":70,"activity_data":{"deposit_id":"","details_url":"","lr_type":5,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":70,"item_name":"","activity_type":12,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":203,"content":"","image_path":"upload\/banner_image\/20260424_e0d726c0584d92d168f223659ab0935d_1777061872143.webp","id":128,"icon_path":"","click_feedback":0,"group":11},{"action":"","params":"","advertise_type":0,"activity_id":0,"activity_data":{"deposit_id":"","details_url":"","lr_type":0,"lr_state":0,"activity_state":0,"hm_role":"","award_amount_min":"","award_amount_max":"","activity_id":0,"item_name":"","activity_type":0,"activity_sort":0,"activity_reward":"0","activity_rate":"0","count_down_type":0,"duration":0,"benefit_type":0,"deposit_min":"0","deposit_max":"0"},"sort":301,"content":"","image_path":"upload\/banner_image\/20260427_ad4d5534422204c974a80a1276399fa6_1777286649724.webp","id":99,"icon_path":"","click_feedback":0,"group":111}];
+</script>
+<script>window.en_lang = {
+  "RegisterBonusEntryDialog.button.deposit": {
+    "type": 0,
+    "value": "Deposit"
+  },
+  "RegisterBonusEntryDialog.button.register": {
+    "type": 0,
+    "value": "Sign Up to View"
+  },
+  "RegisterBonusEntryDialog.buttonText": {
+    "type": 0,
+    "value": "Draw Now"
+  },
+  "RegisterBonusEntryDialog.title": {
+    "type": 0,
+    "value": "Draw Your Lucky Bonus!\nRandom $88 to $888!"
+  },
+  "about.terms_of_service.name": {
+    "type": 0,
+    "value": "TERMS OF SERVICE"
+  },
+  "app_popup.description": {
+    "type": 0,
+    "value": "Download the App for a smoother gaming experience"
+  },
+  "app_popup.download_button": {
+    "type": 0,
+    "value": "Download Now"
+  },
+  "app_popup.footer_tip": {
+    "type": 0,
+    "value": "Better experience in the App"
+  },
+  "app_popup.headline": {
+    "type": 0,
+    "value": "Faster and More Stable"
+  },
+  "app_popup.title": {
+    "type": 0,
+    "value": "Exclusive App Experience"
+  },
+  "cash.activities.payment": {
+    "type": 0,
+    "value": "Payment term"
+  },
+  "cash.activities.transfer": {
+    "type": 0,
+    "value": "Transfer completed"
+  },
+  "cash.btn.maintenance": {
+    "type": 0,
+    "value": "Under Maintenance"
+  },
+  "cash.dialog.btn.change_info": {
+    "type": 0,
+    "value": "Modify Information"
+  },
+  "cash.dialog.btn.go": {
+    "type": 0,
+    "value": "Go to"
+  },
+  "cash.info_change_confirm_dialog.desc": {
+    "type": 0,
+    "value": "Your current withdrawal information has changed compared to the last withdrawal. Please carefully verify the withdrawal information."
+  },
+  "cash.info_change_confirm_dialog.title": {
+    "type": 0,
+    "value": "Withdrawal Information Change Confirmation"
+  },
+  "cash.info_change_dialog.desc": {
+    "type": 0,
+    "value": "Withdrawal information already exists for the current account. If you need to modify it, please contact customer service."
+  },
+  "cash.info_change_dialog.title": {
+    "type": 0,
+    "value": "Modify Withdrawal Information"
+  },
+  "cash.info_confirm_dialog.title": {
+    "type": 0,
+    "value": "Withdrawal Information Confirmation"
+  },
+  "cash.maintenance_marquee.text": {
+    "type": 0,
+    "value": "We apologize for the inconvenience. The system is currently under maintenance. Please try an alternative payment method."
+  },
+  "claim_now": {
+    "type": 0,
+    "value": "Claim Now!"
+  },
+  "common.back": {
+    "type": 0,
+    "value": "back"
+  },
+  "common.bonus_received_subtitle": {
+    "type": 0,
+    "value": "You have received"
+  },
+  "common.bonus_received_subtitle_infos": {
+    "type": 0,
+    "value": "This bonus can only be used to bet on the following games."
+  },
+  "common.btn.go": {
+    "type": 0,
+    "value": "Go"
+  },
+  "common.casino": {
+    "type": 0,
+    "value": "Casino"
+  },
+  "common.close": {
+    "type": 0,
+    "value": "Close"
+  },
+  "common.detail": {
+    "type": 0,
+    "value": "Details"
+  },
+  "common.go": {
+    "type": 0,
+    "value": "Go"
+  },
+  "common.home": {
+    "type": 0,
+    "value": "Home"
+  },
+  "common.or": {
+    "type": 0,
+    "value": "or"
+  },
+  "common.reset_password": {
+    "type": 0,
+    "value": "Reset Password"
+  },
+  "common.unsubscribe": {
+    "type": 0,
+    "value": "Unsubscribe"
+  },
+  "continuousRechargeV2.min_recharge": {
+    "type": 0,
+    "value": "Deposit ≥{min}"
+  },
+  "continuousRechargeV2.receive": {
+    "type": 0,
+    "value": "Claim"
+  },
+  "continuousRechargeV2.received": {
+    "type": 0,
+    "value": "Claimed"
+  },
+  "continuousRechargeV2.rule.text": {
+    "type": 3,
+    "value": "\u003ch2\u003e🔥 7-Day Deposit Bonus\u003c/h2\u003e\u003cp\u003eDeposit every day and earn rewards 💰\u003cbr\u003e Complete all 7 days to unlock a \u003cstrong\u003emystery prize\u003c/strong\u003e on Day 7 🎁\u003c/p\u003e\u003chr/\u003e\u003ch2\u003e🎁 Promotion Rules\u003c/h2\u003e\u003cul\u003e\u003cli\u003eEvent duration: 9 days\u003c/li\u003e\u003cli\u003eComplete 7 deposit days to finish the challenge\u003c/li\u003e\u003cli\u003eMake at least 1 deposit per day to earn rewards\u003c/li\u003e\u003cli\u003eNo need to be consecutive — your progress is maintained\u003c/li\u003e\u003c/ul\u003e\u003chr/\u003e\u003ch2\u003e📅 Daily Rewards\u003c/h2\u003e\u003cul\u003e\u003cli\u003e Day 1: +500\u003c/li\u003e\u003cli\u003e Day 2: +500\u003c/li\u003e\u003cli\u003e Day 3: +500\u003c/li\u003e\u003cli\u003e Day 4: +500\u003c/li\u003e\u003cli\u003e Day 5: +500\u003c/li\u003e\u003cli\u003e Day 6: +500\u003c/li\u003e\u003cli\u003e 🎁 Day 7: +500 + Mystery Prize\u003c/li\u003e\u003c/ul\u003e\u003chr/\u003e\u003ch2\u003e⚠️ Important\u003c/h2\u003e\u003cul\u003e\u003cli\u003eYou have up to 9 days to complete 7 deposit days\u003c/li\u003e\u003cli\u003eYou can skip days as long as you finish within the period\u003c/li\u003e\u003cli\u003eDaily rewards require 5x wagering before withdrawal\u003c/li\u003e\u003cli\u003eDay 7 prize requires 10x wagering before withdrawal\u003c/li\u003e\u003c/ul\u003e\u003chr/\u003e\u003ch2\u003e🚀 Tips\u003c/h2\u003e\u003cp\u003e👉 Start early to complete it more easily\u003c/p\u003e\u003cp\u003e 👉 Day 7 has the biggest reward — don’t miss it\u003c/p\u003e"
+  },
+  "continuousRechargeV2.rule.title": {
+    "type": 0,
+    "value": "7-Day Deposit Task"
+  },
+  "download.android_text": {
+    "type": 0,
+    "value": "Install"
+  },
+  "download.ios_text": {
+    "type": 0,
+    "value": "ADD"
+  },
+  "download.reward_text": {
+    "type": 0,
+    "value": "Reward {reward} Coins"
+  },
+  "float.validUntil": {
+    "type": 0,
+    "value": "valid until"
+  },
+  "form.label.ARS_TRANSFER_bank_code": {
+    "type": 0,
+    "value": "Bank"
+  },
+  "form.label.ARS_TRANSFER_bank_number": {
+    "type": 0,
+    "value": "Bank Account Number"
+  },
+  "form.label.ARS_TRANSFER_id_number": {
+    "type": 0,
+    "value": "Document Number"
+  },
+  "form.label.ARS_TRANSFER_id_type": {
+    "type": 0,
+    "value": "Document Type"
+  },
+  "form.label.USDT_bank_code": {
+    "type": 0,
+    "value": "Choose network"
+  },
+  "form.label.USDT_bank_number": {
+    "type": 0,
+    "value": "Withdrawal address"
+  },
+  "form.label.full_name": {
+    "type": 0,
+    "value": "Full Name"
+  },
+  "form.label.name1": {
+    "type": 0,
+    "value": "Name"
+  },
+  "form.placeholder.ARS_TRANSFER_bank_number": {
+    "type": 0,
+    "value": "Enter your 22-digit account number"
+  },
+  "form.placeholder.ARS_TRANSFER_id_number_cuil": {
+    "type": 0,
+    "value": "Enter your 11-digit CUIL"
+  },
+  "form.placeholder.ARS_TRANSFER_id_number_cuit": {
+    "type": 0,
+    "value": "Enter your 11-digit CUIT"
+  },
+  "form.placeholder.ARS_TRANSFER_id_number_dni": {
+    "type": 0,
+    "value": "Enter your 8-digit DNI"
+  },
+  "form.placeholder.USDT_bank_code": {
+    "type": 0,
+    "value": "Please choose network"
+  },
+  "form.placeholder.USDT_bank_number": {
+    "type": 0,
+    "value": "Please input withdrawal address"
+  },
+  "form.placeholder.full_name": {
+    "type": 0,
+    "value": "Enter the name as shown on your ID"
+  },
+  "form.placeholder.new.email_phone": {
+    "type": 0,
+    "value": "Email /Phone Number"
+  },
+  "form.validate.error.ARS_TRANSFER_bank_number": {
+    "type": 0,
+    "value": "Enter a 22-digit account number"
+  },
+  "form.validate.error.ARS_TRANSFER_id_number_cuil": {
+    "type": 0,
+    "value": "CUIL must be 11 digits"
+  },
+  "form.validate.error.ARS_TRANSFER_id_number_cuit": {
+    "type": 0,
+    "value": "CUIT must be 11 digits"
+  },
+  "form.validate.error.ARS_TRANSFER_id_number_dni": {
+    "type": 0,
+    "value": "DNI must be 8 digits"
+  },
+  "form.validate.error.full_name": {
+    "type": 0,
+    "value": "Invalid full name"
+  },
+  "form.validate.new.email_phone": {
+    "type": 0,
+    "value": "*Please use a different email or phone number"
+  },
+  "funds.deposit_ticket_close_163804419249406762": {
+    "type": 0,
+    "value": "Your voucher is for a deposit on another order, and that deposit has been successfully credited to your account. Please provide the correct voucher for the corresponding order."
+  },
+  "funds.deposit_ticket_close_164065767002735103": {
+    "type": 0,
+    "value": "This top-up order is no longer valid. Please create a new top-up order and then proceed with the payment. Thank you!"
+  },
+  "funds.deposit_ticket_close_164221607944945496": {
+    "type": 0,
+    "value": "The deposit slip you provided is not from our platform. Please contact customer service for direct assistance."
+  },
+  "funds.deposit_ticket_reject_163764305026645848": {
+    "type": 0,
+    "value": "Dear user, your deposit certificate cannot be found. Please resubmit the correct certificate."
+  },
+  "funds.deposit_ticket_reject_163764522392256344": {
+    "type": 0,
+    "value": "Your receipt shows that the bank has not yet received the funds. Please wait patiently."
+  },
+  "funds.deposit_ticket_reject_163845169261576702": {
+    "type": 0,
+    "value": "The deposit slip you provided is not the correct document for this order. Please provide the correct document and we will help you verify the order."
+  },
+  "funds.deposit_ticket_reject_164079381679996760": {
+    "type": 0,
+    "value": "The credentials you submitted are not from our platform. Please submit the correct credentials."
+  },
+  "funds.deposit_ticket_reject_164281962352085104": {
+    "type": 0,
+    "value": "Dear user, your deposit receipt cannot be found. Please resubmit the correct receipt; (Possible reasons include: incorrect CLABE, unclear or inaccurate receipt, or mismatch with the order) 【Reminder: Each payment must be made using a newly generated CLABE to ensure successful credit】"
+  },
+  "funds.deposit_ticket_reject_164282150022023280": {
+    "type": 0,
+    "value": "The deposit slip you provided is not the correct document for this order. Please provide the correct document and we will help you verify the order."
+  },
+  "funds.deposit_ticket_reject_167397553891999576": {
+    "medias": [
+      "upload/image/20260312_bd7e077b08218793369357ed0e12b919_1773337744639.webp"
+    ],
+    "type": 1,
+    "value": "[\"upload/image/20260312_bd7e077b08218793369357ed0e12b919_1773337744639.webp\"]"
+  },
+  "funds.deposit_ticket_reject_167401441105805822": {
+    "medias": [
+      "upload/image/20260228_08425418c60e477a6190729f61f0d1e3_1772310166698.webp",
+      "upload/image/20260228_b34d3047bef6ce959318dfcf0d25e551_1772310173694.webp",
+      "upload/image/20260228_9605d96e6ddc4239ccefb97060b60833_1772310179234.webp"
+    ],
+    "type": 1,
+    "value": "[\"upload/image/20260228_08425418c60e477a6190729f61f0d1e3_1772310166698.webp\",\"upload/image/20260228_b34d3047bef6ce959318dfcf0d25e551_1772310173694.webp\",\"upload/image/20260228_9605d96e6ddc4239ccefb97060b60833_1772310179234.webp\"]"
+  },
+  "funds.deposit_ticket_reject_169132452479008600": {
+    "type": 0,
+    "value": "Dear user, your deposit certificate cannot be found. Please contact customer service for direct assistance (submit the correct certificate; payer's name and ID number)."
+  },
+  "funds.deposit_ticket_reject_176854948498113172": {
+    "type": 0,
+    "value": "Dear customer, please provide your Certificate of Evidence (CEP) receipt so that we can help you verify the payment details."
+  },
+  "gameLockWalletTipDialog.buttonText": {
+    "type": 0,
+    "value": "Deposit"
+  },
+  "gameLockWalletTipDialog.message": {
+    "type": 0,
+    "value": "Deposit any amount to unlock your {reward} bonus!"
+  },
+  "high_multipliehigh_multiplier_share.followup_b_body_sharer_share.followup_b_title_share": {
+    "type": 0,
+    "value": "Friend logs in via your link to receive the reward"
+  },
+  "high_multiplier_share.claim_now": {
+    "type": 0,
+    "value": "Claim Now"
+  },
+  "high_multiplier_share.deposit_cta": {
+    "type": 0,
+    "value": "DEPOSIT NOW"
+  },
+  "high_multiplier_share.deposit_promo": {
+    "type": 0,
+    "value": "Deposit any amount to receive a {amount} lucky bonus"
+  },
+  "high_multiplier_share.followup_b_body_image": {
+    "type": 0,
+    "value": "Friend logs in via your link to receive the reward"
+  },
+  "high_multiplier_share.followup_b_body_link": {
+    "type": 0,
+    "value": "Send to your friend to scan and log in to get a reward"
+  },
+  "high_multiplier_share.followup_b_body_share": {
+    "type": 0,
+    "value": "Friend logs in via your link to receive the reward"
+  },
+  "high_multiplier_share.followup_b_footer_prefix": {
+    "type": 0,
+    "value": "Claim later at the"
+  },
+  "high_multiplier_share.followup_b_footer_reward": {
+    "type": 0,
+    "value": "Reward Center"
+  },
+  "high_multiplier_share.followup_b_got_it": {
+    "type": 0,
+    "value": "GOT IT"
+  },
+  "high_multiplier_share.followup_b_title_image": {
+    "type": 0,
+    "value": "Image saved successfully!"
+  },
+  "high_multiplier_share.followup_b_title_link": {
+    "type": 0,
+    "value": "Link copied successfully!"
+  },
+  "high_multiplier_share.followup_b_title_share": {
+    "type": 0,
+    "value": "Share successful"
+  },
+  "high_multiplier_share.log_in_now": {
+    "type": 0,
+    "value": "LOG IN NOW"
+  },
+  "high_multiplier_share.no_account": {
+    "type": 0,
+    "value": "No account?"
+  },
+  "high_multiplier_share.poster_multiplier_line": {
+    "type": 0,
+    "value": "Highest Jackpot Multiplier: {multiplier}"
+  },
+  "high_multiplier_share.poster_record": {
+    "type": 0,
+    "value": "{name}'s RECORD"
+  },
+  "high_multiplier_share.poster_scan_tip": {
+    "type": 0,
+    "value": "Scan the QR code to get your friend's luck and win a prize from {min} to {max}"
+  },
+  "high_multiplier_share.poster_scan_tip_max": {
+    "type": 0,
+    "value": "Reward up to {amount}"
+  },
+  "high_multiplier_share.poster_winnings_line": {
+    "type": 0,
+    "value": "Winnings: {amount}"
+  },
+  "high_multiplier_share.referral_invite_instruction": {
+    "type": 0,
+    "value": "Your friend scans the QR code or clicks to log in and you get a {amount} bonus"
+  },
+  "high_multiplier_share.referral_invite_instruction_max": {
+    "type": 0,
+    "value": "Invite friends for a chance to earn up to {amount}"
+  },
+  "high_multiplier_share.register_now": {
+    "type": 0,
+    "value": "Register now"
+  },
+  "high_multiplier_share.reward_center_share_progress": {
+    "type": 0,
+    "value": "Shares / Total:"
+  },
+  "high_multiplier_share.share_highlights_title": {
+    "type": 0,
+    "value": "Share Highlights"
+  },
+  "high_multiplier_share.share_instruction": {
+    "type": 0,
+    "value": "Choose a Social Platform to Share"
+  },
+  "high_multiplier_share.share_now": {
+    "type": 0,
+    "value": "Share Now"
+  },
+  "high_multiplier_share.share_promo": {
+    "type": 0,
+    "value": "Share Your Highlight Moment \u0026 Get {amount}!"
+  },
+  "high_multiplier_share.share_promo2": {
+    "type": 0,
+    "value": "Win up to"
+  },
+  "high_multiplier_share.share_promo_invite": {
+    "type": 0,
+    "value": "Share your highlight to invite friends and earn {amount}!"
+  },
+  "high_multiplier_share.sharee_login_tip": {
+    "type": 0,
+    "value": "Check after logging in"
+  },
+  "high_multiplier_share.sharee_reward_preview": {
+    "type": 0,
+    "value": "Bonus up to"
+  },
+  "high_multiplier_share.sharee_try_your_luck": {
+    "type": 0,
+    "value": "Try your luck"
+  },
+  "high_multiplier_share.title": {
+    "type": 0,
+    "value": "Congrats on Your Game Highlight!"
+  },
+  "high_multiplier_share.title_after_share\n": {
+    "type": 0,
+    "value": "Share Successful"
+  },
+  "high_multiplier_share.title_sharee_claim_limit": {
+    "type": 0,
+    "value": "You've reached the claim limit"
+  },
+  "high_multiplier_share.title_sharee_home": {
+    "type": 0,
+    "value": "You've Received a Friend's Blessing!"
+  },
+  "high_multiplier_share.title_sharee_reward_claimed": {
+    "type": 0,
+    "value": "You've already claimed this reward"
+  },
+  "high_multiplier_share.view_rules": {
+    "type": 0,
+    "value": "View Rules"
+  },
+  "history": {
+    "type": 0,
+    "value": "Leaderboard History"
+  },
+  "home.all": {
+    "type": 0,
+    "value": "All"
+  },
+  "home.commentsSwiper.c1.content": {
+    "type": 0,
+    "value": "Absolutely nothing to complain about.\n100 Points 👍👍🔥"
+  },
+  "home.commentsSwiper.c1.rating": {
+    "type": 0,
+    "value": "5"
+  },
+  "home.commentsSwiper.c1.userName": {
+    "type": 0,
+    "value": "lingorl51561"
+  },
+  "home.commentsSwiper.c2.content": {
+    "type": 0,
+    "value": "Fast deposits and a smooth overall experience.\n100 Points 👍👍🔥\n"
+  },
+  "home.commentsSwiper.c2.rating": {
+    "type": 0,
+    "value": "4.6"
+  },
+  "home.commentsSwiper.c2.userName": {
+    "type": 0,
+    "value": "marco_88"
+  },
+  "home.commentsSwiper.c3.content": {
+    "type": 0,
+    "value": "Great promotions and quick support responses.\n100 Points 👍👍🔥"
+  },
+  "home.footer.footer_6.text": {
+    "type": 0,
+    "value": "2025 { webUrl } All rights reserved."
+  },
+  "home.rankActivity.title": {
+    "type": 0,
+    "value": "Tournaments"
+  },
+  "home.recommend.register_now": {
+    "type": 0,
+    "value": "Register now to place your bets!"
+  },
+  "home.recommend.title": {
+    "type": 0,
+    "value": "Many games offer betting\nopportunities to earn rewards."
+  },
+  "home.sport.title": {
+    "type": 0,
+    "value": "Football · Mexico - Liga MX"
+  },
+  "ios_popup.action_button": {
+    "type": 0,
+    "value": "Add to Home Screen"
+  },
+  "ios_popup.description": {
+    "type": 0,
+    "value": "Add the platform to your home screen for a smoother gaming experience"
+  },
+  "ios_popup.footer_tip": {
+    "type": 0,
+    "value": "Faster access from your home screen"
+  },
+  "ios_popup.headline": {
+    "type": 0,
+    "value": "Faster and More Stable"
+  },
+  "ios_popup.title": {
+    "type": 0,
+    "value": "Exclusive Experience"
+  },
+  "leo_test": {
+    "type": 0,
+    "value": ""
+  },
+  "login_register.new.agree_and_sign_up": {
+    "type": 0,
+    "value": "Agree and sign Up"
+  },
+  "login_register.new.btn_complete": {
+    "type": 0,
+    "value": "Complete"
+  },
+  "login_register.new.btn_forget": {
+    "type": 0,
+    "value": "Get Code"
+  },
+  "login_register.new.forget_tip": {
+    "type": 0,
+    "value": "To reset your password, enter the email or phone number you used to sign up. We'll send you a verification code."
+  },
+  "login_register.new.password_login": {
+    "type": 0,
+    "value": "Password login"
+  },
+  "login_register.new.password_register": {
+    "type": 0,
+    "value": "Password register"
+  },
+  "login_register.new.toLogin_tip": {
+    "type": 0,
+    "value": "ALREADY HAVE AN ACCOUNT?"
+  },
+  "login_register.new.toRegister_tip1": {
+    "type": 0,
+    "value": "DON'T HAVE AN ACCOUNT?"
+  },
+  "login_register.new.turnstile_text": {
+    "type": 0,
+    "value": "Please complete the following steps to verify you are human."
+  },
+  "login_register.new.turnstile_tip": {
+    "type": 0,
+    "value": "Before Continuing, {url} needs to check the security of your connection."
+  },
+  "login_register.new.verification_code_login": {
+    "type": 0,
+    "value": "Verification code login"
+  },
+  "login_register.new.verification_code_register": {
+    "type": 0,
+    "value": "Verification code registration"
+  },
+  "loss.bankruptcy_text": {
+    "type": 0,
+    "value": "Deposit just once to get up to"
+  },
+  "mailV2.clicktoWinByItem": {
+    "type": 0,
+    "value": "Get Items Now"
+  },
+  "mosaic_countdown.btn": {
+    "type": 0,
+    "value": "Go wager"
+  },
+  "mosaic_countdown.title": {
+    "type": 0,
+    "value": "Wagering countdown"
+  },
+  "mosaic_rebate_reminder.btn": {
+    "type": 0,
+    "value": "Go wager"
+  },
+  "orderDetail.ended.btn1": {
+    "type": 0,
+    "value": "Return"
+  },
+  "orderDetail.ended.desc": {
+    "type": 0,
+    "value": "This payment session has ended. Please return to check your order status"
+  },
+  "orderDetail.ended.title": {
+    "type": 0,
+    "value": "Order Completed"
+  },
+  "pdd.notification.title": {
+    "type": 0,
+    "value": "Congratulations on winning {amount} "
+  },
+  "pdd.roulette.continue_to_draw": {
+    "type": 0,
+    "value": "Continue to draw"
+  },
+  "pdd.roulette.home_invite_text": {
+    "type": 0,
+    "value": "You have {num} more spins to continue participating in the event."
+  },
+  "pdd.roulette.home_invite_text1": {
+    "type": 0,
+    "value": "Invite friends to register and get spins on the wheel."
+  },
+  "pdd.roulette.only_left": {
+    "type": 0,
+    "value": "Only {time} left"
+  },
+  "pdd.roulette.page.invite_text": {
+    "type": 0,
+    "value": "Invite {amount} more depositing users to unlock the final grand prize"
+  },
+  "pdd.roulette.page.invite_text_final": {
+    "type": 0,
+    "value": "Spin one more time to win the final grand prize"
+  },
+  "pdd.roulette.page.invite_text_more": {
+    "type": 0,
+    "value": "Invite more friends now to multiply your chances of winning"
+  },
+  "pdd.roulette.page.left_time": {
+    "type": 0,
+    "value": "Remaining completion time"
+  },
+  "pdd.roulette.register_ and_unlock_bonus": {
+    "type": 0,
+    "value": "Register and unlock bonus"
+  },
+  "pdd.share.facebook": {
+    "type": 0,
+    "value": "Facebook"
+  },
+  "pdd.share.headertitle": {
+    "type": 0,
+    "value": "Share to get a spin"
+  },
+  "pdd.share.options": {
+    "type": 0,
+    "value": "Option"
+  },
+  "pdd.share.scan": {
+    "type": 0,
+    "value": "Scan Now \u003e\u003e\u003e"
+  },
+  "pdd.share.whatsapp": {
+    "type": 0,
+    "value": "WhatsApp"
+  },
+  "rankActivity.about_to_begin_tip": {
+    "type": 0,
+    "value": "Fixed Pool Leaderboard Starting Soon"
+  },
+  "rankActivity.any_money_can_join": {
+    "type": 0,
+    "value": "Place any bet to enter the leaderboard"
+  },
+  "rankActivity.behind_next_rank": {
+    "type": 0,
+    "value": "Behind Previous Rank"
+  },
+  "rankActivity.claimable_bonus": {
+    "type": 0,
+    "value": "Claimable Bonus"
+  },
+  "rankActivity.detail_ended_claimed_btn_text": {
+    "type": 0,
+    "value": "Claimed"
+  },
+  "rankActivity.detail_ended_no_rewards_btn_text": {
+    "type": 0,
+    "value": "No Rewards"
+  },
+  "rankActivity.detail_game_area_title": {
+    "type": 0,
+    "value": "Eligible Games"
+  },
+  "rankActivity.detail_go_leaderboard": {
+    "type": 0,
+    "value": "Go to Leaderboard"
+  },
+  "rankActivity.detail_leaderboard_in": {
+    "type": 0,
+    "value": "Betting starts in"
+  },
+  "rankActivity.detail_primary_btn_text": {
+    "type": 0,
+    "value": "Sign Up Now"
+  },
+  "rankActivity.detail_registered_btn_text": {
+    "type": 0,
+    "value": "Until Draw"
+  },
+  "rankActivity.detail_settled_btn_text": {
+    "type": 0,
+    "value": "Claim"
+  },
+  "rankActivity.detail_settling_btn_text": {
+    "type": 0,
+    "value": "Settling"
+  },
+  "rankActivity.detail_show_more_btn_text": {
+    "type": 0,
+    "value": "Full Leaderboard"
+  },
+  "rankActivity.end_of_list": {
+    "type": 0,
+    "value": "Time Until Leaderboard Ends"
+  },
+  "rankActivity.estimated_bonus": {
+    "type": 0,
+    "value": "Estimated Bonus"
+  },
+  "rankActivity.grand_total": {
+    "type": 0,
+    "value": "Accumulated"
+  },
+  "rankActivity.keep_first": {
+    "type": 0,
+    "value": "Hold the top spot and claim the champion prize"
+  },
+  "rankActivity.list.bet": {
+    "type": 0,
+    "value": "Bet "
+  },
+  "rankActivity.list.bonus": {
+    "type": 0,
+    "value": "Bonus"
+  },
+  "rankActivity.list.player": {
+    "type": 0,
+    "value": "Player"
+  },
+  "rankActivity.myself.rank": {
+    "type": 0,
+    "value": "My Rank"
+  },
+  "rankActivity.not_ranked": {
+    "type": 0,
+    "value": "Not Ranked"
+  },
+  "rankActivity.only_away_from_top": {
+    "type": 0,
+    "value": "Only {money} Away from Top {rankLimit}"
+  },
+  "rankActivity.outside_scoring_period_tip": {
+    "type": 0,
+    "value": "Current bets will not be counted in the leaderboard.\nValid betting period:"
+  },
+  "rankActivity.primary_btn_text": {
+    "type": 0,
+    "value": "Join Now"
+  },
+  "rankActivity.prize_pool": {
+    "type": 0,
+    "value": "Prize Pool"
+  },
+  "rankActivity.registered_btn_text": {
+    "type": 0,
+    "value": "Joined"
+  },
+  "rankActivity.rules": {
+    "type": 0,
+    "value": "Event Rules"
+  },
+  "rankActivity.settled.view_other_events": {
+    "type": 0,
+    "value": "Explore Other Events"
+  },
+  "rankActivity.settled.wait_next_round": {
+    "type": 0,
+    "value": "Waiting for the Next Round"
+  },
+  "rankActivity.settled_btn_text": {
+    "type": 0,
+    "value": "Rank"
+  },
+  "rankActivity.title": {
+    "type": 0,
+    "value": "Leaderboard Event"
+  },
+  "rankActivity.to_next_cycle": {
+    "type": 0,
+    "value": "Next Period"
+  },
+  "rankActivity.valid_time": {
+    "type": 0,
+    "value": "Valid Betting Period"
+  },
+  "rankActivity.view_all_games": {
+    "type": 0,
+    "value": "View All Games"
+  },
+  "rankActivity.warm_up_tip": {
+    "type": 0,
+    "value": "Accumulated Prize Pool Leaderboard Coming Soon"
+  },
+  "recordV2.table.gounlock": {
+    "type": 0,
+    "value": "Unlock Now"
+  },
+  "recordV2.table.lock": {
+    "type": 0,
+    "value": "Locked"
+  },
+  "register.quick.code_login": {
+    "type": 0,
+    "value": "Code"
+  },
+  "register.quick.facebook_login": {
+    "type": 0,
+    "value": "Facebook"
+  },
+  "register.quick.google_login": {
+    "type": 0,
+    "value": "Google"
+  },
+  "register.quick.telegram_login": {
+    "type": 0,
+    "value": "Talegram"
+  },
+  "register_bonus.message.bonus": {
+    "type": 0,
+    "value": "BONUS"
+  },
+  "register_bonus.notify.buttonText": {
+    "type": 0,
+    "value": "Confirm"
+  },
+  "register_bonus.notify.message": {
+    "type": 0,
+    "value": "{reward} bonus!"
+  },
+  "register_bonus.notify.title": {
+    "type": 0,
+    "value": "Congratulations on your"
+  },
+  "register_bonus.reward_message": {
+    "type": 0,
+    "value": "Deposit any amount to unlock your {reward} Bonus + get up to {reward1} extra on your First Deposit!"
+  },
+  "register_bonus.reward_message1": {
+    "type": 0,
+    "value": "Deposit more to receive up to {reward}!"
+  },
+  "rewardCenterV2.maxReward": {
+    "type": 0,
+    "value": "Grand Prize"
+  },
+  "rewardCenterV2.tomorrow": {
+    "type": 0,
+    "value": "Tomorrow"
+  },
+  "reward_dialog.item.title": {
+    "type": 0,
+    "value": "Reward Received"
+  },
+  "rights_center.instructions_dialog.3.content": {
+    "type": 0,
+    "value": "You have already used a free spin, and the game is currently in progress.\nYou cannot use another free spin at the moment. Please try again after the current round ends."
+  },
+  "rights_center.mosaic.complete": {
+    "type": 0,
+    "value": "Wagering Completed"
+  },
+  "rights_center.rights_item.mosaic_amount": {
+    "type": 0,
+    "value": "Wagering amount:"
+  },
+  "rights_center.rights_item.rebate": {
+    "type": 0,
+    "value": "Cashback:"
+  },
+  "salesmartly.keywords": {
+    "type": 0,
+    "value": "{ \"es\": \"el apoyo de un gerente de cuenta dedicado para atender el problema\", \"en\": \"the support of a dedicated account manager to address the issue.\", \"bn\": \"অনুগ্রহ করে একজন নির্দিষ্ট গ্রাহক ব্যবস্থাপককে সমস্যা সমাধানে সহায়তার জন্য অনুরোধ করা হচ্ছে\" , \"pt\": \"o apoio de um gerente de conta dedicado para tratar do problema\" }"
+  },
+  "salesmartly.reply": {
+    "type": 0,
+    "value": "{ \"es\": \"el apoyo de un gerente de cuenta dedicado para atender el problema\", \"en\": \"the support of a dedicated account manager to address the issue.\", \"bn\": \"অনুগ্রহ করে একজন নির্দিষ্ট গ্রাহক ব্যবস্থাপককে সমস্যা সমাধানে সহায়তার জন্য অনুরোধ করা হচ্ছে\" , \"pt\": \"o apoio de um gerente de conta dedicado para tratar do problema\" }"
+  },
+  "share.copied.successfully": {
+    "type": 0,
+    "value": "Copied successfully"
+  },
+  "sport.basketball": {
+    "type": 0,
+    "value": "basketball"
+  },
+  "sport.laliga": {
+    "type": 0,
+    "value": "laliga"
+  },
+  "sport.soccer": {
+    "type": 0,
+    "value": "soccer"
+  },
+  "sports.soccer.france.ligue1": {
+    "type": 0,
+    "value": "ligue1"
+  },
+  "sports_range.detail.all_limit": {
+    "type": 0,
+    "value": "All betting types are restricted."
+  },
+  "sports_range.detail.bet_form_live": {
+    "type": 0,
+    "value": "Live Bet"
+  },
+  "sports_range.detail.bet_form_pre_match": {
+    "type": 0,
+    "value": "Pre-match Bet"
+  },
+  "sports_range.detail.bet_type_combo": {
+    "type": 0,
+    "value": "Combo Bet"
+  },
+  "sports_range.detail.bet_type_single": {
+    "type": 0,
+    "value": "Single Bet"
+  },
+  "sports_range.detail.bet_type_system": {
+    "type": 0,
+    "value": "System Bet"
+  },
+  "sports_range.detail.limit_bet_form_tips": {
+    "type": 0,
+    "value": "Bet type: {condition}"
+  },
+  "sports_range.detail.limit_bet_types_tips": {
+    "type": 0,
+    "value": "Bet format: {condition}"
+  },
+  "sports_range.detail.limit_tips": {
+    "type": 0,
+    "value": "Bonus Eligibility：{condition}"
+  },
+  "sports_range.detail.no_limit": {
+    "type": 0,
+    "value": "No Requirement"
+  },
+  "sports_range.detail.odds": {
+    "type": 0,
+    "value": "Odds Restriction"
+  },
+  "sports_range.detail.restriction.condition": {
+    "type": 0,
+    "value": "Bonus Restrictions"
+  },
+  "sports_range.detail.title": {
+    "type": 0,
+    "value": "Applicable Sports"
+  },
+  "sports_range.not_applicable.title": {
+    "type": 0,
+    "value": "Excluded Sports"
+  },
+  "test.lua": {
+    "type": 0,
+    "value": "lua-en"
+  },
+  "test1": {
+    "medias": [
+      "123"
+    ],
+    "type": 2,
+    "value": "[\"123\"]"
+  },
+  "ticket_list.extra_bonus": {
+    "type": 0,
+    "value": "No Promotion (Includes Channel Bonus {bonus})"
+  },
+  "verify.email.resend.text": {
+    "type": 0,
+    "value": "Resend verification email"
+  },
+  "verify.email.text": {
+    "type": 0,
+    "value": "Verify your email"
+  },
+  "verify.phone.resend.text": {
+    "type": 0,
+    "value": "Resend the verification code"
+  },
+  "verify.phone.text": {
+    "type": 0,
+    "value": "Verify your phone number"
+  },
+  "vip.signIn.signInGuide_abandonSenior_text1": {
+    "type": 0,
+    "value": "You will lose {text}"
+  },
+  "wallet.recharge.cashier.account": {
+    "type": 0,
+    "value": "Account"
+  },
+  "wallet.recharge.cashier.first_name": {
+    "type": 0,
+    "value": "First name"
+  },
+  "wallet.recharge.cashier.instructions": {
+    "type": 0,
+    "value": "Operation Instructions:"
+  },
+  "wallet.recharge.cashier.last_name": {
+    "type": 0,
+    "value": "Last name"
+  },
+  "wallet.recharge.cashier.name": {
+    "type": 0,
+    "value": "Name"
+  },
+  "wallet.recharge.cashier.pay_amount": {
+    "type": 0,
+    "value": "Actual Payment"
+  },
+  "wallet.recharge.cashier.remark": {
+    "type": 0,
+    "value": "Remarks"
+  },
+  "wallet.recharge.cashier.submit": {
+    "type": 0,
+    "value": "TRANSFER COMPLETED"
+  },
+  "wallet.recharge.cashier.tip_remit": {
+    "type": 0,
+    "value": "Please accurately fill in the remittance information according to the prompts, and fill in the corresponding remark code in the remark column, otherwise the payment may not be received."
+  },
+  "wallet.recharge.cashier.trans_id": {
+    "type": 0,
+    "value": "Transaction ID"
+  },
+  "wallet.recharge.cashier.trans_id_placeholder": {
+    "type": 0,
+    "value": "Please enter transaction ID"
+  },
+  "wallet.recharge.cashier.walletNo": {
+    "type": 0,
+    "value": "Wallet No."
+  },
+  "wallet.type.code_6011": {
+    "type": 0,
+    "value": "Welcome Bonus"
+  },
+  "wallet.type.code_6012": {
+    "type": 0,
+    "value": "7-Day Deposit Bonus"
+  }
+}
+;window.es_lang = {
+  "RegisterBonusEntryDialog.button.deposit": {
+    "type": 0,
+    "value": "Depositar"
+  },
+  "RegisterBonusEntryDialog.button.register": {
+    "type": 0,
+    "value": "Regístrate para ver"
+  },
+  "RegisterBonusEntryDialog.buttonText": {
+    "type": 0,
+    "value": "¡Sortea Ya!"
+  },
+  "RegisterBonusEntryDialog.title": {
+    "type": 0,
+    "value": "¡Sortea tu Bono de la Suerte! \n¡De $88 a $888 al azar!"
+  },
+  "about.terms_of_service.name": {
+    "type": 0,
+    "value": "TÉRMINOS DE SERVICIO"
+  },
+  "app_popup.description": {
+    "type": 0,
+    "value": "Descarga la App y disfruta de una experiencia de juego más fluida"
+  },
+  "app_popup.download_button": {
+    "type": 0,
+    "value": "Descargar ahora"
+  },
+  "app_popup.footer_tip": {
+    "type": 0,
+    "value": "Mejor experiencia en la App"
+  },
+  "app_popup.headline": {
+    "type": 0,
+    "value": "Más rápido y más estable"
+  },
+  "app_popup.title": {
+    "type": 0,
+    "value": "Experiencia exclusiva en la App"
+  },
+  "cash.activities.payment": {
+    "type": 0,
+    "value": "Plazo de pago"
+  },
+  "cash.activities.transfer": {
+    "type": 0,
+    "value": "Transferencia completada"
+  },
+  "cash.btn.maintenance": {
+    "type": 0,
+    "value": "En mantenimiento"
+  },
+  "cash.dialog.btn.change_info": {
+    "type": 0,
+    "value": "Modificar información"
+  },
+  "cash.dialog.btn.go": {
+    "type": 0,
+    "value": "Ir a"
+  },
+  "cash.info_change_confirm_dialog.desc": {
+    "type": 0,
+    "value": "Su información de retiro actual ha cambiado en comparación con el último retiro. Por favor verifique cuidadosamente la información de retiro."
+  },
+  "cash.info_change_confirm_dialog.title": {
+    "type": 0,
+    "value": "Confirmación de cambio de información de retiro"
+  },
+  "cash.info_change_dialog.desc": {
+    "type": 0,
+    "value": "La información de retiro ya existe para la cuenta actual. Si necesita modificarla, póngase en contacto con el servicio de atención al cliente."
+  },
+  "cash.info_change_dialog.title": {
+    "type": 0,
+    "value": "Modificar información de retiro"
+  },
+  "cash.info_confirm_dialog.title": {
+    "type": 0,
+    "value": "Confirmación de información de retiro"
+  },
+  "cash.maintenance_marquee.text": {
+    "type": 0,
+    "value": "Disculpe las molestias. El sistema se encuentra actualmente en mantenimiento. Por favor, intente utilizar otro método de pago."
+  },
+  "claim_now": {
+    "type": 0,
+    "value": "¡Reclama ahora!"
+  },
+  "common.back": {
+    "type": 0,
+    "value": "Atrás"
+  },
+  "common.bonus_received_subtitle_infos": {
+    "type": 0,
+    "value": "Este bono solo puede utilizarse para apostar en los siguientes juegos"
+  },
+  "common.btn.go": {
+    "type": 0,
+    "value": "Ir"
+  },
+  "common.casino": {
+    "type": 0,
+    "value": "Casino"
+  },
+  "common.close": {
+    "type": 0,
+    "value": "Cerrar"
+  },
+  "common.detail": {
+    "type": 0,
+    "value": "Detalles"
+  },
+  "common.go": {
+    "type": 0,
+    "value": "Ir"
+  },
+  "common.home": {
+    "type": 0,
+    "value": "Inicio"
+  },
+  "common.or": {
+    "type": 0,
+    "value": "o"
+  },
+  "common.reset_password": {
+    "type": 0,
+    "value": "Restablecer contraseña"
+  },
+  "common.unsubscribe": {
+    "type": 0,
+    "value": "Darse de baja"
+  },
+  "continuousRechargeV2.min_recharge": {
+    "type": 0,
+    "value": "Depositar ≥{min}"
+  },
+  "continuousRechargeV2.receive": {
+    "type": 0,
+    "value": "Reclamar"
+  },
+  "continuousRechargeV2.received": {
+    "type": 0,
+    "value": "Reclamado"
+  },
+  "continuousRechargeV2.rule.text": {
+    "type": 3,
+    "value": "\u003ch2\u003e🔥 Bono de 7 días de depósito\u003c/h2\u003e\u003cp\u003e Deposita cada día y gana recompensas 💰\u003cbr\u003e Completa los 7 días y en el día 7 obtén un \u003cstrong\u003epremio misterioso\u003c/strong\u003e 🎁\u003c/p\u003e\u003chr/\u003e\u003ch2\u003e🎁 Reglas de la promoción\u003c/h2\u003e\u003cul\u003e\u003cli\u003eDuración del evento: 9 días\u003c/li\u003e\u003cli\u003eCompleta 7 días de depósito para finalizar el desafío\u003c/li\u003e\u003cli\u003eDeposita al menos una vez al día para obtener la recompensa\u003c/li\u003e\u003cli\u003eNo es necesario que sean días consecutivos, tu progreso se mantiene\u003c/li\u003e\u003c/ul\u003e\u003chr/\u003e\u003ch2\u003e📅 Recompensas diarias\u003c/h2\u003e\u003cul\u003e\u003cli\u003e Día 1: +500\u003c/li\u003e\u003cli\u003e Día 2: +500\u003c/li\u003e\u003cli\u003e Día 3: +500\u003c/li\u003e\u003cli\u003e Día 4: +500\u003c/li\u003e\u003cli\u003e Día 5: +500\u003c/li\u003e\u003cli\u003e Día 6: +500\u003c/li\u003e\u003cli\u003e 🎁 Día 7: +500 + Premio misterioso\u003c/li\u003e\u003c/ul\u003e\u003chr/\u003e\u003ch2\u003e⚠️ Importante\u003c/h2\u003e\u003cul\u003e\u003cli\u003eTienes hasta 9 días para completar los 7 depósitos\u003c/li\u003e\u003cli\u003ePuedes saltarte días, siempre que completes los 7 dentro del período\u003c/li\u003e\u003cli\u003eLas recompensas diarias requieren 5x de apuesta para retirar\u003c/li\u003e\u003cli\u003eEl premio del día 7 requiere 10x de apuesta para retirar\u003c/li\u003e\u003c/ul\u003e\u003chr/\u003e\u003ch2\u003e🚀 Consejo\u003c/h2\u003e\u003cp\u003e👉 Empieza hoy y complétalo más fácil\u003c/p\u003e\u003cp\u003e 👉 El día 7 tiene la mejor recompensa — ¡no te quedes a un paso!\u003c/p\u003e"
+  },
+  "continuousRechargeV2.rule.title": {
+    "type": 0,
+    "value": "Tarea de Depósito de 7 Días"
+  },
+  "download.android_text": {
+    "type": 0,
+    "value": "Instalar"
+  },
+  "download.ios_text": {
+    "type": 0,
+    "value": "AÑADIR"
+  },
+  "download.reward_text": {
+    "type": 0,
+    "value": "Recompensa {reward} monedas"
+  },
+  "form.label.ARS_TRANSFER_bank_code": {
+    "type": 0,
+    "value": "Banco"
+  },
+  "form.label.ARS_TRANSFER_bank_number": {
+    "type": 0,
+    "value": "Número de cuenta bancaria"
+  },
+  "form.label.ARS_TRANSFER_id_number": {
+    "type": 0,
+    "value": "Número de documento"
+  },
+  "form.label.ARS_TRANSFER_id_type": {
+    "type": 0,
+    "value": "Tipo de documento"
+  },
+  "form.label.USDT_bank_code": {
+    "type": 0,
+    "value": "Elegir red"
+  },
+  "form.label.USDT_bank_number": {
+    "type": 0,
+    "value": "Dirección de retiro"
+  },
+  "form.label.full_name": {
+    "type": 0,
+    "value": "Nombre completo"
+  },
+  "form.label.name1": {
+    "type": 0,
+    "value": "Nombre"
+  },
+  "form.placeholder.ARS_TRANSFER_bank_number": {
+    "type": 0,
+    "value": "Ingrese su número de cuenta de 22 dígitos"
+  },
+  "form.placeholder.ARS_TRANSFER_id_number_cuil": {
+    "type": 0,
+    "value": "Ingrese su CUIL de 11 dígitos"
+  },
+  "form.placeholder.ARS_TRANSFER_id_number_cuit": {
+    "type": 0,
+    "value": "Ingrese su CUIT de 11 dígitos"
+  },
+  "form.placeholder.ARS_TRANSFER_id_number_dni": {
+    "type": 0,
+    "value": "Ingrese su DNI de 8 dígitos"
+  },
+  "form.placeholder.USDT_bank_code": {
+    "type": 0,
+    "value": "Por favor elija una red"
+  },
+  "form.placeholder.USDT_bank_number": {
+    "type": 0,
+    "value": "Por favor ingrese la dirección de retiro"
+  },
+  "form.placeholder.full_name": {
+    "type": 0,
+    "value": "Ingrese el nombre como figura en su documento"
+  },
+  "form.placeholder.new.email_phone": {
+    "type": 0,
+    "value": "Correo electrónico / Número de teléfono"
+  },
+  "form.validate.error.ARS_TRANSFER_bank_number": {
+    "type": 0,
+    "value": "Ingrese un número de cuenta de 22 dígitos"
+  },
+  "form.validate.error.ARS_TRANSFER_id_number_cuil": {
+    "type": 0,
+    "value": "El CUIL debe tener 11 dígitos"
+  },
+  "form.validate.error.ARS_TRANSFER_id_number_cuit": {
+    "type": 0,
+    "value": "El CUIT debe tener 11 dígitos"
+  },
+  "form.validate.error.ARS_TRANSFER_id_number_dni": {
+    "type": 0,
+    "value": "El DNI debe tener 8 dígitos"
+  },
+  "form.validate.error.full_name": {
+    "type": 0,
+    "value": "El nombre completo no es válido"
+  },
+  "form.validate.new.email_phone": {
+    "type": 0,
+    "value": "*Por favor, utiliza un correo electrónico o número de teléfono diferente"
+  },
+  "funds.deposit_ticket_close_163804419249406762": {
+    "type": 0,
+    "value": "Su cupón corresponde al depósito de otro pedido, y dicho depósito se ha acreditado correctamente en su cuenta. Por favor, proporcione el cupón correcto para el pedido correspondiente."
+  },
+  "funds.deposit_ticket_close_164065767002735103": {
+    "type": 0,
+    "value": "Esta recarga ya no es válida. Por favor, crea una nueva recarga y procede con el pago. ¡Gracias!"
+  },
+  "funds.deposit_ticket_close_164221607944945496": {
+    "type": 0,
+    "value": "El comprobante de depósito que proporcionó no pertenece a nuestra plataforma. Para obtener ayuda, comuníquese con el servicio de atención al cliente."
+  },
+  "funds.deposit_ticket_reject_163764305026645848": {
+    "type": 0,
+    "value": "Estimado usuario, no se encuentra su certificado de depósito. Por favor, vuelva a enviar el certificado correcto."
+  },
+  "funds.deposit_ticket_reject_163764522392256344": {
+    "type": 0,
+    "value": "Su recibo indica que el banco aún no ha recibido los fondos. Por favor, espere pacientemente."
+  },
+  "funds.deposit_ticket_reject_163845169261576702": {
+    "type": 0,
+    "value": "El comprobante de depósito que proporcionó no es el documento correcto para este pedido. Por favor, proporcione el documento correcto y le ayudaremos a verificar el pedido."
+  },
+  "funds.deposit_ticket_reject_164079381679996760": {
+    "type": 0,
+    "value": "Las credenciales que envió no son de nuestra plataforma. Por favor, envíe las credenciales correctas."
+  },
+  "funds.deposit_ticket_reject_164281962352085104": {
+    "type": 0,
+    "value": "Estimado usuario, no se puede consultar su comprobante de depósito. Por favor, vuelva a enviar el comprobante correcto; (Las razones pueden ser: CLABE incorrecto, comprobante poco claro o impreciso, o que no coincida con el pedido) 【Recordatorio: Cada pago debe realizarse con un nuevo CLABE para que el monto se acredite correctamente】"
+  },
+  "funds.deposit_ticket_reject_164282150022023280": {
+    "type": 0,
+    "value": "El comprobante de depósito que proporcionó no es el documento correcto para este pedido. Por favor, proporcione el documento correcto y le ayudaremos a verificar el pedido."
+  },
+  "funds.deposit_ticket_reject_167397553891999576": {
+    "medias": [
+      "upload/image/20260312_bd7e077b08218793369357ed0e12b919_1773337751349.webp"
+    ],
+    "type": 1,
+    "value": "[\"upload/image/20260312_bd7e077b08218793369357ed0e12b919_1773337751349.webp\"]"
+  },
+  "funds.deposit_ticket_reject_167401441105805822": {
+    "medias": [
+      "upload/image/20260228_08425418c60e477a6190729f61f0d1e3_1772310186562.webp",
+      "upload/image/20260228_b34d3047bef6ce959318dfcf0d25e551_1772310191371.webp",
+      "upload/image/20260228_9605d96e6ddc4239ccefb97060b60833_1772310195974.webp"
+    ],
+    "type": 1,
+    "value": "[\"upload/image/20260228_08425418c60e477a6190729f61f0d1e3_1772310186562.webp\",\"upload/image/20260228_b34d3047bef6ce959318dfcf0d25e551_1772310191371.webp\",\"upload/image/20260228_9605d96e6ddc4239ccefb97060b60833_1772310195974.webp\"]"
+  },
+  "funds.deposit_ticket_reject_169132452479008600": {
+    "type": 0,
+    "value": "Estimado usuario, no se encuentra su certificado de depósito. Por favor, contacte con atención al cliente para obtener asistencia directa (presente el certificado correcto, el nombre y el número de identificación del pagador)."
+  },
+  "funds.deposit_ticket_reject_176854948498113172": {
+    "type": 0,
+    "value": "Estimado cliente, por favor facilítenos su recibo CEP (Certificado de Depósito) para que podamos ayudarle a verificar su pago."
+  },
+  "gameLockWalletTipDialog.buttonText": {
+    "type": 0,
+    "value": "Depositar"
+  },
+  "gameLockWalletTipDialog.message": {
+    "type": 0,
+    "value": "¡Cualquier depósito activa tu bono de {reward}!"
+  },
+  "high_multipliehigh_multiplier_share.followup_b_body_sharer_share.followup_b_title_share": {
+    "type": 0,
+    "value": "¡Compartido con éxito!"
+  },
+  "high_multiplier_share.claim_now": {
+    "type": 0,
+    "value": "Reclamar ahora"
+  },
+  "high_multiplier_share.deposit_cta": {
+    "type": 0,
+    "value": "DEPOSITAR AHORA"
+  },
+  "high_multiplier_share.deposit_promo": {
+    "type": 0,
+    "value": "¡Deposita cualquier monto y recibe un bono de la suerte de {amount}!"
+  },
+  "high_multiplier_share.followup_b_body_image": {
+    "type": 0,
+    "value": "Tu amigo debe iniciar sesión con tu enlace para recibir el premio"
+  },
+  "high_multiplier_share.followup_b_body_link": {
+    "type": 0,
+    "value": "Envía a tu amigo para que escanee e inicie sesión para obtener el premio"
+  },
+  "high_multiplier_share.followup_b_body_share": {
+    "type": 0,
+    "value": "Tu amigo debe iniciar sesión con tu enlace para recibir el premio"
+  },
+  "high_multiplier_share.followup_b_footer_prefix": {
+    "type": 0,
+    "value": "Reclama más tarde en el"
+  },
+  "high_multiplier_share.followup_b_footer_reward": {
+    "type": 0,
+    "value": "Centro de recompensas"
+  },
+  "high_multiplier_share.followup_b_got_it": {
+    "type": 0,
+    "value": "ENTENDIDO"
+  },
+  "high_multiplier_share.followup_b_title_image": {
+    "type": 0,
+    "value": "¡Imagen guardada con éxito!"
+  },
+  "high_multiplier_share.followup_b_title_link": {
+    "type": 0,
+    "value": "¡Enlace copiado con éxito!"
+  },
+  "high_multiplier_share.followup_b_title_share": {
+    "type": 0,
+    "value": "Compartido con éxito"
+  },
+  "high_multiplier_share.log_in_now": {
+    "type": 0,
+    "value": "INICIAR SESIÓN"
+  },
+  "high_multiplier_share.no_account": {
+    "type": 0,
+    "value": "¿Sin cuenta?"
+  },
+  "high_multiplier_share.poster_multiplier_line": {
+    "type": 0,
+    "value": "Mayor multiplicador de Jackpot: {multiplier}"
+  },
+  "high_multiplier_share.poster_record": {
+    "type": 0,
+    "value": "RÉCORD DE {name}"
+  },
+  "high_multiplier_share.poster_scan_tip": {
+    "type": 0,
+    "value": "Escanea el QR para obtener la suerte de tu amigo y ganar un premio de {min} a {max}"
+  },
+  "high_multiplier_share.poster_scan_tip_max": {
+    "type": 0,
+    "value": "¡Escanea y gana hasta {amount}!"
+  },
+  "high_multiplier_share.poster_winnings_line": {
+    "type": 0,
+    "value": "Ganancias: {amount}"
+  },
+  "high_multiplier_share.referral_invite_instruction": {
+    "type": 0,
+    "value": "Tu amigo escanea el QR o hace clic para iniciar sesión y tú obtienes un bono de {amount}"
+  },
+  "high_multiplier_share.referral_invite_instruction_max": {
+    "type": 0,
+    "value": "¡Invita amigos y gana hasta {amount}!"
+  },
+  "high_multiplier_share.register_now": {
+    "type": 0,
+    "value": "Regístrate ahora"
+  },
+  "high_multiplier_share.reward_center_share_progress": {
+    "type": 0,
+    "value": "Compartidos / Total:"
+  },
+  "high_multiplier_share.share_highlights_title": {
+    "type": 0,
+    "value": "Compartir destacados"
+  },
+  "high_multiplier_share.share_instruction": {
+    "type": 0,
+    "value": "Elige una plataforma social para compartir"
+  },
+  "high_multiplier_share.share_now": {
+    "type": 0,
+    "value": "Compartir ahora"
+  },
+  "high_multiplier_share.share_promo": {
+    "type": 0,
+    "value": "¡Comparte tu momento destacado y gana {amount}!"
+  },
+  "high_multiplier_share.share_promo2": {
+    "type": 0,
+    "value": "Gana hasta"
+  },
+  "high_multiplier_share.share_promo_invite": {
+    "type": 0,
+    "value": "Comparte tu momento para invitar amigos y gana {amount}"
+  },
+  "high_multiplier_share.sharee_login_tip": {
+    "type": 0,
+    "value": "Ver después de iniciar sesión"
+  },
+  "high_multiplier_share.sharee_reward_preview": {
+    "type": 0,
+    "value": "Bono de hasta"
+  },
+  "high_multiplier_share.sharee_try_your_luck": {
+    "type": 0,
+    "value": "Prueba tu suerte"
+  },
+  "high_multiplier_share.title": {
+    "type": 0,
+    "value": "¡Felicidades por tu jugada destacada!"
+  },
+  "high_multiplier_share.title_after_share\n": {
+    "type": 0,
+    "value": "Compartido con éxito"
+  },
+  "high_multiplier_share.title_sharee_claim_limit": {
+    "type": 0,
+    "value": "Límite de reclamos alcanzado"
+  },
+  "high_multiplier_share.title_sharee_home": {
+    "type": 0,
+    "value": "¡Recibiste la bendición de un amigo!"
+  },
+  "high_multiplier_share.title_sharee_reward_claimed": {
+    "type": 0,
+    "value": "Ya reclamaste esta recompensa"
+  },
+  "high_multiplier_share.view_rules": {
+    "type": 0,
+    "value": "Ver reglas"
+  },
+  "history": {
+    "type": 0,
+    "value": "Historial del Ranking"
+  },
+  "home.all": {
+    "type": 0,
+    "value": "Todos"
+  },
+  "home.commentsSwiper.c1.content": {
+    "type": 0,
+    "value": "No hay absolutamente nada que criticar.\n100 puntos 👍👍🔥"
+  },
+  "home.commentsSwiper.c1.rating": {
+    "type": 0,
+    "value": "5"
+  },
+  "home.commentsSwiper.c1.userName": {
+    "type": 0,
+    "value": "lingorl51561"
+  },
+  "home.commentsSwiper.c2.content": {
+    "type": 0,
+    "value": "Depósitos rápidos, experiencia fluida en general.\n100 puntos 👍👍🔥"
+  },
+  "home.commentsSwiper.c2.rating": {
+    "type": 0,
+    "value": "4.6"
+  },
+  "home.commentsSwiper.c2.userName": {
+    "type": 0,
+    "value": "marco_88"
+  },
+  "home.commentsSwiper.c3.content": {
+    "type": 0,
+    "value": "Buenas promociones y rápida respuesta de soporte.\n100 puntos 👍👍🔥"
+  },
+  "home.footer.footer_6.text": {
+    "type": 0,
+    "value": "2025 { webUrl } Todos los derechos reservados."
+  },
+  "home.rankActivity.title": {
+    "type": 0,
+    "value": "Torneos"
+  },
+  "home.recommend.register_now": {
+    "type": 0,
+    "value": "¡Regístrate ahora y apuesta! ⭐"
+  },
+  "home.recommend.title": {
+    "type": 0,
+    "value": "Apuesta ahora y gana recompensas"
+  },
+  "home.sport.title": {
+    "type": 0,
+    "value": "Fútbol · México - Liga MX"
+  },
+  "ios_popup.action_button": {
+    "type": 0,
+    "value": "Agregar a la pantalla de inicio"
+  },
+  "ios_popup.description": {
+    "type": 0,
+    "value": "Agrega la plataforma a tu pantalla de inicio y disfruta de una experiencia de juego más fluida"
+  },
+  "ios_popup.footer_tip": {
+    "type": 0,
+    "value": "Accede más rápido desde tu pantalla de inicio"
+  },
+  "ios_popup.headline": {
+    "type": 0,
+    "value": "Más rápido y más estable"
+  },
+  "ios_popup.title": {
+    "type": 0,
+    "value": "Experiencia exclusiva"
+  },
+  "leo_test": {
+    "type": 0,
+    "value": ""
+  },
+  "login_register.new.agree_and_sign_up": {
+    "type": 0,
+    "value": "Aceptar y registrarse"
+  },
+  "login_register.new.btn_complete": {
+    "type": 0,
+    "value": "Completar"
+  },
+  "login_register.new.btn_forget": {
+    "type": 0,
+    "value": "Obtener código"
+  },
+  "login_register.new.forget_tip": {
+    "type": 0,
+    "value": "Para restablecer tu contraseña, introduce el correo electrónico o el número de teléfono que usaste para registrarte. Te enviaremos un código de verificación."
+  },
+  "login_register.new.password_login": {
+    "type": 0,
+    "value": "Inicio de sesión con contraseña"
+  },
+  "login_register.new.password_register": {
+    "type": 0,
+    "value": "Registro con contraseña"
+  },
+  "login_register.new.toLogin_tip": {
+    "type": 0,
+    "value": "¿YA TIENES UNA CUENTA?"
+  },
+  "login_register.new.toRegister_tip1": {
+    "type": 0,
+    "value": "¿NO TIENES UNA CUENTA?"
+  },
+  "login_register.new.turnstile_text": {
+    "type": 0,
+    "value": "Completa los siguientes pasos para verificar que eres humano."
+  },
+  "login_register.new.turnstile_tip": {
+    "type": 0,
+    "value": "Antes de continuar, {url} necesita verificar la seguridad de tu conexión."
+  },
+  "login_register.new.verification_code_login": {
+    "type": 0,
+    "value": "Inicio de sesión con código de verificação"
+  },
+  "login_register.new.verification_code_register": {
+    "type": 0,
+    "value": "Registro con código de verificación"
+  },
+  "loss.bankruptcy_text": {
+    "type": 0,
+    "value": "¡Solo un depósito para ganar hasta"
+  },
+  "mailV2.clicktoWinByItem": {
+    "type": 0,
+    "value": "Obtenga un Ítems ahora"
+  },
+  "mosaic_countdown.btn": {
+    "type": 0,
+    "value": "Ir a apostar"
+  },
+  "mosaic_countdown.title": {
+    "type": 0,
+    "value": "Cuenta regresiva de apuestas"
+  },
+  "mosaic_rebate_reminder.btn": {
+    "type": 0,
+    "value": "Ir a apostar"
+  },
+  "orderDetail.ended.btn1": {
+    "type": 0,
+    "value": "Volver"
+  },
+  "orderDetail.ended.desc": {
+    "type": 0,
+    "value": "Esta sesión de pago ha finalizado. Vuelve para verificar el estado de tu pedido"
+  },
+  "orderDetail.ended.title": {
+    "type": 0,
+    "value": "Orden finalizada"
+  },
+  "pdd.notification.title": {
+    "type": 0,
+    "value": "¡Felicidades! Has ganado {amount}"
+  },
+  "pdd.roulette.continue_to_draw": {
+    "type": 0,
+    "value": "Continue to draw"
+  },
+  "pdd.roulette.home_invite_text": {
+    "type": 0,
+    "value": "Te quedan {num} giros para seguir participando en el evento"
+  },
+  "pdd.roulette.home_invite_text1": {
+    "type": 0,
+    "value": "Invita a tus amigos a registrarse y obtén giros en la ruleta"
+  },
+  "pdd.roulette.only_left": {
+    "type": 0,
+    "value": "Solo quedan {time}"
+  },
+  "pdd.roulette.page.invite_text": {
+    "type": 0,
+    "value": "Invita a {amount} usuarios más que realicen un depósito para desbloquear el premio final"
+  },
+  "pdd.roulette.page.invite_text_final": {
+    "type": 0,
+    "value": "Haz un giro más para ganar el premio final"
+  },
+  "pdd.roulette.page.invite_text_more": {
+    "type": 0,
+    "value": "Invita a más amigos ahora para multiplicar tus probabilidades de ganar"
+  },
+  "pdd.roulette.page.left_time": {
+    "type": 0,
+    "value": "Tiempo restante para completar"
+  },
+  "pdd.roulette.register_ and_unlock_bonus": {
+    "type": 0,
+    "value": "Regístrate y desbloquea el bono"
+  },
+  "pdd.share.facebook": {
+    "type": 0,
+    "value": "Facebook"
+  },
+  "pdd.share.headertitle": {
+    "type": 0,
+    "value": "Comparte y gana un giro"
+  },
+  "pdd.share.options": {
+    "type": 0,
+    "value": "Opción"
+  },
+  "pdd.share.scan": {
+    "type": 0,
+    "value": "Escanea ahora \u003e\u003e\u003e"
+  },
+  "pdd.share.whatsapp": {
+    "type": 0,
+    "value": "WhatsApp"
+  },
+  "rankActivity.about_to_begin_tip": {
+    "type": 0,
+    "value": "Inicia pronto: Ranking de Pozo Fijo"
+  },
+  "rankActivity.any_money_can_join": {
+    "type": 0,
+    "value": "Realiza cualquier apuesta para entrar en la clasificación"
+  },
+  "rankActivity.behind_next_rank": {
+    "type": 0,
+    "value": "Diferencia con el Anterior"
+  },
+  "rankActivity.claimable_bonus": {
+    "type": 0,
+    "value": "Bono Disponible"
+  },
+  "rankActivity.detail_ended_claimed_btn_text": {
+    "type": 0,
+    "value": "Reclamado"
+  },
+  "rankActivity.detail_ended_no_rewards_btn_text": {
+    "type": 0,
+    "value": "Sin Recompensas"
+  },
+  "rankActivity.detail_game_area_title": {
+    "type": 0,
+    "value": "Juegos Elegibles"
+  },
+  "rankActivity.detail_go_leaderboard": {
+    "type": 0,
+    "value": "Ir al Ranking"
+  },
+  "rankActivity.detail_leaderboard_in": {
+    "type": 0,
+    "value": "Inicia en"
+  },
+  "rankActivity.detail_primary_btn_text": {
+    "type": 0,
+    "value": "Inscribirse Ahora"
+  },
+  "rankActivity.detail_registered_btn_text": {
+    "type": 0,
+    "value": "Tiempo para el Sorteo"
+  },
+  "rankActivity.detail_settled_btn_text": {
+    "type": 0,
+    "value": "Reclamar"
+  },
+  "rankActivity.detail_settling_btn_text": {
+    "type": 0,
+    "value": "En Liquidación"
+  },
+  "rankActivity.detail_show_more_btn_text": {
+    "type": 0,
+    "value": "Ranking Completo"
+  },
+  "rankActivity.end_of_list": {
+    "type": 0,
+    "value": "Tiempo Hasta el Fin de la Clasificación"
+  },
+  "rankActivity.estimated_bonus": {
+    "type": 0,
+    "value": "Bono Estimado"
+  },
+  "rankActivity.grand_total": {
+    "type": 0,
+    "value": "Acumulado"
+  },
+  "rankActivity.keep_first": {
+    "type": 0,
+    "value": "Mantén el primer lugar y gana el premio del campeón"
+  },
+  "rankActivity.list.bet": {
+    "type": 0,
+    "value": "Apuesta"
+  },
+  "rankActivity.list.bonus": {
+    "type": 0,
+    "value": "Bono"
+  },
+  "rankActivity.list.player": {
+    "type": 0,
+    "value": "Jugador"
+  },
+  "rankActivity.myself.rank": {
+    "type": 0,
+    "value": "Mi Posición"
+  },
+  "rankActivity.not_ranked": {
+    "type": 0,
+    "value": "No Clasificado"
+  },
+  "rankActivity.only_away_from_top": {
+    "type": 0,
+    "value": "A solo {money} del Top {rankLimit}"
+  },
+  "rankActivity.outside_scoring_period_tip": {
+    "type": 0,
+    "value": "Las apuestas realizadas actualmente no se contarán para el ranking.\nPeríodo válido de apuestas:"
+  },
+  "rankActivity.primary_btn_text": {
+    "type": 0,
+    "value": "Participar Ahora"
+  },
+  "rankActivity.prize_pool": {
+    "type": 0,
+    "value": "Pozo de Premios"
+  },
+  "rankActivity.registered_btn_text": {
+    "type": 0,
+    "value": "Ya Participó"
+  },
+  "rankActivity.rules": {
+    "type": 0,
+    "value": "Reglas del Evento"
+  },
+  "rankActivity.settled.view_other_events": {
+    "type": 0,
+    "value": "Ver Otras Promociones"
+  },
+  "rankActivity.settled.wait_next_round": {
+    "type": 0,
+    "value": "Esperando la Próxima Ronda"
+  },
+  "rankActivity.settled_btn_text": {
+    "type": 0,
+    "value": "Posición"
+  },
+  "rankActivity.title": {
+    "type": 0,
+    "value": "Evento de Clasificación"
+  },
+  "rankActivity.to_next_cycle": {
+    "type": 0,
+    "value": "Próximo Período"
+  },
+  "rankActivity.valid_time": {
+    "type": 0,
+    "value": "Período de Apuestas Válido"
+  },
+  "rankActivity.view_all_games": {
+    "type": 0,
+    "value": "Ver Todos los Juegos"
+  },
+  "rankActivity.warm_up_tip": {
+    "type": 0,
+    "value": "Inicia pronto: Ranking de Pozo Acumulado"
+  },
+  "recordV2.table.gounlock": {
+    "type": 0,
+    "value": "¡Desbloquea ya!"
+  },
+  "recordV2.table.lock": {
+    "type": 0,
+    "value": "Bloqueado"
+  },
+  "register.quick.code_login": {
+    "type": 0,
+    "value": "Code"
+  },
+  "register.quick.facebook_login": {
+    "type": 0,
+    "value": "Facebook"
+  },
+  "register.quick.google_login": {
+    "type": 0,
+    "value": "Google"
+  },
+  "register.quick.telegram_login": {
+    "type": 0,
+    "value": "Talegram"
+  },
+  "register_bonus.message.bonus": {
+    "type": 0,
+    "value": "BONO"
+  },
+  "register_bonus.notify.buttonText": {
+    "type": 0,
+    "value": "Confirmar"
+  },
+  "register_bonus.notify.message": {
+    "type": 0,
+    "value": "¡Bono de {reward}!"
+  },
+  "register_bonus.notify.title": {
+    "type": 0,
+    "value": "¡Felicidades por tu"
+  },
+  "register_bonus.reward_message": {
+    "type": 0,
+    "value": "¡Deposita cualquier monto para desbloquear tu bono de {reward} + obtén hasta {reward1} extra en tu primer depósito!"
+  },
+  "register_bonus.reward_message1": {
+    "type": 0,
+    "value": "¡Deposita más para recibir hasta {reward}!"
+  },
+  "rewardCenterV2.maxReward": {
+    "type": 0,
+    "value": "Gran Premio"
+  },
+  "rewardCenterV2.tomorrow": {
+    "type": 0,
+    "value": "Mañana"
+  },
+  "reward_dialog.item.title": {
+    "type": 0,
+    "value": "Recompensa obtenida"
+  },
+  "rights_center.instructions_dialog.3.content": {
+    "type": 0,
+    "value": "Ya ha utilizado un giro gratis y el juego está en curso.\nNo es posible usar otro giro gratis en este momento. Por favor, inténtelo nuevamente después de que finalice la ronda actual."
+  },
+  "rights_center.mosaic.complete": {
+    "type": 0,
+    "value": "Apuesta completada"
+  },
+  "rights_center.rights_item.mosaic_amount": {
+    "type": 0,
+    "value": "Volumen de apuestas:"
+  },
+  "rights_center.rights_item.rebate": {
+    "type": 0,
+    "value": "Cashback:"
+  },
+  "salesmartly.keywords": {
+    "type": 0,
+    "value": "{ \"es\": \"el apoyo de un gerente de cuenta dedicado para atender el problema\", \"en\": \"the support of a dedicated account manager to address the issue.\", \"bn\": \"অনুগ্রহ করে একজন নির্দিষ্ট গ্রাহক ব্যবস্থাপককে সমস্যা সমাধানে সহায়তার জন্য অনুরোধ করা হচ্ছে\" , \"pt\": \"o apoio de um gerente de conta dedicado para tratar do problema\" }"
+  },
+  "salesmartly.reply": {
+    "type": 0,
+    "value": "{ \"es\": \"el apoyo de un gerente de cuenta dedicado para atender el problema\", \"en\": \"the support of a dedicated account manager to address the issue.\", \"bn\": \"অনুগ্রহ করে একজন নির্দিষ্ট গ্রাহক ব্যবস্থাপককে সমস্যা সমাধানে সহায়তার জন্য অনুরোধ করা হচ্ছে\" , \"pt\": \"o apoio de um gerente de conta dedicado para tratar do problema\" }"
+  },
+  "share.copied.successfully": {
+    "type": 0,
+    "value": "Copiado correctamente"
+  },
+  "sport.basketball": {
+    "type": 0,
+    "value": "baloncesto"
+  },
+  "sport.laliga": {
+    "type": 0,
+    "value": "laliga"
+  },
+  "sport.soccer": {
+    "type": 0,
+    "value": "fútbol"
+  },
+  "sports.soccer.france.ligue1": {
+    "type": 0,
+    "value": "ligue1"
+  },
+  "sports_range.detail.all_limit": {
+    "type": 0,
+    "value": "Todos los tipos de apuesta están restringidos."
+  },
+  "sports_range.detail.bet_form_live": {
+    "type": 0,
+    "value": "Apuesta en Vivo"
+  },
+  "sports_range.detail.bet_form_pre_match": {
+    "type": 0,
+    "value": "Apuesta Previa"
+  },
+  "sports_range.detail.bet_type_combo": {
+    "type": 0,
+    "value": "Apuesta Combinada"
+  },
+  "sports_range.detail.bet_type_single": {
+    "type": 0,
+    "value": "Apuesta Simple"
+  },
+  "sports_range.detail.bet_type_system": {
+    "type": 0,
+    "value": "Apuesta de Sistema"
+  },
+  "sports_range.detail.limit_bet_form_tips": {
+    "type": 0,
+    "value": "Tipo de apuesta: {condition}"
+  },
+  "sports_range.detail.limit_bet_types_tips": {
+    "type": 0,
+    "value": "Forma de apuesta: {condition}"
+  },
+  "sports_range.detail.limit_tips": {
+    "type": 0,
+    "value": "Elegibilidad del Bono:{condition}"
+  },
+  "sports_range.detail.no_limit": {
+    "type": 0,
+    "value": "Sin Requisitos"
+  },
+  "sports_range.detail.odds": {
+    "type": 0,
+    "value": "Restricción de Cuotas"
+  },
+  "sports_range.detail.restriction.condition": {
+    "type": 0,
+    "value": "Restricciones del Bono"
+  },
+  "sports_range.detail.title": {
+    "type": 0,
+    "value": "Deportes Aplicables"
+  },
+  "sports_range.not_applicable.title": {
+    "type": 0,
+    "value": "Deportes Excluidos"
+  },
+  "test.lua": {
+    "type": 0,
+    "value": "lua-es"
+  },
+  "test1": {
+    "medias": [
+      "ttt"
+    ],
+    "type": 2,
+    "value": "[\"ttt\"]"
+  },
+  "ticket_list.extra_bonus": {
+    "type": 0,
+    "value": "Sin promoción (Incluye bono del canal {bonus})"
+  },
+  "verify.email.resend.text": {
+    "type": 0,
+    "value": "Reenviar correo de verificación"
+  },
+  "verify.email.text": {
+    "type": 0,
+    "value": "Verifica tu correo electrónico"
+  },
+  "verify.phone.resend.text": {
+    "type": 0,
+    "value": "Reenviar código de verificación"
+  },
+  "verify.phone.text": {
+    "type": 0,
+    "value": "Verifica tu número de teléfono"
+  },
+  "vip.signIn.signInGuide_abandonSenior_text1": {
+    "type": 0,
+    "value": "Pierdes el {text}"
+  },
+  "wallet.recharge.cashier.account": {
+    "type": 0,
+    "value": "Cuenta"
+  },
+  "wallet.recharge.cashier.first_name": {
+    "type": 0,
+    "value": "Nombre"
+  },
+  "wallet.recharge.cashier.instructions": {
+    "type": 0,
+    "value": "Instrucciones de Operación:"
+  },
+  "wallet.recharge.cashier.last_name": {
+    "type": 0,
+    "value": "Apellido"
+  },
+  "wallet.recharge.cashier.name": {
+    "type": 0,
+    "value": "Nombre"
+  },
+  "wallet.recharge.cashier.pay_amount": {
+    "type": 0,
+    "value": "Pago Real"
+  },
+  "wallet.recharge.cashier.remark": {
+    "type": 0,
+    "value": "Observaciones"
+  },
+  "wallet.recharge.cashier.submit": {
+    "type": 0,
+    "value": "TRANSFERENCIA COMPLETADA"
+  },
+  "wallet.recharge.cashier.tip_remit": {
+    "type": 0,
+    "value": "Por favor, complete con precisión la información de la transferencia según las indicaciones y escriba el código de referencia correspondiente en el campo de observaciones; de lo contrario, el pago podría no ser recibido."
+  },
+  "wallet.recharge.cashier.trans_id": {
+    "type": 0,
+    "value": "ID de Transacción"
+  },
+  "wallet.recharge.cashier.trans_id_placeholder": {
+    "type": 0,
+    "value": "Por favor ingrese el ID de transacción"
+  },
+  "wallet.recharge.cashier.walletNo": {
+    "type": 0,
+    "value": "N.º de Billetera"
+  },
+  "wallet.type.code_6011": {
+    "type": 0,
+    "value": "Bono de Bienvenida"
+  },
+  "wallet.type.code_6012": {
+    "type": 0,
+    "value": "Bono de Depósito de 7 Días"
+  }
+}
+;window.pt_lang = {
+  "RegisterBonusEntryDialog.button.deposit": {
+    "type": 0,
+    "value": "Depositar"
+  },
+  "RegisterBonusEntryDialog.button.register": {
+    "type": 0,
+    "value": "Cadastre-se para ver"
+  },
+  "RegisterBonusEntryDialog.buttonText": {
+    "type": 0,
+    "value": "Sortear Agora"
+  },
+  "RegisterBonusEntryDialog.title": {
+    "type": 0,
+    "value": "Sorteie seu Bônus da Sorte! \nGanhe de $88 a $888!"
+  },
+  "about.terms_of_service.name": {
+    "type": 0,
+    "value": "TERMOS DE SERVIÇO"
+  },
+  "app_popup.description": {
+    "type": 0,
+    "value": "Baixe o App e aproveite uma experiência de jogo mais fluida"
+  },
+  "app_popup.download_button": {
+    "type": 0,
+    "value": "Baixar agora"
+  },
+  "app_popup.footer_tip": {
+    "type": 0,
+    "value": "Melhor experiência no App"
+  },
+  "app_popup.headline": {
+    "type": 0,
+    "value": "Mais rápido e mais estável"
+  },
+  "app_popup.title": {
+    "type": 0,
+    "value": "Experiência exclusiva no App"
+  },
+  "cash.activities.payment": {
+    "type": 0,
+    "value": "Prazo de pagamento"
+  },
+  "cash.activities.transfer": {
+    "type": 0,
+    "value": "Transferência concluída"
+  },
+  "cash.btn.maintenance": {
+    "type": 0,
+    "value": "Em manutenção"
+  },
+  "cash.dialog.btn.change_info": {
+    "type": 0,
+    "value": "Modificar informações"
+  },
+  "cash.dialog.btn.go": {
+    "type": 0,
+    "value": "Ir para"
+  },
+  "cash.info_change_confirm_dialog.desc": {
+    "type": 0,
+    "value": "Suas informações de saque atuais foram alteradas em comparação com o último saque. Por favor, verifique cuidadosamente as informações de saque."
+  },
+  "cash.info_change_confirm_dialog.title": {
+    "type": 0,
+    "value": "Confirmação de alteração das informações de saque"
+  },
+  "cash.info_change_dialog.desc": {
+    "type": 0,
+    "value": "As informações de saque já existem para a conta atual. Se precisar modificá-las, entre em contato com o atendimento ao cliente."
+  },
+  "cash.info_change_dialog.title": {
+    "type": 0,
+    "value": "Modificar informações de saque"
+  },
+  "cash.info_confirm_dialog.title": {
+    "type": 0,
+    "value": "Confirmação das informações de saque"
+  },
+  "cash.maintenance_marquee.text": {
+    "type": 0,
+    "value": "Pedimos desculpas pelo transtorno. O sistema está em manutenção no momento. Por favor, tente usar outro método de pagamento."
+  },
+  "claim_now": {
+    "type": 0,
+    "value": ""
+  },
+  "common.back": {
+    "type": 0,
+    "value": "Voltar"
+  },
+  "common.bonus_received_subtitle_infos": {
+    "type": 0,
+    "value": "Este bônus só pode ser utilizado para apostar nos seguintes jogos"
+  },
+  "common.btn.go": {
+    "type": 0,
+    "value": "Ir"
+  },
+  "common.casino": {
+    "type": 0,
+    "value": "Casino"
+  },
+  "common.close": {
+    "type": 0,
+    "value": "Fechar"
+  },
+  "common.detail": {
+    "type": 0,
+    "value": "Detalhes"
+  },
+  "common.go": {
+    "type": 0,
+    "value": "Ir"
+  },
+  "common.home": {
+    "type": 0,
+    "value": "Início"
+  },
+  "common.or": {
+    "type": 0,
+    "value": "ou"
+  },
+  "common.reset_password": {
+    "type": 0,
+    "value": "Redefinir senha"
+  },
+  "common.unsubscribe": {
+    "type": 0,
+    "value": "Cancelar inscrição"
+  },
+  "continuousRechargeV2.min_recharge": {
+    "type": 0,
+    "value": "Depositar ≥{min}"
+  },
+  "continuousRechargeV2.receive": {
+    "type": 0,
+    "value": "Resgatar"
+  },
+  "continuousRechargeV2.received": {
+    "type": 0,
+    "value": "Resgatado"
+  },
+  "continuousRechargeV2.rule.text": {
+    "type": 3,
+    "value": "\u003ch2\u003e🔥 Bônus de Depósito de 7 Dias\u003c/h2\u003e\u003cp\u003eDeposite todos os dias e ganhe recompensas 💰\u003cbr\u003e\u003cbr\u003eComplete os 7 dias para desbloquear um \u003cstrong\u003eprêmio misterioso\u003c/strong\u003e no Dia 7 🎁\u003c/p\u003e\u003chr/\u003e\u003ch2\u003e🎁 Regras da Promoção\u003c/h2\u003e\u003cul\u003e\u003cli\u003eDuração do evento: 9 dias\u003c/li\u003e\u003cli\u003eComplete 7 dias de depósito para finalizar o desafio\u003c/li\u003e\u003cli\u003eFaça pelo menos 1 depósito por dia para ganhar recompensas\u003c/li\u003e\u003cli\u003eNão precisa ser consecutivo — seu progresso é mantido\u003c/li\u003e\u003c/ul\u003e\u003chr/\u003e\u003ch2\u003e📅 Recompensas Diárias\u003c/h2\u003e\u003cp\u003eDia 1: +500\u003c/p\u003e\u003cp\u003eDia 2: +500\u003c/p\u003e\u003cp\u003eDia 3: +500\u003c/p\u003e\u003cp\u003eDia 4: +500\u003c/p\u003e\u003cp\u003eDia 5: +500\u003c/p\u003e\u003cp\u003eDia 6: +500\u003c/p\u003e\u003cp\u003e🎁 Dia 7: +500 + Prêmio Misterioso\u003c/p\u003e\u003chr/\u003e\u003ch2\u003e⚠️ Importante\u003c/h2\u003e\u003cul\u003e\u003cli\u003eVocê tem até 9 dias para completar os 7 depósitos\u003c/li\u003e\u003cli\u003ePode pular dias desde que finalize dentro do período\u003c/li\u003e\u003cli\u003eRecompensas diárias exigem rollover de 5x\u003c/li\u003e\u003cli\u003eO prêmio do Dia 7 exige rollover de 10x\u003c/li\u003e\u003c/ul\u003e\u003chr/\u003e\u003ch2\u003e🚀 Dicas\u003c/h2\u003e\u003cp\u003e👉 Comece cedo para completar mais facilmente\u003c/p\u003e\u003cp\u003e👉 O Dia 7 tem a maior recompensa — não perca\u003c/p\u003e"
+  },
+  "continuousRechargeV2.rule.title": {
+    "type": 0,
+    "value": "Tarefa de Depósito de 7 Dias"
+  },
+  "download.android_text": {
+    "type": 0,
+    "value": "Instalar"
+  },
+  "download.ios_text": {
+    "type": 0,
+    "value": ""
+  },
+  "download.reward_text": {
+    "type": 0,
+    "value": "Recompensa {reward} moedas"
+  },
+  "form.label.ARS_TRANSFER_bank_code": {
+    "type": 0,
+    "value": "Banco"
+  },
+  "form.label.ARS_TRANSFER_bank_number": {
+    "type": 0,
+    "value": "Número da conta bancária"
+  },
+  "form.label.ARS_TRANSFER_id_number": {
+    "type": 0,
+    "value": "Número do documento"
+  },
+  "form.label.ARS_TRANSFER_id_type": {
+    "type": 0,
+    "value": "Tipo de documento"
+  },
+  "form.label.USDT_bank_code": {
+    "type": 0,
+    "value": "Escolher rede"
+  },
+  "form.label.USDT_bank_number": {
+    "type": 0,
+    "value": "Endereço de saque"
+  },
+  "form.label.full_name": {
+    "type": 0,
+    "value": "Nome completo"
+  },
+  "form.label.name1": {
+    "type": 0,
+    "value": "Nome"
+  },
+  "form.placeholder.ARS_TRANSFER_bank_number": {
+    "type": 0,
+    "value": "Digite seu número de conta de 22 dígitos"
+  },
+  "form.placeholder.ARS_TRANSFER_id_number_cuil": {
+    "type": 0,
+    "value": "Digite seu CUIL de 11 dígitos"
+  },
+  "form.placeholder.ARS_TRANSFER_id_number_cuit": {
+    "type": 0,
+    "value": "Digite seu CUIT de 11 dígitos"
+  },
+  "form.placeholder.ARS_TRANSFER_id_number_dni": {
+    "type": 0,
+    "value": "Digite seu DNI de 8 dígitos"
+  },
+  "form.placeholder.USDT_bank_code": {
+    "type": 0,
+    "value": "Por favor, escolha uma rede"
+  },
+  "form.placeholder.USDT_bank_number": {
+    "type": 0,
+    "value": "Por favor, insira o endereço de saque"
+  },
+  "form.placeholder.full_name": {
+    "type": 0,
+    "value": "Digite o nome como aparece no seu documento"
+  },
+  "form.placeholder.new.email_phone": {
+    "type": 0,
+    "value": "Email / Número de telefone"
+  },
+  "form.validate.error.ARS_TRANSFER_bank_number": {
+    "type": 0,
+    "value": "Digite um número de conta de 22 dígitos"
+  },
+  "form.validate.error.ARS_TRANSFER_id_number_cuil": {
+    "type": 0,
+    "value": "O CUIL deve ter 11 dígitos"
+  },
+  "form.validate.error.ARS_TRANSFER_id_number_cuit": {
+    "type": 0,
+    "value": "O CUIT deve ter 11 dígitos"
+  },
+  "form.validate.error.ARS_TRANSFER_id_number_dni": {
+    "type": 0,
+    "value": "O DNI deve ter 8 dígitos"
+  },
+  "form.validate.error.full_name": {
+    "type": 0,
+    "value": "Nome completo inválido"
+  },
+  "form.validate.new.email_phone": {
+    "type": 0,
+    "value": "*Por favor, use um e-mail ou número de telefone diferente"
+  },
+  "gameLockWalletTipDialog.buttonText": {
+    "type": 0,
+    "value": "Depositar"
+  },
+  "gameLockWalletTipDialog.message": {
+    "type": 0,
+    "value": "Qualquer valor deposite para liberar seu bônus de {reward}!"
+  },
+  "high_multipliehigh_multiplier_share.followup_b_body_sharer_share.followup_b_title_share": {
+    "type": 0,
+    "value": "Compartilhado com sucesso!"
+  },
+  "high_multiplier_share.claim_now": {
+    "type": 0,
+    "value": "Resgatar agora"
+  },
+  "high_multiplier_share.deposit_cta": {
+    "type": 0,
+    "value": "DEPOSITAR AGORA"
+  },
+  "high_multiplier_share.deposit_promo": {
+    "type": 0,
+    "value": "Deposite qualquer valor e receba um bônus da sorte de {amount}!"
+  },
+  "high_multiplier_share.followup_b_body_image": {
+    "type": 0,
+    "value": "Seu amigo deve fazer login pelo seu link para receber a recompensa"
+  },
+  "high_multiplier_share.followup_b_body_link": {
+    "type": 0,
+    "value": "Envie para seu amigo escanear e entrar para ganhar a recompensa"
+  },
+  "high_multiplier_share.followup_b_body_share": {
+    "type": 0,
+    "value": "Seu amigo deve fazer login pelo seu link para receber a recompensa"
+  },
+  "high_multiplier_share.followup_b_footer_prefix": {
+    "type": 0,
+    "value": "Resgate depois na"
+  },
+  "high_multiplier_share.followup_b_footer_reward": {
+    "type": 0,
+    "value": "Central de Recompensas"
+  },
+  "high_multiplier_share.followup_b_got_it": {
+    "type": 0,
+    "value": "ENTENDI"
+  },
+  "high_multiplier_share.followup_b_title_image": {
+    "type": 0,
+    "value": "Imagem salva com sucesso!"
+  },
+  "high_multiplier_share.followup_b_title_link": {
+    "type": 0,
+    "value": "Link copiado com sucesso!"
+  },
+  "high_multiplier_share.followup_b_title_share": {
+    "type": 0,
+    "value": "Compartilhado com sucesso"
+  },
+  "high_multiplier_share.log_in_now": {
+    "type": 0,
+    "value": "ENTRAR AGORA"
+  },
+  "high_multiplier_share.no_account": {
+    "type": 0,
+    "value": "Não tem conta?"
+  },
+  "high_multiplier_share.poster_multiplier_line": {
+    "type": 0,
+    "value": "Maior multiplicador de Jackpot: {multiplier}"
+  },
+  "high_multiplier_share.poster_record": {
+    "type": 0,
+    "value": "RECORDE DE {name}"
+  },
+  "high_multiplier_share.poster_scan_tip": {
+    "type": 0,
+    "value": "Escaneie o QR para obter a sorte do seu amigo e ganhar um prêmio de {min} a {max}"
+  },
+  "high_multiplier_share.poster_scan_tip_max": {
+    "type": 0,
+    "value": "Prêmio de até {amount}"
+  },
+  "high_multiplier_share.poster_winnings_line": {
+    "type": 0,
+    "value": "Ganhos: {amount}"
+  },
+  "high_multiplier_share.referral_invite_instruction": {
+    "type": 0,
+    "value": "Seu amigo escaneia o QR ou clica para entrar e você ganha um bônus de {amount}"
+  },
+  "high_multiplier_share.referral_invite_instruction_max": {
+    "type": 0,
+    "value": "¡Convide amigos e ganhe até {amount}!"
+  },
+  "high_multiplier_share.register_now": {
+    "type": 0,
+    "value": "Cadastre-se agora"
+  },
+  "high_multiplier_share.reward_center_share_progress": {
+    "type": 0,
+    "value": "Compartilhamentos / Total:"
+  },
+  "high_multiplier_share.share_highlights_title": {
+    "type": 0,
+    "value": "Compartilhar Destaques"
+  },
+  "high_multiplier_share.share_instruction": {
+    "type": 0,
+    "value": "Escolha uma plataforma social para compartilhar"
+  },
+  "high_multiplier_share.share_now": {
+    "type": 0,
+    "value": "Compartilhar agora"
+  },
+  "high_multiplier_share.share_promo": {
+    "type": 0,
+    "value": "Compartilhe seu momento de destaque e ganhe {amount}!"
+  },
+  "high_multiplier_share.share_promo2": {
+    "type": 0,
+    "value": "Ganhe até"
+  },
+  "high_multiplier_share.share_promo_invite": {
+    "type": 0,
+    "value": "Compartilhe seu destaque para convidar amigos e ganhar {amount}"
+  },
+  "high_multiplier_share.sharee_login_tip": {
+    "type": 0,
+    "value": "Verifique após o login"
+  },
+  "high_multiplier_share.sharee_reward_preview": {
+    "type": 0,
+    "value": "Bônus de até"
+  },
+  "high_multiplier_share.sharee_try_your_luck": {
+    "type": 0,
+    "value": "Tente a sua sorte"
+  },
+  "high_multiplier_share.title": {
+    "type": 0,
+    "value": "Parabéns pelo seu destaque no jogo!"
+  },
+  "high_multiplier_share.title_after_share\n": {
+    "type": 0,
+    "value": "Compartilhado com sucesso"
+  },
+  "high_multiplier_share.title_sharee_claim_limit": {
+    "type": 0,
+    "value": "Limite de resgate atingido"
+  },
+  "high_multiplier_share.title_sharee_home": {
+    "type": 0,
+    "value": "Você recebeu a bênção de um amigo!"
+  },
+  "high_multiplier_share.title_sharee_reward_claimed": {
+    "type": 0,
+    "value": "Você já resgatou esta recompensa"
+  },
+  "high_multiplier_share.view_rules": {
+    "type": 0,
+    "value": "Ver regras"
+  },
+  "history": {
+    "type": 0,
+    "value": "Histórico do Ranking"
+  },
+  "home.all": {
+    "type": 0,
+    "value": "Todos"
+  },
+  "home.commentsSwiper.c1.content": {
+    "type": 0,
+    "value": "Não há absolutamente nada para reclamar.\n100 pontos 👍👍🔥"
+  },
+  "home.commentsSwiper.c1.rating": {
+    "type": 0,
+    "value": "5"
+  },
+  "home.commentsSwiper.c1.userName": {
+    "type": 0,
+    "value": "lingorl51561"
+  },
+  "home.commentsSwiper.c2.content": {
+    "type": 0,
+    "value": "Depósitos rápidos e experiência fluida no geral.\n100 pontos 👍👍🔥"
+  },
+  "home.commentsSwiper.c2.rating": {
+    "type": 0,
+    "value": "4.6"
+  },
+  "home.commentsSwiper.c2.userName": {
+    "type": 0,
+    "value": "marco_88"
+  },
+  "home.commentsSwiper.c3.content": {
+    "type": 0,
+    "value": "Ótimas promoções e suporte com respostas rápidas.\n100 pontos 👍👍🔥"
+  },
+  "home.footer.footer_6.text": {
+    "type": 0,
+    "value": "© 2025 { webUrl }. Todos os direitos reservados."
+  },
+  "home.rankActivity.title": {
+    "type": 0,
+    "value": "Torneios"
+  },
+  "home.recommend.register_now": {
+    "type": 0,
+    "value": ""
+  },
+  "home.recommend.title": {
+    "type": 0,
+    "value": ""
+  },
+  "home.sport.title": {
+    "type": 0,
+    "value": "Futebol · México - Liga MX"
+  },
+  "ios_popup.action_button": {
+    "type": 0,
+    "value": "Adicionar à tela inicial"
+  },
+  "ios_popup.description": {
+    "type": 0,
+    "value": "Adicione a plataforma à tela inicial e aproveite uma experiência de jogo mais fluida"
+  },
+  "ios_popup.footer_tip": {
+    "type": 0,
+    "value": "Acesse mais rápido pela tela inicial"
+  },
+  "ios_popup.headline": {
+    "type": 0,
+    "value": "Mais rápido e mais estável"
+  },
+  "ios_popup.title": {
+    "type": 0,
+    "value": "Experiência exclusiva"
+  },
+  "login_register.new.agree_and_sign_up": {
+    "type": 0,
+    "value": "Concordar e registar"
+  },
+  "login_register.new.btn_complete": {
+    "type": 0,
+    "value": "Concluir"
+  },
+  "login_register.new.btn_forget": {
+    "type": 0,
+    "value": "Obter código"
+  },
+  "login_register.new.forget_tip": {
+    "type": 0,
+    "value": "Para redefinir a sua palavra-passe, introduza o e-mail ou número de telefone que usou para se registar. Enviaremos um código de verificação."
+  },
+  "login_register.new.password_login": {
+    "type": 0,
+    "value": "Login com palavra-passe"
+  },
+  "login_register.new.password_register": {
+    "type": 0,
+    "value": "Registo com palavra-passe"
+  },
+  "login_register.new.toLogin_tip": {
+    "type": 0,
+    "value": "JÁ TEM UMA CONTA?"
+  },
+  "login_register.new.toRegister_tip1": {
+    "type": 0,
+    "value": "NÃO TEM UMA CONTA?"
+  },
+  "login_register.new.turnstile_text": {
+    "type": 0,
+    "value": "Por favor, conclua os seguintes passos para verificar que é humano."
+  },
+  "login_register.new.turnstile_tip": {
+    "type": 0,
+    "value": "Antes de continuar, o {url} precisa verificar a segurança da sua ligação."
+  },
+  "login_register.new.verification_code_login": {
+    "type": 0,
+    "value": "Login com código de verificação"
+  },
+  "login_register.new.verification_code_register": {
+    "type": 0,
+    "value": "Registo com código de verificação"
+  },
+  "loss.bankruptcy_text": {
+    "type": 0,
+    "value": "Basta um depósito para ganhar até"
+  },
+  "mailV2.clicktoWinByItem": {
+    "type": 0,
+    "value": "Ganhe Itens agora"
+  },
+  "mosaic_countdown.btn": {
+    "type": 0,
+    "value": "Ir apostar"
+  },
+  "mosaic_countdown.title": {
+    "type": 0,
+    "value": "Contagem regressiva de apostas"
+  },
+  "mosaic_rebate_reminder.btn": {
+    "type": 0,
+    "value": "Ir apostar"
+  },
+  "orderDetail.ended.btn1": {
+    "type": 0,
+    "value": "Voltar"
+  },
+  "orderDetail.ended.desc": {
+    "type": 0,
+    "value": "Esta sessão de pagamento foi encerrada. Volte para verificar o status do pedido"
+  },
+  "orderDetail.ended.title": {
+    "type": 0,
+    "value": "Pedido concluído"
+  },
+  "pdd.notification.title": {
+    "type": 0,
+    "value": "Parabéns! Você ganhou {amount}"
+  },
+  "pdd.roulette.continue_to_draw": {
+    "type": 0,
+    "value": "Continuar girando"
+  },
+  "pdd.roulette.home_invite_text": {
+    "type": 0,
+    "value": "Você tem mais {num} giros para continuar participando do evento"
+  },
+  "pdd.roulette.home_invite_text1": {
+    "type": 0,
+    "value": "Convide amigos para se cadastrar e ganhe giros na roleta"
+  },
+  "pdd.roulette.only_left": {
+    "type": 0,
+    "value": "Restam apenas {time}"
+  },
+  "pdd.roulette.page.invite_text": {
+    "type": 0,
+    "value": "Convide mais {amount} usuários que realizem depósito para desbloquear o prêmio final"
+  },
+  "pdd.roulette.page.invite_text_final": {
+    "type": 0,
+    "value": "Gire mais uma vez para ganhar o prêmio final"
+  },
+  "pdd.roulette.page.invite_text_more": {
+    "type": 0,
+    "value": "Convide mais amigos agora para aumentar suas chances de ganhar"
+  },
+  "pdd.roulette.page.left_time": {
+    "type": 0,
+    "value": "Tempo restante para concluir"
+  },
+  "pdd.roulette.register_ and_unlock_bonus": {
+    "type": 0,
+    "value": "Cadastre-se e desbloqueie o bônus"
+  },
+  "pdd.share.facebook": {
+    "type": 0,
+    "value": "Facebook"
+  },
+  "pdd.share.headertitle": {
+    "type": 0,
+    "value": "Compartilhe e ganhe um giro"
+  },
+  "pdd.share.options": {
+    "type": 0,
+    "value": "Opção"
+  },
+  "pdd.share.scan": {
+    "type": 0,
+    "value": "Escaneie agora \u003e\u003e\u003e"
+  },
+  "pdd.share.whatsapp": {
+    "type": 0,
+    "value": "WhatsApp"
+  },
+  "rankActivity.about_to_begin_tip": {
+    "type": 0,
+    "value": "Ranking de Pool Fixo inicia em breve"
+  },
+  "rankActivity.any_money_can_join": {
+    "type": 0,
+    "value": "Faça qualquer aposta para entrar no ranking"
+  },
+  "rankActivity.behind_next_rank": {
+    "type": 0,
+    "value": "Diferença para o Anterior"
+  },
+  "rankActivity.claimable_bonus": {
+    "type": 0,
+    "value": "Bônus Disponível"
+  },
+  "rankActivity.detail_ended_claimed_btn_text": {
+    "type": 0,
+    "value": "Resgatado"
+  },
+  "rankActivity.detail_ended_no_rewards_btn_text": {
+    "type": 0,
+    "value": "Sem Recompensas"
+  },
+  "rankActivity.detail_game_area_title": {
+    "type": 0,
+    "value": "Jogos Elegíveis"
+  },
+  "rankActivity.detail_go_leaderboard": {
+    "type": 0,
+    "value": "Ir para o Ranking"
+  },
+  "rankActivity.detail_leaderboard_in": {
+    "type": 0,
+    "value": "nicia em"
+  },
+  "rankActivity.detail_primary_btn_text": {
+    "type": 0,
+    "value": "Inscrever-se Agora"
+  },
+  "rankActivity.detail_registered_btn_text": {
+    "type": 0,
+    "value": "Tempo até o Sorteio"
+  },
+  "rankActivity.detail_settled_btn_text": {
+    "type": 0,
+    "value": "Resgatar"
+  },
+  "rankActivity.detail_settling_btn_text": {
+    "type": 0,
+    "value": "Em Liquidação"
+  },
+  "rankActivity.detail_show_more_btn_text": {
+    "type": 0,
+    "value": "Ranking Completo"
+  },
+  "rankActivity.end_of_list": {
+    "type": 0,
+    "value": "Tempo até o Fim do Ranking"
+  },
+  "rankActivity.estimated_bonus": {
+    "type": 0,
+    "value": "Bônus Estimado"
+  },
+  "rankActivity.grand_total": {
+    "type": 0,
+    "value": "Acumulado"
+  },
+  "rankActivity.keep_first": {
+    "type": 0,
+    "value": "Mantenha o primeiro lugar e conquiste o prêmio do campeão"
+  },
+  "rankActivity.list.bet": {
+    "type": 0,
+    "value": "Aposta"
+  },
+  "rankActivity.list.bonus": {
+    "type": 0,
+    "value": "Bônus"
+  },
+  "rankActivity.list.player": {
+    "type": 0,
+    "value": "Jogador"
+  },
+  "rankActivity.myself.rank": {
+    "type": 0,
+    "value": "Minha Classificação"
+  },
+  "rankActivity.not_ranked": {
+    "type": 0,
+    "value": "Não Classificado"
+  },
+  "rankActivity.only_away_from_top": {
+    "type": 0,
+    "value": "A apenas {money} do Top {rankLimit}"
+  },
+  "rankActivity.outside_scoring_period_tip": {
+    "type": 0,
+    "value": "As apostas feitas no momento não serão contabilizadas no ranking.\nPeríodo válido de apostas:\n"
+  },
+  "rankActivity.primary_btn_text": {
+    "type": 0,
+    "value": "Participar Agora"
+  },
+  "rankActivity.prize_pool": {
+    "type": 0,
+    "value": "Pool de Prêmios"
+  },
+  "rankActivity.registered_btn_text": {
+    "type": 0,
+    "value": "Já Participou"
+  },
+  "rankActivity.rules": {
+    "type": 0,
+    "value": "Regras do Evento"
+  },
+  "rankActivity.settled.view_other_events": {
+    "type": 0,
+    "value": "Ver Outras Promoções"
+  },
+  "rankActivity.settled.wait_next_round": {
+    "type": 0,
+    "value": "Aguardando o Próximo Ciclo"
+  },
+  "rankActivity.settled_btn_text": {
+    "type": 0,
+    "value": "Classificação"
+  },
+  "rankActivity.title": {
+    "type": 0,
+    "value": "Evento de Ranking"
+  },
+  "rankActivity.to_next_cycle": {
+    "type": 0,
+    "value": "Próximo Período"
+  },
+  "rankActivity.valid_time": {
+    "type": 0,
+    "value": "Período de Apostas Válido"
+  },
+  "rankActivity.view_all_games": {
+    "type": 0,
+    "value": "Ver Todos os Jogos"
+  },
+  "rankActivity.warm_up_tip": {
+    "type": 0,
+    "value": "Ranking de Pool Acumulado inicia em breve"
+  },
+  "recordV2.table.gounlock": {
+    "type": 0,
+    "value": "Liberar Agora"
+  },
+  "recordV2.table.lock": {
+    "type": 0,
+    "value": "Bloqueado"
+  },
+  "register.quick.code_login": {
+    "type": 0,
+    "value": "Code"
+  },
+  "register.quick.facebook_login": {
+    "type": 0,
+    "value": "Facebook"
+  },
+  "register.quick.google_login": {
+    "type": 0,
+    "value": "Google"
+  },
+  "register.quick.telegram_login": {
+    "type": 0,
+    "value": "Talegram"
+  },
+  "register_bonus.message.bonus": {
+    "type": 0,
+    "value": "BÔNUS"
+  },
+  "register_bonus.notify.buttonText": {
+    "type": 0,
+    "value": "Confirmar"
+  },
+  "register_bonus.notify.message": {
+    "type": 0,
+    "value": "Bônus de {reward}!"
+  },
+  "register_bonus.notify.title": {
+    "type": 0,
+    "value": "Parabéns pelo seu"
+  },
+  "register_bonus.reward_message": {
+    "type": 0,
+    "value": "Deposite qualquer valor para liberar seu bônus de {reward} + ganhe até {reward1} extras no seu primeiro depósito!"
+  },
+  "register_bonus.reward_message1": {
+    "type": 0,
+    "value": "Deposite mais para receber até {reward}!"
+  },
+  "rewardCenterV2.maxReward": {
+    "type": 0,
+    "value": "Prêmio Máximo"
+  },
+  "rewardCenterV2.tomorrow": {
+    "type": 0,
+    "value": "Amanhã"
+  },
+  "reward_dialog.item.title": {
+    "type": 0,
+    "value": "Recompensa recebida"
+  },
+  "rights_center.instructions_dialog.3.content": {
+    "type": 0,
+    "value": "Você já usou um cupom de giros grátis e o jogo atual está em andamento.\nNo momento, não é possível usar outro cupom de giros grátis. Use novamente após esta rodada terminar."
+  },
+  "rights_center.mosaic.complete": {
+    "type": 0,
+    "value": "Aposta concluída"
+  },
+  "rights_center.rights_item.mosaic_amount": {
+    "type": 0,
+    "value": "Volume de apostas:"
+  },
+  "rights_center.rights_item.rebate": {
+    "type": 0,
+    "value": "Cashback:"
+  },
+  "salesmartly.keywords": {
+    "type": 0,
+    "value": "{ \"es\": \"el apoyo de un gerente de cuenta dedicado para atender el problema\", \"en\": \"the support of a dedicated account manager to address the issue.\", \"bn\": \"অনুগ্রহ করে একজন নির্দিষ্ট গ্রাহক ব্যবস্থাপককে সমস্যা সমাধানে সহায়তার জন্য অনুরোধ করা হচ্ছে\" , \"pt\": \"o apoio de um gerente de conta dedicado para tratar do problema\" }"
+  },
+  "salesmartly.reply": {
+    "type": 0,
+    "value": "{ \"es\": \"el apoyo de un gerente de cuenta dedicado para atender el problema\", \"en\": \"the support of a dedicated account manager to address the issue.\", \"bn\": \"অনুগ্রহ করে একজন নির্দিষ্ট গ্রাহক ব্যবস্থাপককে সমস্যা সমাধানে সহায়তার জন্য অনুরোধ করা হচ্ছে\" , \"pt\": \"o apoio de um gerente de conta dedicado para tratar do problema\" }"
+  },
+  "share.copied.successfully": {
+    "type": 0,
+    "value": "Copiado com sucesso"
+  },
+  "sport.basketball": {
+    "type": 0,
+    "value": ""
+  },
+  "sport.laliga": {
+    "type": 0,
+    "value": ""
+  },
+  "sport.soccer": {
+    "type": 0,
+    "value": ""
+  },
+  "sports.soccer.france.ligue1": {
+    "type": 0,
+    "value": ""
+  },
+  "sports_range.detail.all_limit": {
+    "type": 0,
+    "value": "Todos os tipos de aposta estão restritos."
+  },
+  "sports_range.detail.bet_form_live": {
+    "type": 0,
+    "value": "Aposta Ao Vivo"
+  },
+  "sports_range.detail.bet_form_pre_match": {
+    "type": 0,
+    "value": "Aposta Pré-Jogo"
+  },
+  "sports_range.detail.bet_type_combo": {
+    "type": 0,
+    "value": "Aposta Combinada"
+  },
+  "sports_range.detail.bet_type_single": {
+    "type": 0,
+    "value": "Aposta Simples"
+  },
+  "sports_range.detail.bet_type_system": {
+    "type": 0,
+    "value": "Aposta de Sistema"
+  },
+  "sports_range.detail.limit_bet_form_tips": {
+    "type": 0,
+    "value": "Tipo de aposta: {condition}"
+  },
+  "sports_range.detail.limit_bet_types_tips": {
+    "type": 0,
+    "value": "Forma de aposta: {condition}"
+  },
+  "sports_range.detail.limit_tips": {
+    "type": 0,
+    "value": "Elegibilidade do Bônus:{condition}"
+  },
+  "sports_range.detail.no_limit": {
+    "type": 0,
+    "value": "Sem Requisitos"
+  },
+  "sports_range.detail.odds": {
+    "type": 0,
+    "value": "Restrição de Odds"
+  },
+  "sports_range.detail.restriction.condition": {
+    "type": 0,
+    "value": "Restrições do Bônus"
+  },
+  "sports_range.detail.title": {
+    "type": 0,
+    "value": "Esportes Aplicáveis"
+  },
+  "sports_range.not_applicable.title": {
+    "type": 0,
+    "value": "Esportes Excluídos"
+  },
+  "test.lua": {
+    "type": 0,
+    "value": "lua-pt"
+  },
+  "ticket_list.extra_bonus": {
+    "type": 0,
+    "value": "Sem promoção (Inclui bônus do canal {bonus})"
+  },
+  "verify.email.resend.text": {
+    "type": 0,
+    "value": "Reenviar e-mail de verificação"
+  },
+  "verify.email.text": {
+    "type": 0,
+    "value": "Verifique seu e-mail"
+  },
+  "verify.phone.resend.text": {
+    "type": 0,
+    "value": "Reenviar código de verificação"
+  },
+  "verify.phone.text": {
+    "type": 0,
+    "value": "Verifique seu número de telefone"
+  },
+  "vip.signIn.signInGuide_abandonSenior_text1": {
+    "type": 0,
+    "value": "Você vai perder {test}"
+  },
+  "wallet.recharge.cashier.account": {
+    "type": 0,
+    "value": "Conta"
+  },
+  "wallet.recharge.cashier.first_name": {
+    "type": 0,
+    "value": "Nome"
+  },
+  "wallet.recharge.cashier.instructions": {
+    "type": 0,
+    "value": "Instruções de Operação:"
+  },
+  "wallet.recharge.cashier.last_name": {
+    "type": 0,
+    "value": "Apelido"
+  },
+  "wallet.recharge.cashier.name": {
+    "type": 0,
+    "value": "Nome"
+  },
+  "wallet.recharge.cashier.pay_amount": {
+    "type": 0,
+    "value": "Pagamento Real"
+  },
+  "wallet.recharge.cashier.remark": {
+    "type": 0,
+    "value": "Observações"
+  },
+  "wallet.recharge.cashier.submit": {
+    "type": 0,
+    "value": "TRANSFERÊNCIA CONCLUÍDA"
+  },
+  "wallet.recharge.cashier.tip_remit": {
+    "type": 0,
+    "value": "Por favor, preencha corretamente as informações da transferência conforme as instruções e insira o código de referência correspondente no campo de observações, caso contrário o pagamento poderá não ser recebido."
+  },
+  "wallet.recharge.cashier.trans_id": {
+    "type": 0,
+    "value": "ID da Transação"
+  },
+  "wallet.recharge.cashier.trans_id_placeholder": {
+    "type": 0,
+    "value": "Por favor, insira o ID da transação"
+  },
+  "wallet.recharge.cashier.walletNo": {
+    "type": 0,
+    "value": "Nº da Carteira"
+  },
+  "wallet.type.code_6011": {
+    "type": 0,
+    "value": "Bônus de Boas-vindas"
+  },
+  "wallet.type.code_6012": {
+    "type": 0,
+    "value": "Bônus de Depósito de 7 Dias"
+  }
+}
+;window.bn_lang = {
+  "RegisterBonusEntryDialog.button.deposit": {
+    "type": 0,
+    "value": "ডিপোজিট"
+  },
+  "RegisterBonusEntryDialog.button.register": {
+    "type": 0,
+    "value": "নিবন্ধন করে দেখুন"
+  },
+  "RegisterBonusEntryDialog.buttonText": {
+    "type": 0,
+    "value": "এখনই ড্র করুন"
+  },
+  "RegisterBonusEntryDialog.title": {
+    "type": 0,
+    "value": "আপনার লাকি বোনাস ড্র করুন!\nর্যান্ডম $৮৮ থেকে $৮৮৮!"
+  },
+  "app_popup.description": {
+    "type": 0,
+    "value": "অ্যাপ ডাউনলোড করুন এবং আরও মসৃণ গেমিং অভিজ্ঞতা উপভোগ করুন"
+  },
+  "app_popup.download_button": {
+    "type": 0,
+    "value": "এখনই ডাউনলোড করুন"
+  },
+  "app_popup.footer_tip": {
+    "type": 0,
+    "value": "অ্যাপে আরও ভালো অভিজ্ঞতা"
+  },
+  "app_popup.headline": {
+    "type": 0,
+    "value": "আরও দ্রুত, আরও স্থিতিশীল"
+  },
+  "app_popup.title": {
+    "type": 0,
+    "value": "অ্যাপের এক্সক্লুসিভ অভিজ্ঞতা"
+  },
+  "cash.activities.payment": {
+    "type": 0,
+    "value": "অর্থপ্রদানের সময়সীমা"
+  },
+  "cash.activities.transfer": {
+    "type": 0,
+    "value": "ট্রান্সফার সম্পন্ন"
+  },
+  "cash.btn.maintenance": {
+    "type": 0,
+    "value": "রক্ষণাবেক্ষণ চলছে"
+  },
+  "cash.dialog.btn.change_info": {
+    "type": 0,
+    "value": "তথ্য সংশোধন"
+  },
+  "cash.dialog.btn.go": {
+    "type": 0,
+    "value": "এগিয়ে যান"
+  },
+  "cash.info_change_confirm_dialog.desc": {
+    "type": 0,
+    "value": "আপনার বর্তমান উত্তোলন তথ্য শেষবারের উত্তোলনের তুলনায় পরিবর্তিত হয়েছে। অনুগ্রহ করে উত্তোলন তথ্য ভালোভাবে যাচাই করুন"
+  },
+  "cash.info_change_confirm_dialog.title": {
+    "type": 0,
+    "value": "উত্তোলন তথ্য পরিবর্তন নিশ্চিতকরণ"
+  },
+  "cash.info_change_dialog.desc": {
+    "type": 0,
+    "value": "বর্তমান অ্যাকাউন্টের উত্তোলন তথ্য ইতিমধ্যে বিদ্যমান। পরিবর্তন করতে হলে অনুগ্রহ করে কাস্টমার সার্ভিসের সাথে যোগাযোগ করুন"
+  },
+  "cash.info_change_dialog.title": {
+    "type": 0,
+    "value": "উত্তোলন তথ্য সংশোধন"
+  },
+  "cash.info_confirm_dialog.title": {
+    "type": 0,
+    "value": "উত্তোলন তথ্য নিশ্চিতকরণ"
+  },
+  "cash.maintenance_marquee.text": {
+    "type": 0,
+    "value": "অসুবিধার জন্য আমরা দুঃখিত। সিস্টেমটি বর্তমানে রক্ষণাবেক্ষণের অধীনে রয়েছে। অনুগ্রহ করে অন্য কোনো পেমেন্ট পদ্ধতি ব্যবহার করার চেষ্টা করুন।"
+  },
+  "claim_now": {
+    "type": 0,
+    "value": ""
+  },
+  "common.back": {
+    "type": 0,
+    "value": "পেছনে"
+  },
+  "common.bonus_received_subtitle_infos": {
+    "type": 0,
+    "value": "এই বোনাসটি শুধুমাত্র নিম্নলিখিত গেমগুলিতে বাজি ধরার জন্য ব্যবহার করা যাবে"
+  },
+  "common.btn.go": {
+    "type": 0,
+    "value": "যান"
+  },
+  "common.casino": {
+    "type": 0,
+    "value": "ক্যাসিনো"
+  },
+  "common.close": {
+    "type": 0,
+    "value": "বন্ধ করুন"
+  },
+  "common.detail": {
+    "type": 0,
+    "value": "বিস্তারিত"
+  },
+  "common.go": {
+    "type": 0,
+    "value": "যাওয়া"
+  },
+  "common.home": {
+    "type": 0,
+    "value": "হোম"
+  },
+  "common.or": {
+    "type": 0,
+    "value": "অথবা"
+  },
+  "common.reset_password": {
+    "type": 0,
+    "value": "পাসওয়ার্ড রিসেট করুন"
+  },
+  "common.unsubscribe": {
+    "type": 0,
+    "value": "আনসাবস্ক্রাইব"
+  },
+  "continuousRechargeV2.min_recharge": {
+    "type": 0,
+    "value": "জমা ≥{min}"
+  },
+  "continuousRechargeV2.receive": {
+    "type": 0,
+    "value": "গ্রহণ করুন"
+  },
+  "continuousRechargeV2.received": {
+    "type": 0,
+    "value": "প্রাপ্ত"
+  },
+  "continuousRechargeV2.rule.text": {
+    "type": 3,
+    "value": "\u003ch2\u003e🔥 ৭ দিনের ডিপোজিট বোনাস\u003c/h2\u003e\u003cp\u003eপ্রতিদিন ডিপোজিট করুন এবং পুরস্কার জিতুন 💰\u003cbr\u003e\u003cbr\u003e৭ দিন সম্পূর্ণ করলে ৭ম দিনে একটি \u003cstrong\u003eরহস্যময় পুরস্কার\u003c/strong\u003e আনলক করুন 🎁\u003c/p\u003e\u003chr/\u003e\u003ch2\u003e🎁 প্রোমোশনের নিয়ম\u003c/h2\u003e\u003cul\u003e\u003cli\u003eইভেন্টের মেয়াদ: ৯ দিন\u003c/li\u003e\u003cli\u003e৭ দিনের ডিপোজিট সম্পন্ন করলে চ্যালেঞ্জ শেষ হবে\u003c/li\u003e\u003cli\u003eপ্রতিদিন অন্তত ১ বার ডিপোজিট করতে হবে পুরস্কার পেতে\u003c/li\u003e\u003cli\u003eটানা দিন হওয়া বাধ্যতামূলক নয় — আপনার অগ্রগতি সংরক্ষিত থাকবে\u003c/li\u003e\u003c/ul\u003e\u003chr/\u003e\u003ch2\u003e📅 দৈনিক পুরস্কার\u003c/h2\u003e\u003cp\u003eদিন ১: +500\u003c/p\u003e\u003cp\u003eদিন ২: +500\u003c/p\u003e\u003cp\u003eদিন ৩: +500\u003c/p\u003e\u003cp\u003eদিন ৪: +500\u003c/p\u003e\u003cp\u003eদিন ৫: +500\u003c/p\u003e\u003cp\u003eদিন ৬: +500\u003c/p\u003e\u003cp\u003e🎁 দিন ৭: +500 + রহস্যময় পুরস্কার\u003c/p\u003e\u003chr/\u003e\u003ch2\u003e⚠️ গুরুত্বপূর্ণ\u003c/h2\u003e\u003cul\u003e\u003cli\u003e৭ দিনের ডিপোজিট সম্পন্ন করার জন্য আপনার কাছে সর্বোচ্চ ৯ দিন সময় আছে\u003c/li\u003e\u003cli\u003eআপনি কিছু দিন বাদ দিতে পারেন, তবে নির্ধারিত সময়ের মধ্যে শেষ করতে হবে\u003c/li\u003e\u003cli\u003eদৈনিক পুরস্কার উত্তোলনের আগে ৫x বাজি (wagering) সম্পন্ন করতে হবে\u003c/li\u003e\u003cli\u003e৭ম দিনের পুরস্কারের জন্য ১০x বাজি সম্পন্ন করতে হবে উত্তোলনের আগে\u003c/li\u003e\u003c/ul\u003e\u003chr/\u003e\u003ch2\u003e🚀 টিপস\u003c/h2\u003e\u003cp\u003e👉 আগে শুরু করলে সহজে সম্পন্ন করতে পারবেন\u003c/p\u003e\u003cp\u003e👉 ৭ম দিনে সবচেয়ে বড় পুরস্কার — মিস করবেন না\u003c/p\u003e"
+  },
+  "continuousRechargeV2.rule.title": {
+    "type": 0,
+    "value": "৭ দিনের ডিপোজিট টাস্ক"
+  },
+  "download.android_text": {
+    "type": 0,
+    "value": "ইনস্টল"
+  },
+  "download.ios_text": {
+    "type": 0,
+    "value": ""
+  },
+  "download.reward_text": {
+    "type": 0,
+    "value": "পুরস্কার {reward} কয়েন"
+  },
+  "form.label.ARS_TRANSFER_bank_code": {
+    "type": 0,
+    "value": "ব্যাংক"
+  },
+  "form.label.ARS_TRANSFER_bank_number": {
+    "type": 0,
+    "value": "ব্যাংক অ্যাকাউন্ট নম্বর"
+  },
+  "form.label.ARS_TRANSFER_id_number": {
+    "type": 0,
+    "value": "ডকুমেন্ট নম্বর"
+  },
+  "form.label.ARS_TRANSFER_id_type": {
+    "type": 0,
+    "value": "ডকুমেন্টের ধরন"
+  },
+  "form.label.USDT_bank_code": {
+    "type": 0,
+    "value": "নেটওয়ার্ক নির্বাচন করুন"
+  },
+  "form.label.USDT_bank_number": {
+    "type": 0,
+    "value": "উত্তোলনের ঠিকানা"
+  },
+  "form.label.full_name": {
+    "type": 0,
+    "value": "পুরো নাম"
+  },
+  "form.label.name1": {
+    "type": 0,
+    "value": "নাম"
+  },
+  "form.placeholder.ARS_TRANSFER_bank_number": {
+    "type": 0,
+    "value": "আপনার 22 সংখ্যার অ্যাকাউন্ট নম্বর লিখুন"
+  },
+  "form.placeholder.ARS_TRANSFER_id_number_cuil": {
+    "type": 0,
+    "value": "আপনার 11 সংখ্যার CUIL লিখুন"
+  },
+  "form.placeholder.ARS_TRANSFER_id_number_cuit": {
+    "type": 0,
+    "value": "আপনার 11 সংখ্যার CUIT লিখুন"
+  },
+  "form.placeholder.ARS_TRANSFER_id_number_dni": {
+    "type": 0,
+    "value": "আপনার 8 সংখ্যার DNI লিখুন"
+  },
+  "form.placeholder.USDT_bank_code": {
+    "type": 0,
+    "value": "অনুগ্রহ করে একটি নেটওয়ার্ক নির্বাচন করুন"
+  },
+  "form.placeholder.USDT_bank_number": {
+    "type": 0,
+    "value": "অনুগ্রহ করে উত্তোলনের ঠিকানা লিখুন"
+  },
+  "form.placeholder.full_name": {
+    "type": 0,
+    "value": "আপনার পরিচয়পত্রে যেমন আছে, সেই নাম লিখুন"
+  },
+  "form.placeholder.new.email_phone": {
+    "type": 0,
+    "value": "ইমেল / ফোন নম্বর"
+  },
+  "form.validate.error.ARS_TRANSFER_bank_number": {
+    "type": 0,
+    "value": "22 সংখ্যার অ্যাকাউন্ট নম্বর লিখুন"
+  },
+  "form.validate.error.ARS_TRANSFER_id_number_cuil": {
+    "type": 0,
+    "value": "CUIL অবশ্যই 11 সংখ্যার হতে হবে"
+  },
+  "form.validate.error.ARS_TRANSFER_id_number_cuit": {
+    "type": 0,
+    "value": "CUIT অবশ্যই 11 সংখ্যার হতে হবে"
+  },
+  "form.validate.error.ARS_TRANSFER_id_number_dni": {
+    "type": 0,
+    "value": "DNI অবশ্যই 8 সংখ্যার হতে হবে"
+  },
+  "form.validate.error.full_name": {
+    "type": 0,
+    "value": "পুরো নামের ফরম্যাট সঠিক নয়"
+  },
+  "form.validate.new.email_phone": {
+    "type": 0,
+    "value": "*অনুগ্রহ করে একটি ভিন্ন ইমেল বা ফোন নম্বর ব্যবহার করুন"
+  },
+  "gameLockWalletTipDialog.buttonText": {
+    "type": 0,
+    "value": "ডিপোজিট"
+  },
+  "gameLockWalletTipDialog.message": {
+    "type": 0,
+    "value": "যেকোনো পরিমাণ ডিপোজিট করে {reward} বোনাস আনলক করুন!"
+  },
+  "high_multipliehigh_multiplier_share.followup_b_body_sharer_share.followup_b_title_share": {
+    "type": 0,
+    "value": "সফলভাবে শেয়ার হয়েছে!"
+  },
+  "high_multiplier_share.claim_now": {
+    "type": 0,
+    "value": "এখনই সংগ্রহ করুন"
+  },
+  "high_multiplier_share.deposit_cta": {
+    "type": 0,
+    "value": "এখনই জমা দিন"
+  },
+  "high_multiplier_share.deposit_promo": {
+    "type": 0,
+    "value": "যেকোনো পরিমাণ ডিপোজিট করে {amount} লাকি বোনাস পান!"
+  },
+  "high_multiplier_share.followup_b_body_image": {
+    "type": 0,
+    "value": "পুরস্কার পেতে বন্ধু আপনার লিঙ্কের মাধ্যমে লগইন করবেন"
+  },
+  "high_multiplier_share.followup_b_body_link": {
+    "type": 0,
+    "value": "পুরস্কার পেতে বন্ধুকে স্ক্যান ও লগইন করতে পাঠান"
+  },
+  "high_multiplier_share.followup_b_body_share": {
+    "type": 0,
+    "value": "পুরস্কার পেতে বন্ধু আপনার লিঙ্কের মাধ্যমে লগইন করবেন"
+  },
+  "high_multiplier_share.followup_b_footer_prefix": {
+    "type": 0,
+    "value": "পরে সংগ্রহ করুন"
+  },
+  "high_multiplier_share.followup_b_footer_reward": {
+    "type": 0,
+    "value": "রিওয়ার্ড সেন্টার"
+  },
+  "high_multiplier_share.followup_b_got_it": {
+    "type": 0,
+    "value": "বুঝেছি"
+  },
+  "high_multiplier_share.followup_b_title_image": {
+    "type": 0,
+    "value": "ছবি সফলভাবে সংরক্ষিত হয়েছে!"
+  },
+  "high_multiplier_share.followup_b_title_link": {
+    "type": 0,
+    "value": "লিঙ্ক সফলভাবে কপি করা হয়েছে!"
+  },
+  "high_multiplier_share.followup_b_title_share": {
+    "type": 0,
+    "value": "সফলভাবে শেয়ার করা হয়েছে"
+  },
+  "high_multiplier_share.log_in_now": {
+    "type": 0,
+    "value": "এখনই লগইন করুন"
+  },
+  "high_multiplier_share.no_account": {
+    "type": 0,
+    "value": "অ্যাকাউন্ট নেই?"
+  },
+  "high_multiplier_share.poster_multiplier_line": {
+    "type": 0,
+    "value": "সর্বোচ্চ জ্যাকপট মাল্টিপ্লায়ার: {multiplier}"
+  },
+  "high_multiplier_share.poster_record": {
+    "type": 0,
+    "value": "{name}-এর রেকর্ড"
+  },
+  "high_multiplier_share.poster_scan_tip": {
+    "type": 0,
+    "value": "আপনার বন্ধুর ভাগ্য পেতে এবং {min} থেকে {max} পর্যন্ত পুরস্কার জিততে QR কোডটি স্ক্যান করুন"
+  },
+  "high_multiplier_share.poster_scan_tip_max": {
+    "type": 0,
+    "value": "{amount} পর্যন্ত পুরস্কার"
+  },
+  "high_multiplier_share.poster_winnings_line": {
+    "type": 0,
+    "value": "জয়ী অর্থ: {amount}"
+  },
+  "high_multiplier_share.referral_invite_instruction": {
+    "type": 0,
+    "value": "আপনার বন্ধু QR কোড স্ক্যান করলে বা লগইন করলে আপনি {amount} বোনাস পাবেন"
+  },
+  "high_multiplier_share.referral_invite_instruction_max": {
+    "type": 0,
+    "value": "বন্ধুদের আমন্ত্রণ জানান এবং {amount} পর্যন্ত জিতুন!"
+  },
+  "high_multiplier_share.register_now": {
+    "type": 0,
+    "value": "এখনই নিবন্ধন করুন"
+  },
+  "high_multiplier_share.reward_center_share_progress": {
+    "type": 0,
+    "value": "শেয়ার / মোট:"
+  },
+  "high_multiplier_share.share_highlights_title": {
+    "type": 0,
+    "value": "হাইলাইট শেয়ার করুন"
+  },
+  "high_multiplier_share.share_instruction": {
+    "type": 0,
+    "value": "শেয়ার করার জন্য একটি সোশ্যাল প্ল্যাটফর্ম বেছে নিন"
+  },
+  "high_multiplier_share.share_now": {
+    "type": 0,
+    "value": "এখনই শেয়ার করুন"
+  },
+  "high_multiplier_share.share_promo": {
+    "type": 0,
+    "value": "আপনার হাইলাইট মুহূর্ত শেয়ার করুন এবং {amount} জিতুন!"
+  },
+  "high_multiplier_share.share_promo2": {
+    "type": 0,
+    "value": "সর্বোচ্চ জিতুন"
+  },
+  "high_multiplier_share.share_promo_invite": {
+    "type": 0,
+    "value": "বন্ধুকে আমন্ত্রণ জানাতে আপনার হাইলাইট শেয়ার করুন এবং {amount} আয় করুন!"
+  },
+  "high_multiplier_share.sharee_login_tip": {
+    "type": 0,
+    "value": "লগইন করার পর পরীক্ষা করুন"
+  },
+  "high_multiplier_share.sharee_reward_preview": {
+    "type": 0,
+    "value": "পর্যন্ত বোনাস"
+  },
+  "high_multiplier_share.sharee_try_your_luck": {
+    "type": 0,
+    "value": "আপনার ভাগ্য পরীক্ষা করুন"
+  },
+  "high_multiplier_share.title": {
+    "type": 0,
+    "value": "আপনার গেম হাইলাইটের জন্য অভিনন্দন!"
+  },
+  "high_multiplier_share.title_after_share\n": {
+    "type": 0,
+    "value": "সফলভাবে শেয়ার করা হয়েছে\n"
+  },
+  "high_multiplier_share.title_sharee_claim_limit": {
+    "type": 0,
+    "value": "আপনি সংগ্রহের সীমায় পৌঁছেছে"
+  },
+  "high_multiplier_share.title_sharee_home": {
+    "type": 0,
+    "value": "আপনি বন্ধুর পক্ষ থেকে শুভেচ্ছা পেয়েছেন!"
+  },
+  "high_multiplier_share.title_sharee_reward_claimed": {
+    "type": 0,
+    "value": "আপনি ইতিমধ্যে এই পুরস্কারটি সংগ্রহ করেছেন"
+  },
+  "high_multiplier_share.view_rules": {
+    "type": 0,
+    "value": "নিয়ম দেখুন"
+  },
+  "history": {
+    "type": 0,
+    "value": "লিডারবোর্ড ইতিহাস\n"
+  },
+  "home.all": {
+    "type": 0,
+    "value": "সব"
+  },
+  "home.commentsSwiper.c1.content": {
+    "type": 0,
+    "value": "সমালোচনা করার মতো একেবারেই কিছু নেই।\n১০০ পয়েন্ট 👍👍🔥"
+  },
+  "home.commentsSwiper.c1.rating": {
+    "type": 0,
+    "value": "5"
+  },
+  "home.commentsSwiper.c1.userName": {
+    "type": 0,
+    "value": "lingorl51561"
+  },
+  "home.commentsSwiper.c2.content": {
+    "type": 0,
+    "value": "দ্রুত ডিপোজিট এবং সামগ্রিকভাবে মসৃণ অভিজ্ঞতা।\n১০০ পয়েন্ট 👍👍🔥"
+  },
+  "home.commentsSwiper.c2.rating": {
+    "type": 0,
+    "value": "4.6"
+  },
+  "home.commentsSwiper.c2.userName": {
+    "type": 0,
+    "value": "marco_88"
+  },
+  "home.commentsSwiper.c3.content": {
+    "type": 0,
+    "value": "দারুণ প্রোমোশন এবং দ্রুত সাপোর্ট সাড়া।\n১০০ পয়েন্ট 👍👍🔥"
+  },
+  "home.footer.footer_6.text": {
+    "type": 0,
+    "value": "© 2025 {webUrl} সমস্ত অধিকার সংরক্ষিত।"
+  },
+  "home.rankActivity.title": {
+    "type": 0,
+    "value": "টুর্নামেন্টসমূহ"
+  },
+  "home.recommend.register_now": {
+    "type": 0,
+    "value": ""
+  },
+  "home.recommend.title": {
+    "type": 0,
+    "value": ""
+  },
+  "home.sport.title": {
+    "type": 0,
+    "value": "ফুটবল · মেক্সিকো - Liga MX"
+  },
+  "ios_popup.action_button": {
+    "type": 0,
+    "value": "হোম স্ক্রিনে যোগ করুন"
+  },
+  "ios_popup.description": {
+    "type": 0,
+    "value": "হোম স্ক্রিনে যোগ করুন এবং আরও মসৃণ গেমিং অভিজ্ঞতা উপভোগ করুন"
+  },
+  "ios_popup.footer_tip": {
+    "type": 0,
+    "value": "হোম স্ক্রিন থেকে আরও快速 প্রবেশ"
+  },
+  "ios_popup.headline": {
+    "type": 0,
+    "value": "আরও দ্রুত, আরও স্থিতিশীল"
+  },
+  "ios_popup.title": {
+    "type": 0,
+    "value": "এক্সক্লুসিভ অভিজ্ঞতা"
+  },
+  "login_register.new.agree_and_sign_up": {
+    "type": 0,
+    "value": "সম্মত হন এবং সাইন আপ করুন"
+  },
+  "login_register.new.btn_complete": {
+    "type": 0,
+    "value": "সম্পূর্ণ করুন"
+  },
+  "login_register.new.btn_forget": {
+    "type": 0,
+    "value": "কোড পান"
+  },
+  "login_register.new.forget_tip": {
+    "type": 0,
+    "value": "আপনার পাসওয়ার্ড রিসেট করতে, সাইন আপ করার সময় ব্যবহৃত ইমেল বা ফোন নম্বর দিন। আমরা আপনাকে একটি ভেরিফিকেশন কোড পাঠাব।"
+  },
+  "login_register.new.password_login": {
+    "type": 0,
+    "value": "পাসওয়ার্ড দিয়ে লগইন"
+  },
+  "login_register.new.password_register": {
+    "type": 0,
+    "value": "পাসওয়ার্ড দিয়ে নিবন্ধন"
+  },
+  "login_register.new.toLogin_tip": {
+    "type": 0,
+    "value": "ইতিমধ্যে একটি অ্যাকাউন্ট আছে?"
+  },
+  "login_register.new.toRegister_tip1": {
+    "type": 0,
+    "value": "অ্যাকাউন্ট নেই?"
+  },
+  "login_register.new.turnstile_text": {
+    "type": 0,
+    "value": "আপনি মানুষ কিনা তা নিশ্চিত করতে নিচের ধাপগুলি সম্পূর্ণ করুন।"
+  },
+  "login_register.new.turnstile_tip": {
+    "type": 0,
+    "value": "চালিয়ে যাওয়ার আগে, {url}-কে আপনার সংযোগের নিরাপত্তা পরীক্ষা করতে হবে।"
+  },
+  "login_register.new.verification_code_login": {
+    "type": 0,
+    "value": "ভেরিফিকেশন কোড দিয়ে লগইন"
+  },
+  "login_register.new.verification_code_register": {
+    "type": 0,
+    "value": "ভেরিফিকেশন কোড দিয়ে নিবন্ধন"
+  },
+  "loss.bankruptcy_text": {
+    "type": 0,
+    "value": "মাত্র একটি ডিপোজিটেই পাবেন সর্বোচ্চ"
+  },
+  "mailV2.clicktoWinByItem": {
+    "type": 0,
+    "value": "এখনই একটি আইটেম নিন"
+  },
+  "mosaic_countdown.btn": {
+    "type": 0,
+    "value": "বাজি ধরতে যান"
+  },
+  "mosaic_countdown.title": {
+    "type": 0,
+    "value": "বাজির কাউন্টডাউন"
+  },
+  "mosaic_rebate_reminder.btn": {
+    "type": 0,
+    "value": "বাজি ধরতে যান"
+  },
+  "orderDetail.ended.btn1": {
+    "type": 0,
+    "value": "ফিরে যান"
+  },
+  "orderDetail.ended.desc": {
+    "type": 0,
+    "value": "এই পেমেন্ট সেশন শেষ হয়েছে। অনুগ্রহ করে ফিরে গিয়ে অর্ডারের অবস্থা দেখুন"
+  },
+  "orderDetail.ended.title": {
+    "type": 0,
+    "value": "অর্ডার সম্পন্ন"
+  },
+  "pdd.notification.title": {
+    "type": 0,
+    "value": "অভিনন্দন! আপনি {amount} জিতেছেন"
+  },
+  "pdd.roulette.continue_to_draw": {
+    "type": 0,
+    "value": "স্পিন চালিয়ে যান"
+  },
+  "pdd.roulette.home_invite_text": {
+    "type": 0,
+    "value": "ইভেন্টে অংশগ্রহণ চালিয়ে যেতে আপনার আরও {num}টি স্পিন বাকি আছে"
+  },
+  "pdd.roulette.home_invite_text1": {
+    "type": 0,
+    "value": "বন্ধুদের নিবন্ধনের জন্য আমন্ত্রণ করুন এবং রুলেটে স্পিন পান"
+  },
+  "pdd.roulette.only_left": {
+    "type": 0,
+    "value": "মাত্র {time} বাকি"
+  },
+  "pdd.roulette.page.invite_text": {
+    "type": 0,
+    "value": "চূড়ান্ত পুরস্কার আনলক করতে আরও {amount} জন জমা করা ব্যবহারকারীকে আমন্ত্রণ করুন"
+  },
+  "pdd.roulette.page.invite_text_final": {
+    "type": 0,
+    "value": "আরও একবার স্পিন করুন এবং চূড়ান্ত পুরস্কার জিতুন"
+  },
+  "pdd.roulette.page.invite_text_more": {
+    "type": 0,
+    "value": "এখনই আরও বন্ধুদের আমন্ত্রণ করুন, আপনার জয়ের সম্ভাবনা বাড়ান"
+  },
+  "pdd.roulette.page.left_time": {
+    "type": 0,
+    "value": "সম্পন্ন করার বাকি সময়"
+  },
+  "pdd.roulette.register_ and_unlock_bonus": {
+    "type": 0,
+    "value": "নিবন্ধন করুন এবং বোনাস আনলক করুন"
+  },
+  "pdd.share.facebook": {
+    "type": 0,
+    "value": "Facebook"
+  },
+  "pdd.share.headertitle": {
+    "type": 0,
+    "value": "শেয়ার করে একটি স্পিন পা"
+  },
+  "pdd.share.options": {
+    "type": 0,
+    "value": "অপশন"
+  },
+  "pdd.share.scan": {
+    "type": 0,
+    "value": "এখনই স্ক্যান করুন \u003e\u003e\u003e"
+  },
+  "pdd.share.whatsapp": {
+    "type": 0,
+    "value": "WhatsApp"
+  },
+  "rankActivity.about_to_begin_tip": {
+    "type": 0,
+    "value": "ফিক্সড প্রাইজ পুল লিডারবোর্ড শীঘ্রই শুরু হচ্ছে"
+  },
+  "rankActivity.any_money_can_join": {
+    "type": 0,
+    "value": "যেকোনো বাজি দিলেই লিডারবোর্ডে প্রবেশ করবেন"
+  },
+  "rankActivity.behind_next_rank": {
+    "type": 0,
+    "value": "আগের র‍্যাঙ্ক থেকে ব্যবধান"
+  },
+  "rankActivity.claimable_bonus": {
+    "type": 0,
+    "value": "গ্রহণযোগ্য বোনাস"
+  },
+  "rankActivity.detail_ended_claimed_btn_text": {
+    "type": 0,
+    "value": "ইতিমধ্যে গ্রহণ করা হয়েছে"
+  },
+  "rankActivity.detail_ended_no_rewards_btn_text": {
+    "type": 0,
+    "value": "কোনো পুরস্কার নেই"
+  },
+  "rankActivity.detail_game_area_title": {
+    "type": 0,
+    "value": "প্রযোজ্য গেমসমূহ"
+  },
+  "rankActivity.detail_go_leaderboard": {
+    "type": 0,
+    "value": "লিডারবোর্ডে যান"
+  },
+  "rankActivity.detail_leaderboard_in": {
+    "type": 0,
+    "value": "বেটিং শুরু হতে বাকি"
+  },
+  "rankActivity.detail_primary_btn_text": {
+    "type": 0,
+    "value": "এখনই নিবন্ধন করুন"
+  },
+  "rankActivity.detail_registered_btn_text": {
+    "type": 0,
+    "value": "ড্র শুরু হতে বাকি"
+  },
+  "rankActivity.detail_settled_btn_text": {
+    "type": 0,
+    "value": "গ্রহণ করুন"
+  },
+  "rankActivity.detail_settling_btn_text": {
+    "type": 0,
+    "value": "নিষ্পত্তি চলছে"
+  },
+  "rankActivity.detail_show_more_btn_text": {
+    "type": 0,
+    "value": "সম্পূর্ণ লিডারবোর্ড"
+  },
+  "rankActivity.end_of_list": {
+    "type": 0,
+    "value": "লিডারবোর্ড শেষ হতে বাকি"
+  },
+  "rankActivity.estimated_bonus": {
+    "type": 0,
+    "value": "আনুমানিক বোনাস"
+  },
+  "rankActivity.grand_total": {
+    "type": 0,
+    "value": "মোট জমা"
+  },
+  "rankActivity.keep_first": {
+    "type": 0,
+    "value": "প্রথম স্থান ধরে রাখুন এবং চ্যাম্পিয়ন পুরস্কার জিতুন"
+  },
+  "rankActivity.list.bet": {
+    "type": 0,
+    "value": "বাজি"
+  },
+  "rankActivity.list.bonus": {
+    "type": 0,
+    "value": "বোনাস"
+  },
+  "rankActivity.list.player": {
+    "type": 0,
+    "value": "খেলোয়াড়"
+  },
+  "rankActivity.myself.rank": {
+    "type": 0,
+    "value": "আমার র‍্যাঙ্ক"
+  },
+  "rankActivity.not_ranked": {
+    "type": 0,
+    "value": "র‍্যাঙ্কে নেই"
+  },
+  "rankActivity.only_away_from_top": {
+    "type": 0,
+    "value": "শীর্ষ {rankLimit} এ যেতে আর {money} দরকার"
+  },
+  "rankActivity.outside_scoring_period_tip": {
+    "type": 0,
+    "value": "বর্তমানে করা বাজিগুলো লিডারবোর্ডে গণনা করা হবে না।\nকার্যকর বাজির সময়কাল:"
+  },
+  "rankActivity.primary_btn_text": {
+    "type": 0,
+    "value": "এখনই অংশ নিন"
+  },
+  "rankActivity.prize_pool": {
+    "type": 0,
+    "value": "পুরস্কার পুল"
+  },
+  "rankActivity.registered_btn_text": {
+    "type": 0,
+    "value": "ইতিমধ্যে অংশ নিয়েছেন"
+  },
+  "rankActivity.rules": {
+    "type": 0,
+    "value": "ইভেন্টের নিয়ম"
+  },
+  "rankActivity.settled.view_other_events": {
+    "type": 0,
+    "value": "অন্যান্য ইভেন্ট দেখুন"
+  },
+  "rankActivity.settled.wait_next_round": {
+    "type": 0,
+    "value": "পরবর্তী চক্রের অপেক্ষায়"
+  },
+  "rankActivity.settled_btn_text": {
+    "type": 0,
+    "value": "র‍্যাঙ্ক"
+  },
+  "rankActivity.title": {
+    "type": 0,
+    "value": "লিডারবোর্ড ইভেন্ট"
+  },
+  "rankActivity.to_next_cycle": {
+    "type": 0,
+    "value": "পরবর্তী পর্যায়"
+  },
+  "rankActivity.valid_time": {
+    "type": 0,
+    "value": "বৈধ বাজির সময়কাল"
+  },
+  "rankActivity.view_all_games": {
+    "type": 0,
+    "value": "সব গেম দেখুন"
+  },
+  "rankActivity.warm_up_tip": {
+    "type": 0,
+    "value": "কিউমুলেটিভ প্রাইজ পুল লিডারবোর্ড শীঘ্রই শুরু হচ্ছে"
+  },
+  "recordV2.table.gounlock": {
+    "type": 0,
+    "value": "এখনই আনলক করুন"
+  },
+  "recordV2.table.lock": {
+    "type": 0,
+    "value": "লকড"
+  },
+  "register.quick.code_login": {
+    "type": 0,
+    "value": "কোড"
+  },
+  "register.quick.facebook_login": {
+    "type": 0,
+    "value": "ফেসবুক"
+  },
+  "register.quick.google_login": {
+    "type": 0,
+    "value": "গুগল"
+  },
+  "register.quick.telegram_login": {
+    "type": 0,
+    "value": "টেলিগ্রাম"
+  },
+  "register_bonus.message.bonus": {
+    "type": 0,
+    "value": "বোনাস"
+  },
+  "register_bonus.notify.buttonText": {
+    "type": 0,
+    "value": "কনফার্ম করুন"
+  },
+  "register_bonus.notify.message": {
+    "type": 0,
+    "value": "{reward} বোনাস!"
+  },
+  "register_bonus.notify.title": {
+    "type": 0,
+    "value": "অভিনন্দন! আপনি পেয়েছে"
+  },
+  "register_bonus.reward_message": {
+    "type": 0,
+    "value": "যেকোনো পরিমাণ ডিপোজিট করে {reward} বোনাস আনলক করুন + প্রথম ডিপোজিটে {reward1} পর্যন্ত অতিরিক্ত পান!"
+  },
+  "register_bonus.reward_message1": {
+    "type": 0,
+    "value": "আরও ডিপোজিট করুন এবং {reward} পর্যন্ত পান!"
+  },
+  "rewardCenterV2.maxReward": {
+    "type": 0,
+    "value": "সেরা পুরস্কার"
+  },
+  "rewardCenterV2.tomorrow": {
+    "type": 0,
+    "value": "আগামীকাল"
+  },
+  "reward_dialog.item.title": {
+    "type": 0,
+    "value": "পরস্কার প্রাপ্ত"
+  },
+  "rights_center.instructions_dialog.3.content": {
+    "type": 0,
+    "value": "আপনি ইতিমধ্যে একটি ফ্রি স্পিন ব্যবহার করেছেন এবং বর্তমানে গেম চলছে।\nএই মুহূর্তে আরেকটি ফ্রি স্পিন ব্যবহার করা যাবে না। অনুগ্রহ করে বর্তমান রাউন্ড শেষ হওয়ার পর আবার চেষ্টা করুন।"
+  },
+  "rights_center.mosaic.complete": {
+    "type": 0,
+    "value": "বেটিং সম্পন্ন"
+  },
+  "rights_center.rights_item.mosaic_amount": {
+    "type": 0,
+    "value": "বাজির পরিমাণ:"
+  },
+  "rights_center.rights_item.rebate": {
+    "type": 0,
+    "value": "ক্যাশব্যাক:"
+  },
+  "salesmartly.keywords": {
+    "type": 0,
+    "value": "{ \"es\": \"el apoyo de un gerente de cuenta dedicado para atender el problema\", \"en\": \"the support of a dedicated account manager to address the issue.\", \"bn\": \"অনুগ্রহ করে একজন নির্দিষ্ট গ্রাহক ব্যবস্থাপককে সমস্যা সমাধানে সহায়তার জন্য অনুরোধ করা হচ্ছে\" , \"pt\": \"o apoio de um gerente de conta dedicado para tratar do problema\" }"
+  },
+  "salesmartly.reply": {
+    "type": 0,
+    "value": "{ \"es\": \"el apoyo de un gerente de cuenta dedicado para atender el problema\", \"en\": \"the support of a dedicated account manager to address the issue.\", \"bn\": \"অনুগ্রহ করে একজন নির্দিষ্ট গ্রাহক ব্যবস্থাপককে সমস্যা সমাধানে সহায়তার জন্য অনুরোধ করা হচ্ছে\" , \"pt\": \"o apoio de um gerente de conta dedicado para tratar do problema\" }"
+  },
+  "share.copied.successfully": {
+    "type": 0,
+    "value": "সফলভাবে কপি করা হয়েছে"
+  },
+  "sport.basketball": {
+    "type": 0,
+    "value": ""
+  },
+  "sport.laliga": {
+    "type": 0,
+    "value": ""
+  },
+  "sport.soccer": {
+    "type": 0,
+    "value": ""
+  },
+  "sports.soccer.france.ligue1": {
+    "type": 0,
+    "value": ""
+  },
+  "sports_range.detail.all_limit": {
+    "type": 0,
+    "value": "সকল বাজির ধরন সীমাবদ্ধ।"
+  },
+  "sports_range.detail.bet_form_live": {
+    "type": 0,
+    "value": "লাইভ বেট"
+  },
+  "sports_range.detail.bet_form_pre_match": {
+    "type": 0,
+    "value": "প্রি-ম্যাচ বেট"
+  },
+  "sports_range.detail.bet_type_combo": {
+    "type": 0,
+    "value": "কম্বো বাজি"
+  },
+  "sports_range.detail.bet_type_single": {
+    "type": 0,
+    "value": "একক বাজি"
+  },
+  "sports_range.detail.bet_type_system": {
+    "type": 0,
+    "value": "সিস্টেম বাজি"
+  },
+  "sports_range.detail.limit_bet_form_tips": {
+    "type": 0,
+    "value": "বাজির প্রকার: {condition}"
+  },
+  "sports_range.detail.limit_bet_types_tips": {
+    "type": 0,
+    "value": "বাজির ধরন: {condition}"
+  },
+  "sports_range.detail.limit_tips": {
+    "type": 0,
+    "value": "বোনাসের যোগ্যতা:{condition}"
+  },
+  "sports_range.detail.no_limit": {
+    "type": 0,
+    "value": "কোনো শর্ত নেই"
+  },
+  "sports_range.detail.odds": {
+    "type": 0,
+    "value": "অডস সীমা"
+  },
+  "sports_range.detail.restriction.condition": {
+    "type": 0,
+    "value": "বোনাসের সীমাবদ্ধতা"
+  },
+  "sports_range.detail.title": {
+    "type": 0,
+    "value": "প্রযোজ্য খেলাধুলা"
+  },
+  "sports_range.not_applicable.title": {
+    "type": 0,
+    "value": "অব্যাহতি প্রাপ্ত খেলাধুলা"
+  },
+  "test.lua": {
+    "type": 0,
+    "value": "lua-bn"
+  },
+  "ticket_list.extra_bonus": {
+    "type": 0,
+    "value": "কোনো প্রোমোশন নয় (চ্যানেল বোনাস {bonus} অন্তর্ভুক্ত)"
+  },
+  "verify.email.resend.text": {
+    "type": 0,
+    "value": "যাচাইকরণ ইমেইল পুনরায় পাঠান"
+  },
+  "verify.email.text": {
+    "type": 0,
+    "value": "আপনার ইমেইল যাচাই করুন"
+  },
+  "verify.phone.resend.text": {
+    "type": 0,
+    "value": "যাচাইকরণ কোড পুনরায় পাঠান"
+  },
+  "verify.phone.text": {
+    "type": 0,
+    "value": "আপনার ফোন নম্বর যাচাই করুন"
+  },
+  "vip.signIn.signInGuide_abandonSenior_text1": {
+    "type": 0,
+    "value": "আপনি হারাবেন {text}"
+  },
+  "wallet.recharge.cashier.account": {
+    "type": 0,
+    "value": "অ্যাকাউন্ট"
+  },
+  "wallet.recharge.cashier.first_name": {
+    "type": 0,
+    "value": "নাম"
+  },
+  "wallet.recharge.cashier.instructions": {
+    "type": 0,
+    "value": "অপারেশন নির্দেশনা:"
+  },
+  "wallet.recharge.cashier.last_name": {
+    "type": 0,
+    "value": "পদবি"
+  },
+  "wallet.recharge.cashier.name": {
+    "type": 0,
+    "value": "নাম"
+  },
+  "wallet.recharge.cashier.pay_amount": {
+    "type": 0,
+    "value": "প্রকৃত অর্থপ্রদান"
+  },
+  "wallet.recharge.cashier.remark": {
+    "type": 0,
+    "value": "মন্তব্য"
+  },
+  "wallet.recharge.cashier.tip_remit": {
+    "type": 0,
+    "value": "অনুগ্রহ করে নির্দেশনা অনুযায়ী সঠিকভাবে রেমিট্যান্স তথ্য পূরণ করুন এবং মন্তব্য ঘরে সংশ্লিষ্ট রেফারেন্স কোড লিখুন, অন্যথায় পেমেন্ট গ্রহণ নাও হতে পারে।"
+  },
+  "wallet.recharge.cashier.trans_id": {
+    "type": 0,
+    "value": "লেনদেন আইডি"
+  },
+  "wallet.recharge.cashier.trans_id_placeholder": {
+    "type": 0,
+    "value": "অনুগ্রহ করে লেনদেন আইডি লিখুন"
+  },
+  "wallet.recharge.cashier.walletNo": {
+    "type": 0,
+    "value": "ওয়ালেট নং"
+  },
+  "wallet.type.code_6011": {
+    "type": 0,
+    "value": "ওয়েলকাম বোনাস"
+  },
+  "wallet.type.code_6012": {
+    "type": 0,
+    "value": "৭ দিনের ডিপোজিট বোনাস"
+  }
+}
+;</script>
+</head>
+  <body style="font-size: 16px">
+    <div id="appbox">
+      <div id="app"></div>
+      <div id="app-skeleton">
+        <!-- Mobile Skeleton -->
+          <div class="skeleton-mobile">
+            <div class="skeleton-head">
+              <div
+                class="skeleton-item"
+                style="
+                  width: calc((125 / 375) * 100vw);
+                  height: calc((32 / 375) * 100vw);
+                  margin-left: calc((6 / 375) * 100vw);
+                  border-radius: calc((29 / 375) * 100vw);
+                "
+              ></div>
+              <div class="skeleton-head-right">
+                <div
+                  class="skeleton-item"
+                  style="
+                    width: calc((45 / 375) * 100vw);
+                    height: calc((32 / 375) * 100vw);
+                    margin-left: calc((6 / 375) * 100vw);
+                    border-radius: 5px;
+                  "
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="
+                    width: calc((45 / 375) * 100vw);
+                    height: calc((32 / 375) * 100vw);
+                    margin-left: calc((6 / 375) * 100vw);
+                    border-radius: 5px;
+                  "
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="
+                    width: calc((32 / 375) * 100vw);
+                    height: calc((32 / 375) * 100vw);
+                    margin-left: calc((6 / 375) * 100vw);
+                    border-radius: 50%;
+                  "
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="
+                    width: calc((32 / 375) * 100vw);
+                    height: calc((32 / 375) * 100vw);
+                    margin-left: calc((6 / 375) * 100vw);
+                    border-radius: 5px;
+                  "
+                ></div>
+              </div>
+            </div>
+            <div class="skeleton-padding">
+              <div
+                class="skeleton-item"
+                style="
+                  height: calc((46 / 375) * 100vw);
+                  border-radius: calc((6 / 375) * 100vw);
+                  margin: 0 0 calc((24 / 375) * 100vw);
+                  width: 100%;
+                "
+              ></div>
+              <div
+                class="skeleton-item"
+                style="width: 100%; height: calc((200 / 375) * 100vw); border-radius: calc((5 / 375) * 100vw)"
+              ></div>
+              <div class="menu">
+                <div
+                  class="skeleton-item"
+                  style="
+                    height: calc((49 / 375) * 100vw);
+                    margin-right: calc((6 / 375) * 100vw);
+                    border-radius: calc((5 / 375) * 100vw);
+                  "
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="
+                    height: calc((49 / 375) * 100vw);
+                    margin-right: calc((6 / 375) * 100vw);
+                    border-radius: calc((5 / 375) * 100vw);
+                  "
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="
+                    height: calc((49 / 375) * 100vw);
+                    margin-right: calc((6 / 375) * 100vw);
+                    border-radius: calc((5 / 375) * 100vw);
+                  "
+                ></div>
+              </div>
+              <div class="game-list">
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: calc((147 / 375) * 100vw); border-radius: calc((5 / 375) * 100vw)"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: calc((147 / 375) * 100vw); border-radius: calc((5 / 375) * 100vw)"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: calc((147 / 375) * 100vw); border-radius: calc((5 / 375) * 100vw)"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: calc((147 / 375) * 100vw); border-radius: calc((5 / 375) * 100vw)"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: calc((147 / 375) * 100vw); border-radius: calc((5 / 375) * 100vw)"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: calc((147 / 375) * 100vw); border-radius: calc((5 / 375) * 100vw)"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: calc((147 / 375) * 100vw); border-radius: calc((5 / 375) * 100vw)"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: calc((147 / 375) * 100vw); border-radius: calc((5 / 375) * 100vw)"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: calc((147 / 375) * 100vw); border-radius: calc((5 / 375) * 100vw)"
+                ></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- PC Skeleton -->
+          <div class="skeleton-pc">
+            <div class="navigation">
+              <div>
+                <div class="skeleton-item" style="width: 280px; height: 31px; border-radius: 10px"></div>
+              </div>
+              <div class="navigation-content">
+                <div
+                  class="skeleton-item"
+                  style="width: 186px; height: 31px; border-radius: 50px; margin-right: 10px"
+                ></div>
+                <div class="navigation-contetn-right">
+                  <div
+                    class="skeleton-item"
+                    style="width: 90px; height: 31px; border-radius: 10px; margin-right: 10px"
+                  ></div>
+                  <div
+                    class="skeleton-item"
+                    style="width: 90px; height: 31px; border-radius: 10px; margin-right: 10px"
+                  ></div>
+                  <div
+                    class="skeleton-item"
+                    style="width: 90px; height: 31px; border-radius: 10px; margin-right: 10px"
+                  ></div>
+                </div>
+              </div>
+            </div>
+            <div class="main-content">
+              <div class="sidebar">
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: 56px; border-radius: 10px; margin-bottom: 10px"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: 56px; border-radius: 10px; margin-bottom: 10px"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: 56px; border-radius: 10px; margin-bottom: 10px"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: 56px; border-radius: 10px; margin-bottom: 10px"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: 56px; border-radius: 10px; margin-bottom: 10px"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: 56px; border-radius: 10px; margin-bottom: 10px"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: 56px; border-radius: 10px; margin-bottom: 10px"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: 56px; border-radius: 10px; margin-bottom: 10px"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: 56px; border-radius: 10px; margin-bottom: 10px"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: 56px; border-radius: 10px; margin-bottom: 10px"
+                ></div>
+              </div>
+              <div class="main-body">
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; height: 46px; border-radius: 6px; margin-bottom: 15px"
+                ></div>
+                <div
+                  class="skeleton-item"
+                  style="width: 100%; padding: 20px; box-sizing: border-box; height: 251px; border-radius: 6px"
+                ></div>
+                <div class="game-tabs">
+                  <div class="skeleton-item" style="height: 52px; border-radius: 8px; margin: 20px 16px 20px 0"></div>
+                  <div class="skeleton-item" style="height: 52px; border-radius: 8px; margin: 20px 16px 20px 0"></div>
+                  <div class="skeleton-item" style="height: 52px; border-radius: 8px; margin: 20px 16px 20px 0"></div>
+                  <div class="skeleton-item" style="height: 52px; border-radius: 8px; margin: 20px 16px 20px 0"></div>
+                  <div class="skeleton-item" style="height: 52px; border-radius: 8px; margin: 20px 16px 20px 0"></div>
+                  <div class="skeleton-item" style="height: 52px; border-radius: 8px; margin: 20px 16px 20px 0"></div>
+                  <div class="skeleton-item" style="height: 52px; border-radius: 8px; margin: 20px 16px 20px 0"></div>
+                </div>
+                <div class="game-content">
+                  <div class="skeleton-item" style="height: 213px; margin: 5px; border-radius: 10px"></div>
+                  <div class="skeleton-item" style="height: 213px; margin: 5px; border-radius: 10px"></div>
+                  <div class="skeleton-item" style="height: 213px; margin: 5px; border-radius: 10px"></div>
+                  <div class="skeleton-item" style="height: 213px; margin: 5px; border-radius: 10px"></div>
+                  <div class="skeleton-item" style="height: 213px; margin: 5px; border-radius: 10px"></div>
+                  <div class="skeleton-item" style="height: 213px; margin: 5px; border-radius: 10px"></div>
+                  <div class="skeleton-item" style="height: 213px; margin: 5px; border-radius: 10px"></div>
+                  <div class="skeleton-item" style="height: 213px; margin: 5px; border-radius: 10px"></div>
+                  <div class="skeleton-item" style="height: 213px; margin: 5px; border-radius: 10px"></div>
+                  <div class="skeleton-item" style="height: 213px; margin: 5px; border-radius: 10px"></div>
+                  <div class="skeleton-item" style="height: 213px; margin: 5px; border-radius: 10px"></div>
+                  <div class="skeleton-item" style="height: 213px; margin: 5px; border-radius: 10px"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="script-betby"></div>
+    <div id="ton-connect"></div>
+    <!-- App entry (dev mode: Vite handles TS/ESM) -->
+    <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
+    <script nomodule crossorigin id="vite-legacy-polyfill" src="/assets/home-legacy-CBDR_9NV.js"></script>
+    <script nomodule crossorigin id="vite-legacy-entry" data-src="/assets/home-legacy-CqRc-SK6.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"99542063e465453db0381abce4bfb257","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+  <!-- Google Tag Manager (noscript) -->
+
+  
+  <!-- End Google Tag Manager (noscript) -->
+  <!-- Defer third-party scripts to avoid blocking first paint -->
+  <script>
+    // Load third-party scripts after page load
+    window.addEventListener("load", function () {
+      // Delay 1s to ensure first paint completes
+      setTimeout(function () {
+        // Load Microsoft Clarity when clarityKey is configured
+        var clarityKey = "wbxpwyfl6m";
+        if (clarityKey && clarityKey !== "undefined" && clarityKey.trim() !== "") {
+          (function (c, l, a, r, i, t, y) {
+            c[a] =
+              c[a] ||
+              function () {
+                (c[a].q = c[a].q || []).push(arguments);
+              };
+            t = l.createElement(r);
+            t.defer = true;
+            t.src = "https://www.clarity.ms/tag/" + i;
+            y = l.getElementsByTagName(r)[0];
+            y.parentNode.insertBefore(t, y);
+          })(window, document, "clarity", "script", clarityKey);
+        }
+
+        // Load a8r.games connector
+        var connectorScript = document.createElement("script");
+        connectorScript.src = "https://cdn.launcher.a8r.games/connector.js";
+        connectorScript.defer = true;
+        document.body.appendChild(connectorScript);
+
+        // Load Facebook SDK
+        var fbScript = document.createElement("script");
+        fbScript.src = "https://connect.facebook.net/en_US/sdk.js";
+        // fbScript.async = true;
+        fbScript.defer = true;
+        fbScript.crossOrigin = "anonymous";
+        document.body.appendChild(fbScript);
+      }, 1000);
+    });
+  </script>
+  <!-- <script src="https://cdn.jsdelivr.net/npm/eruda"></script>
+  <script>
+    // Initialize Eruda
+    eruda.init();
+  </script> -->
+  <!-- <script src="https://unpkg.com/vconsole@latest/dist/vconsole.min.js"></script>
+  <script>
+    // VConsole will be exported to `window.VConsole` by default.
+    var vConsole = new window.VConsole();
+  </script> -->
+</html>
